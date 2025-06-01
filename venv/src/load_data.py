@@ -4,6 +4,7 @@ import numpy as np
 
 df = pd.read_csv("uniqlo_sales_dataset.csv")
 
+# data processing
 df.head()                               # shows first 5 rows of data
 df.info()                               # displays summary of data types, non-null values and memory usage
 df.describe()                           # gives statistical summaries
@@ -19,3 +20,18 @@ for col in df.columns:
 
 
 df.columns = cleaned_columns            # Assign cleaned column names back to the DataFrame
+
+# data cleaning
+df['sales_date'] = pd.to_datetime(df['sales_date'])
+df['revenue'] = df['price'] * df['units_sold']
+df['discounted_price'] = df['price'] * (1 - df['discount_applied'])
+
+# df = df.drop_duplicates()
+
+duplicates = df.duplicated()
+df_no_duplicates = df.drop_duplicates()             # remove duplicates
+
+df.isnull().sum()
+df.dropna()
+
+df.to_csv("data/uniqlo_sales_cleaned.csv", index=False)
