@@ -34,4 +34,6 @@ df_no_duplicates = df.drop_duplicates()             # remove duplicates
 df.isnull().sum()
 df.dropna()
 
-df.to_csv("data/uniqlo_sales_cleaned.csv", index=False)
+df.to_csv('data/uniqlo_sales_cleaned.csv', index=False)
+
+df = pd.read_csv('uniqlo_sales_cleaned.csv')
