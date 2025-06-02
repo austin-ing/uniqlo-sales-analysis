@@ -3,7 +3,7 @@ import numpy as np
 import csv
 
 
-df = pd.read_csv("uniqlo_sales_dataset.csv")
+df = pd.read_csv("../data/uniqlo_sales_dataset.csv")
 
 # data processing
 df.head()                               # shows first 5 rows of data
@@ -33,8 +33,8 @@ duplicates = df.duplicated()
 df_no_duplicates = df.drop_duplicates()             # remove duplicates
 
 df.isnull().sum()
-df.dropna()
+df = df.dropna()
 
-df.to_csv('data/uniqlo_sales_cleaned.csv', index=False)
+df.to_csv("../data/uniqlo_sales_cleaned.csv", index=False)
 
-df = pd.read_csv('data/uniqlo_sales_cleaned.csv')
+df = pd.read_csv("../data/uniqlo_sales_cleaned.csv")
