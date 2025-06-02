@@ -1,0 +1,201 @@
+Product ID,Product Name,Product Category,Subcategory,Gender,Size,Color,Price,Discount Applied,Units Sold,Sales Date,Store Location,Channel,Season,Inventory Level,Restock Indicator
+P0001,Kids' Ultra Stretch Pants,Outerwear,Ultra Light Down,Men,XS,Beige,126.57,0.1,6,2024-03-13,London Oxford,Online,Spring/Summer,108,Yes
+P0002,AIRism Mask Pack,Accessories,HeatTech,Unisex,S,White,29.2,0.2,12,2024-05-12,Online,Online,Spring/Summer,498,Yes
+P0003,AIRism Mask Pack,Outerwear,Ultra Light Down,Unisex,S,Beige,94.26,0.3,16,2024-04-30,London Oxford,In-Store,Fall/Winter,403,No
+P0004,Men's Ultra Light Down Jacket,Bottoms,HeatTech,Women,L,Gray,116.01,0.2,9,2024-05-23,Online,Online,Fall/Winter,125,Yes
+P0005,Women's Leggings Pants,Accessories,HeatTech,Women,M,White,123.5,0.5,16,2024-05-16,Los Angeles Downtown,In-Store,Spring/Summer,46,Yes
+P0006,Men's HeatTech Long Sleeve,Outerwear,Linen,Men,S,Red,120.12,0.3,6,2024-02-26,London Oxford,In-Store,Fall/Winter,120,Yes
+P0007,Women's Leggings Pants,Accessories,Cotton,Men,XS,Black,92.08,0.5,20,2024-01-06,Online,Online,Spring/Summer,334,Yes
+P0008,Women's Leggings Pants,Bottoms,Linen,Men,M,Gray,60.2,0.3,15,2024-01-01,Los Angeles Downtown,In-Store,Fall/Winter,433,No
+P0009,Kids' Ultra Stretch Pants,T-Shirts,HeatTech,Women,XS,Gray,90.31,0.2,14,2024-04-23,Online,Online,Spring/Summer,295,Yes
+P0010,AIRism Mask Pack,Outerwear,Ultra Light Down,Men,L,Gray,50.98,0.2,18,2024-04-17,Online,Online,Fall/Winter,431,No
+P0011,Men's Ultra Light Down Jacket,T-Shirts,AIRism,Kids,S,Navy,127.87,0.5,5,2024-03-09,New York 5th Ave,In-Store,Fall/Winter,212,No
+P0012,Men's HeatTech Long Sleeve,T-Shirts,AIRism,Unisex,L,Beige,24.9,0.2,20,2024-02-11,New York 5th Ave,In-Store,Fall/Winter,308,No
+P0013,Men's HeatTech Long Sleeve,Accessories,AIRism,Men,XS,Red,65.03,0.2,10,2024-04-15,Los Angeles Downtown,In-Store,Spring/Summer,459,Yes
+P0014,AIRism Mask Pack,Innerwear,HeatTech,Men,L,White,51.34,0.0,6,2024-03-12,Online,Online,Fall/Winter,230,Yes
+P0015,Men's HeatTech Long Sleeve,Innerwear,Linen,Kids,M,Red,17.63,0.0,20,2024-02-04,New York 5th Ave,Online,Spring/Summer,480,No
+P0016,Women's UV Cut Cardigan,Outerwear,Ultra Light Down,Women,L,Beige,33.17,0.3,17,2024-04-12,London Oxford,In-Store,Fall/Winter,175,Yes
+P0017,Unisex Cotton Pants,Bottoms,Cotton,Women,L,Beige,119.42,0.2,11,2024-01-27,Seoul Myeongdong,In-Store,Spring/Summer,259,Yes
+P0018,AIRism Mask Pack,Bottoms,HeatTech,Kids,XXL,White,78.54,0.3,18,2024-02-22,Tokyo Shibuya,In-Store,Fall/Winter,218,No
+P0019,Women's AIRism T-Shirt,Accessories,HeatTech,Kids,S,Navy,69.45,0.5,13,2024-04-03,Seoul Myeongdong,Online,Spring/Summer,381,No
+P0020,Unisex Cotton Pants,Accessories,HeatTech,Women,XS,Black,82.22,0.2,6,2024-01-27,Seoul Myeongdong,In-Store,Spring/Summer,54,Yes
+P0021,Women's Leggings Pants,Accessories,HeatTech,Unisex,XL,Navy,71.72,0.5,15,2024-01-19,Los Angeles Downtown,Online,Fall/Winter,318,Yes
+P0022,Kids' Ultra Stretch Pants,Accessories,UV Cut,Kids,M,Beige,93.63,0.5,6,2024-05-26,New York 5th Ave,In-Store,Spring/Summer,485,Yes
+P0023,Unisex Cotton Pants,Innerwear,Cotton,Kids,M,Black,26.37,0.0,14,2024-03-02,London Oxford,Online,Fall/Winter,247,Yes
+P0024,Men's HeatTech Long Sleeve,Accessories,Ultra Light Down,Men,XXL,White,32.69,0.3,4,2024-03-11,New York 5th Ave,In-Store,Fall/Winter,480,No
+P0025,Kids' Fleece Hoodie,Innerwear,Cotton,Women,XS,Beige,139.84,0.5,1,2024-01-14,London Oxford,Online,Spring/Summer,73,Yes
+P0026,Men's HeatTech Long Sleeve,T-Shirts,Linen,Unisex,S,Black,122.82,0.1,18,2024-03-25,London Oxford,In-Store,Fall/Winter,89,No
+P0027,Men's Ultra Light Down Jacket,Innerwear,Ultra Light Down,Women,XL,White,30.09,0.0,12,2024-02-11,New York 5th Ave,In-Store,Spring/Summer,322,No
+P0028,AIRism Mask Pack,Accessories,AIRism,Women,XXL,Black,149.06,0.1,10,2024-01-18,London Oxford,In-Store,Spring/Summer,204,Yes
+P0029,Kids' Ultra Stretch Pants,Accessories,UV Cut,Men,XS,Red,44.31,0.5,3,2024-05-14,Los Angeles Downtown,In-Store,Spring/Summer,328,Yes
+P0030,Women's Leggings Pants,T-Shirts,AIRism,Men,XL,Black,137.92,0.5,10,2024-04-29,Tokyo Shibuya,In-Store,Fall/Winter,377,No
+P0031,Kids' Ultra Stretch Pants,Bottoms,Linen,Men,XL,Gray,107.65,0.0,1,2024-03-12,Online,Online,Fall/Winter,280,Yes
+P0032,Men's Linen Blend Shirt,Innerwear,Ultra Light Down,Men,L,Navy,130.0,0.2,9,2024-03-11,Online,Online,Fall/Winter,424,Yes
+P0033,Men's HeatTech Long Sleeve,Bottoms,UV Cut,Men,XXL,Red,22.88,0.1,6,2024-04-04,London Oxford,Online,Fall/Winter,302,Yes
+P0034,Women's Leggings Pants,Accessories,Ultra Light Down,Unisex,M,Beige,132.42,0.3,3,2024-02-11,Online,Online,Fall/Winter,20,Yes
+P0035,Men's Ultra Light Down Jacket,T-Shirts,Ultra Light Down,Kids,XL,Navy,38.25,0.3,14,2024-02-22,New York 5th Ave,In-Store,Fall/Winter,486,Yes
+P0036,Women's AIRism T-Shirt,Accessories,Cotton,Men,XS,Gray,99.39,0.3,17,2024-01-22,Tokyo Shibuya,In-Store,Spring/Summer,303,No
+P0037,Women's Leggings Pants,Outerwear,UV Cut,Men,XS,Gray,35.31,0.5,11,2024-02-14,Seoul Myeongdong,In-Store,Spring/Summer,301,No
+P0038,Kids' Fleece Hoodie,Bottoms,AIRism,Unisex,XS,Navy,92.18,0.1,1,2024-04-18,London Oxford,Online,Fall/Winter,188,No
+P0039,AIRism Mask Pack,Innerwear,Ultra Light Down,Women,M,Black,98.57,0.0,1,2024-05-27,New York 5th Ave,Online,Fall/Winter,391,No
+P0040,Kids' Ultra Stretch Pants,Accessories,HeatTech,Women,XXL,Beige,12.89,0.2,18,2024-01-09,Tokyo Shibuya,In-Store,Spring/Summer,139,No
+P0041,Unisex Cotton Pants,T-Shirts,UV Cut,Kids,L,Black,89.0,0.5,19,2024-02-24,Seoul Myeongdong,Online,Fall/Winter,412,Yes
+P0042,Women's AIRism T-Shirt,Bottoms,AIRism,Men,M,Gray,97.16,0.2,15,2024-01-02,Online,Online,Spring/Summer,64,Yes
+P0043,Women's Leggings Pants,Accessories,UV Cut,Kids,XL,Navy,92.91,0.3,4,2024-02-07,Tokyo Shibuya,In-Store,Spring/Summer,40,No
+P0044,Women's UV Cut Cardigan,Bottoms,UV Cut,Men,S,Beige,76.51,0.0,8,2024-03-21,New York 5th Ave,In-Store,Fall/Winter,289,Yes
+P0045,Women's UV Cut Cardigan,Bottoms,Ultra Light Down,Unisex,M,Beige,64.67,0.3,15,2024-02-21,Seoul Myeongdong,Online,Fall/Winter,193,No
+P0046,Men's Ultra Light Down Jacket,Accessories,Ultra Light Down,Unisex,XS,Navy,28.97,0.0,17,2024-04-21,New York 5th Ave,In-Store,Spring/Summer,163,Yes
+P0047,Men's Ultra Light Down Jacket,T-Shirts,Ultra Light Down,Women,XS,Gray,95.47,0.0,9,2024-04-03,London Oxford,Online,Spring/Summer,196,No
+P0048,Unisex Cotton Pants,Accessories,Linen,Kids,S,Gray,69.71,0.2,14,2024-01-25,New York 5th Ave,In-Store,Spring/Summer,418,Yes
+P0049,Women's Leggings Pants,Accessories,Ultra Light Down,Unisex,XL,Red,136.63,0.1,4,2024-01-22,New York 5th Ave,In-Store,Fall/Winter,260,No
+P0050,Kids' Fleece Hoodie,T-Shirts,HeatTech,Women,XXL,Red,96.69,0.2,3,2024-05-14,Los Angeles Downtown,In-Store,Fall/Winter,466,No
+P0051,Women's Leggings Pants,Accessories,Ultra Light Down,Kids,XXL,Navy,100.96,0.2,18,2024-05-24,Seoul Myeongdong,In-Store,Spring/Summer,284,No
+P0052,Unisex Cotton Pants,Accessories,Cotton,Women,XL,Red,37.41,0.2,14,2024-03-15,Tokyo Shibuya,In-Store,Fall/Winter,141,Yes
+P0053,Kids' Ultra Stretch Pants,T-Shirts,Linen,Men,XL,Black,141.1,0.1,5,2024-02-22,London Oxford,In-Store,Spring/Summer,173,Yes
+P0054,Women's AIRism T-Shirt,Outerwear,AIRism,Unisex,XXL,Gray,118.8,0.3,4,2024-05-22,Los Angeles Downtown,Online,Fall/Winter,426,No
+P0055,AIRism Mask Pack,Accessories,Ultra Light Down,Unisex,XL,White,147.42,0.5,12,2024-04-14,Online,Online,Fall/Winter,438,No
+P0056,Women's Leggings Pants,Innerwear,HeatTech,Men,XS,Black,85.91,0.1,18,2024-01-08,London Oxford,Online,Spring/Summer,201,Yes
+P0057,Women's UV Cut Cardigan,Bottoms,HeatTech,Men,XXL,Navy,54.12,0.5,2,2024-02-17,Los Angeles Downtown,In-Store,Fall/Winter,131,No
+P0058,Women's AIRism T-Shirt,Outerwear,AIRism,Kids,M,Red,66.69,0.3,10,2024-04-11,Tokyo Shibuya,Online,Spring/Summer,229,No
+P0059,Men's Linen Blend Shirt,Accessories,UV Cut,Men,XS,Black,12.93,0.0,19,2024-03-06,Tokyo Shibuya,In-Store,Spring/Summer,229,No
+P0060,AIRism Mask Pack,Outerwear,UV Cut,Men,XS,Gray,115.27,0.3,11,2024-05-06,Seoul Myeongdong,In-Store,Fall/Winter,39,No
+P0061,Women's Leggings Pants,Outerwear,UV Cut,Unisex,XS,Gray,80.85,0.2,15,2024-01-13,Seoul Myeongdong,Online,Fall/Winter,357,Yes
+P0062,Men's HeatTech Long Sleeve,Bottoms,Ultra Light Down,Men,M,Gray,31.47,0.3,9,2024-01-20,London Oxford,Online,Fall/Winter,31,Yes
+P0063,Men's Ultra Light Down Jacket,Outerwear,AIRism,Men,M,White,47.26,0.0,2,2024-01-10,London Oxford,In-Store,Spring/Summer,454,Yes
+P0064,Kids' Fleece Hoodie,Innerwear,AIRism,Kids,XXL,White,106.73,0.3,19,2024-03-09,London Oxford,In-Store,Fall/Winter,12,No
+P0065,Women's Leggings Pants,Bottoms,HeatTech,Unisex,XS,Red,118.97,0.0,1,2024-02-05,Seoul Myeongdong,Online,Fall/Winter,215,No
+P0066,Women's UV Cut Cardigan,Outerwear,Cotton,Unisex,M,Gray,51.72,0.0,14,2024-04-16,New York 5th Ave,Online,Spring/Summer,416,Yes
+P0067,Women's UV Cut Cardigan,Outerwear,UV Cut,Men,XXL,Beige,128.74,0.2,13,2024-02-26,London Oxford,Online,Fall/Winter,223,No
+P0068,Unisex Cotton Pants,T-Shirts,UV Cut,Men,S,Red,120.71,0.3,7,2024-01-09,New York 5th Ave,Online,Fall/Winter,238,Yes
+P0069,Women's Leggings Pants,Outerwear,Ultra Light Down,Men,M,Red,60.81,0.5,3,2024-02-05,Los Angeles Downtown,Online,Fall/Winter,344,Yes
+P0070,Unisex Cotton Pants,Bottoms,Cotton,Women,M,Beige,83.26,0.1,17,2024-03-23,Tokyo Shibuya,In-Store,Spring/Summer,457,Yes
+P0071,Kids' Fleece Hoodie,Accessories,AIRism,Unisex,XL,Red,104.32,0.5,15,2024-01-20,Los Angeles Downtown,In-Store,Spring/Summer,165,Yes
+P0072,AIRism Mask Pack,T-Shirts,HeatTech,Men,M,Black,53.24,0.2,15,2024-01-17,Los Angeles Downtown,In-Store,Spring/Summer,93,No
+P0073,Women's AIRism T-Shirt,Outerwear,Linen,Kids,S,Black,137.27,0.2,19,2024-02-04,Tokyo Shibuya,In-Store,Fall/Winter,187,No
+P0074,Unisex Cotton Pants,Bottoms,Ultra Light Down,Men,L,Red,92.05,0.5,20,2024-05-15,Seoul Myeongdong,Online,Spring/Summer,443,No
+P0075,Men's Linen Blend Shirt,T-Shirts,Cotton,Men,XXL,Black,97.28,0.3,6,2024-03-05,New York 5th Ave,Online,Fall/Winter,33,No
+P0076,Women's AIRism T-Shirt,Innerwear,HeatTech,Kids,S,Beige,112.84,0.1,12,2024-04-10,Seoul Myeongdong,Online,Fall/Winter,401,Yes
+P0077,Kids' Fleece Hoodie,Accessories,AIRism,Women,L,Red,96.58,0.5,20,2024-03-15,Tokyo Shibuya,Online,Fall/Winter,282,Yes
+P0078,Kids' Fleece Hoodie,Bottoms,Ultra Light Down,Kids,XL,White,101.65,0.1,3,2024-02-09,Tokyo Shibuya,In-Store,Fall/Winter,493,Yes
+P0079,Men's HeatTech Long Sleeve,Outerwear,AIRism,Women,L,Black,30.65,0.5,7,2024-02-20,London Oxford,Online,Spring/Summer,451,Yes
+P0080,Women's AIRism T-Shirt,T-Shirts,Cotton,Unisex,S,Gray,58.5,0.1,7,2024-01-19,London Oxford,Online,Spring/Summer,79,No
+P0081,Men's Ultra Light Down Jacket,T-Shirts,HeatTech,Kids,XXL,Red,40.77,0.2,13,2024-04-24,Los Angeles Downtown,In-Store,Fall/Winter,455,No
+P0082,Men's Linen Blend Shirt,Bottoms,HeatTech,Kids,M,White,78.24,0.0,5,2024-03-06,Seoul Myeongdong,In-Store,Fall/Winter,466,No
+P0083,Women's Leggings Pants,Outerwear,Ultra Light Down,Unisex,L,Beige,149.53,0.3,12,2024-03-10,Seoul Myeongdong,In-Store,Spring/Summer,3,No
+P0084,Kids' Fleece Hoodie,Innerwear,HeatTech,Women,XL,Black,130.18,0.3,12,2024-02-27,New York 5th Ave,Online,Spring/Summer,456,No
+P0085,Women's AIRism T-Shirt,T-Shirts,Cotton,Kids,XL,White,65.4,0.5,19,2024-03-19,Online,Online,Spring/Summer,304,No
+P0086,Unisex Cotton Pants,Outerwear,AIRism,Women,XS,Black,52.32,0.5,7,2024-05-28,New York 5th Ave,In-Store,Spring/Summer,372,Yes
+P0087,Men's Ultra Light Down Jacket,T-Shirts,Linen,Women,XXL,White,47.96,0.2,14,2024-03-26,London Oxford,Online,Fall/Winter,2,Yes
+P0088,Kids' Ultra Stretch Pants,T-Shirts,UV Cut,Kids,M,Gray,19.06,0.1,9,2024-02-22,Tokyo Shibuya,Online,Spring/Summer,145,No
+P0089,Men's Linen Blend Shirt,Accessories,Cotton,Men,XXL,Navy,125.44,0.3,10,2024-01-29,Online,Online,Fall/Winter,315,Yes
+P0090,Kids' Fleece Hoodie,Accessories,AIRism,Women,S,White,88.75,0.5,5,2024-04-13,Seoul Myeongdong,Online,Fall/Winter,83,No
+P0091,Men's Linen Blend Shirt,Bottoms,AIRism,Men,M,Black,101.44,0.3,15,2024-04-03,London Oxford,Online,Spring/Summer,459,Yes
+P0092,AIRism Mask Pack,T-Shirts,HeatTech,Men,XXL,Navy,117.63,0.2,19,2024-01-29,Online,Online,Fall/Winter,419,No
+P0093,Men's HeatTech Long Sleeve,Innerwear,UV Cut,Men,XS,Navy,104.47,0.1,1,2024-01-01,Seoul Myeongdong,Online,Fall/Winter,347,Yes
+P0094,Unisex Cotton Pants,Accessories,Cotton,Men,M,Red,61.84,0.5,14,2024-04-14,Tokyo Shibuya,Online,Fall/Winter,206,No
+P0095,Unisex Cotton Pants,T-Shirts,HeatTech,Unisex,S,White,58.31,0.3,13,2024-04-15,Online,Online,Fall/Winter,38,Yes
+P0096,Men's Ultra Light Down Jacket,T-Shirts,AIRism,Women,XL,Beige,129.24,0.3,15,2024-01-25,Online,Online,Spring/Summer,319,Yes
+P0097,Kids' Ultra Stretch Pants,Outerwear,Ultra Light Down,Unisex,S,Black,10.35,0.5,15,2024-05-16,Los Angeles Downtown,Online,Spring/Summer,45,Yes
+P0098,Women's Leggings Pants,T-Shirts,HeatTech,Men,L,Gray,144.11,0.5,7,2024-03-06,Seoul Myeongdong,Online,Fall/Winter,319,No
+P0099,AIRism Mask Pack,Accessories,Ultra Light Down,Unisex,XL,White,86.33,0.0,5,2024-01-08,Los Angeles Downtown,Online,Fall/Winter,226,Yes
+P0100,Unisex Cotton Pants,Outerwear,Ultra Light Down,Kids,XL,Gray,62.58,0.2,13,2024-05-24,New York 5th Ave,In-Store,Spring/Summer,135,Yes
+P0101,Kids' Ultra Stretch Pants,Accessories,UV Cut,Women,M,Black,65.97,0.1,14,2024-04-05,Tokyo Shibuya,In-Store,Spring/Summer,434,Yes
+P0102,Men's HeatTech Long Sleeve,Innerwear,Ultra Light Down,Women,M,Black,18.42,0.0,19,2024-05-18,Los Angeles Downtown,Online,Fall/Winter,468,Yes
+P0103,Unisex Cotton Pants,T-Shirts,Ultra Light Down,Unisex,XL,Red,12.66,0.2,10,2024-02-04,Seoul Myeongdong,Online,Spring/Summer,148,No
+P0104,AIRism Mask Pack,Accessories,Linen,Kids,XL,Red,84.92,0.2,13,2024-04-15,Los Angeles Downtown,Online,Spring/Summer,276,Yes
+P0105,Men's Ultra Light Down Jacket,Outerwear,HeatTech,Women,XL,Red,23.7,0.0,8,2024-03-31,Los Angeles Downtown,Online,Spring/Summer,75,Yes
+P0106,Men's Linen Blend Shirt,T-Shirts,AIRism,Unisex,XS,Gray,147.34,0.0,3,2024-03-12,New York 5th Ave,In-Store,Spring/Summer,245,Yes
+P0107,Kids' Fleece Hoodie,Innerwear,Cotton,Women,XXL,Beige,30.11,0.3,8,2024-03-06,Tokyo Shibuya,In-Store,Spring/Summer,251,Yes
+P0108,Kids' Ultra Stretch Pants,T-Shirts,UV Cut,Kids,XXL,Black,85.46,0.1,14,2024-03-26,Los Angeles Downtown,In-Store,Fall/Winter,149,No
+P0109,AIRism Mask Pack,Accessories,AIRism,Unisex,L,Black,65.95,0.0,4,2024-01-18,London Oxford,In-Store,Spring/Summer,78,Yes
+P0110,Women's AIRism T-Shirt,Innerwear,AIRism,Unisex,XL,Beige,112.33,0.3,8,2024-03-06,Seoul Myeongdong,In-Store,Spring/Summer,323,No
+P0111,Men's HeatTech Long Sleeve,Innerwear,Linen,Unisex,S,Black,66.57,0.3,18,2024-04-18,Tokyo Shibuya,Online,Fall/Winter,171,No
+P0112,AIRism Mask Pack,Outerwear,Linen,Unisex,XS,Red,140.42,0.2,7,2024-01-07,Los Angeles Downtown,In-Store,Fall/Winter,490,No
+P0113,Unisex Cotton Pants,Outerwear,UV Cut,Kids,L,Navy,137.35,0.5,5,2024-03-21,Tokyo Shibuya,In-Store,Spring/Summer,481,Yes
+P0114,Kids' Ultra Stretch Pants,Accessories,Cotton,Women,XS,Black,145.36,0.3,15,2024-03-11,Los Angeles Downtown,In-Store,Spring/Summer,18,No
+P0115,Unisex Cotton Pants,Outerwear,UV Cut,Men,XS,Beige,88.51,0.5,3,2024-03-06,Tokyo Shibuya,Online,Spring/Summer,253,Yes
+P0116,Men's Linen Blend Shirt,Bottoms,Ultra Light Down,Men,M,Red,134.45,0.3,15,2024-05-07,New York 5th Ave,In-Store,Spring/Summer,75,No
+P0117,Unisex Cotton Pants,Bottoms,HeatTech,Kids,S,Gray,132.01,0.5,8,2024-01-29,London Oxford,Online,Spring/Summer,351,Yes
+P0118,Kids' Ultra Stretch Pants,Innerwear,Linen,Women,XS,Gray,47.17,0.3,2,2024-04-12,Online,Online,Fall/Winter,80,No
+P0119,Men's Ultra Light Down Jacket,Innerwear,HeatTech,Kids,XL,Navy,36.05,0.2,19,2024-01-06,Tokyo Shibuya,Online,Spring/Summer,276,No
+P0120,Women's UV Cut Cardigan,Outerwear,Cotton,Women,XL,Beige,49.71,0.3,11,2024-01-24,Los Angeles Downtown,In-Store,Fall/Winter,374,No
+P0121,Men's HeatTech Long Sleeve,Innerwear,Cotton,Women,S,White,13.48,0.0,20,2024-01-08,Online,Online,Fall/Winter,437,Yes
+P0122,AIRism Mask Pack,Outerwear,AIRism,Unisex,XXL,Navy,134.28,0.2,7,2024-05-26,Online,Online,Fall/Winter,213,No
+P0123,Women's Leggings Pants,Accessories,AIRism,Women,XS,Black,44.13,0.1,5,2024-02-03,Los Angeles Downtown,In-Store,Spring/Summer,212,Yes
+P0124,Kids' Ultra Stretch Pants,Bottoms,Ultra Light Down,Men,XXL,Gray,134.7,0.2,14,2024-03-20,New York 5th Ave,Online,Spring/Summer,424,No
+P0125,Women's Leggings Pants,Accessories,AIRism,Unisex,XXL,Beige,106.59,0.2,1,2024-01-13,Los Angeles Downtown,Online,Spring/Summer,287,Yes
+P0126,Men's HeatTech Long Sleeve,Innerwear,Ultra Light Down,Men,S,Beige,64.48,0.5,19,2024-02-13,Los Angeles Downtown,Online,Fall/Winter,117,No
+P0127,Women's AIRism T-Shirt,Accessories,UV Cut,Unisex,S,Red,112.92,0.3,13,2024-05-03,London Oxford,Online,Fall/Winter,453,Yes
+P0128,Unisex Cotton Pants,Outerwear,Linen,Kids,L,Gray,148.45,0.5,7,2024-03-19,New York 5th Ave,Online,Spring/Summer,245,Yes
+P0129,Kids' Fleece Hoodie,Bottoms,Ultra Light Down,Women,S,Beige,54.3,0.0,16,2024-04-01,New York 5th Ave,Online,Spring/Summer,267,Yes
+P0130,Men's Linen Blend Shirt,T-Shirts,Linen,Women,XL,White,21.92,0.5,20,2024-05-18,Los Angeles Downtown,Online,Spring/Summer,110,No
+P0131,Unisex Cotton Pants,Accessories,UV Cut,Women,L,Red,95.99,0.5,9,2024-02-11,Seoul Myeongdong,Online,Spring/Summer,102,No
+P0132,Men's Ultra Light Down Jacket,T-Shirts,UV Cut,Women,M,White,114.68,0.0,1,2024-05-11,Online,Online,Spring/Summer,486,Yes
+P0133,Men's Ultra Light Down Jacket,Outerwear,Ultra Light Down,Men,XS,Beige,109.41,0.5,15,2024-02-23,New York 5th Ave,In-Store,Fall/Winter,98,No
+P0134,Women's AIRism T-Shirt,Innerwear,AIRism,Men,XS,Black,42.04,0.2,17,2024-01-27,New York 5th Ave,In-Store,Spring/Summer,144,No
+P0135,Men's Linen Blend Shirt,T-Shirts,AIRism,Kids,XL,Red,126.45,0.5,19,2024-01-12,New York 5th Ave,In-Store,Fall/Winter,244,No
+P0136,Women's Leggings Pants,Outerwear,UV Cut,Women,XXL,Red,85.45,0.2,15,2024-03-20,New York 5th Ave,In-Store,Spring/Summer,137,Yes
+P0137,Unisex Cotton Pants,Innerwear,AIRism,Unisex,XL,Black,53.05,0.5,16,2024-01-18,Online,Online,Fall/Winter,53,No
+P0138,AIRism Mask Pack,T-Shirts,UV Cut,Kids,M,White,13.26,0.3,19,2024-02-27,Tokyo Shibuya,Online,Fall/Winter,373,No
+P0139,Men's Linen Blend Shirt,Bottoms,AIRism,Kids,XL,Gray,122.33,0.1,7,2024-04-25,Seoul Myeongdong,In-Store,Spring/Summer,42,No
+P0140,Women's Leggings Pants,Accessories,Cotton,Men,S,Navy,130.23,0.2,18,2024-04-01,London Oxford,Online,Fall/Winter,15,Yes
+P0141,Women's UV Cut Cardigan,Outerwear,Ultra Light Down,Unisex,S,Black,117.83,0.0,13,2024-02-11,Seoul Myeongdong,In-Store,Spring/Summer,187,No
+P0142,Kids' Ultra Stretch Pants,Outerwear,Ultra Light Down,Men,S,Beige,137.36,0.2,1,2024-05-02,Los Angeles Downtown,Online,Spring/Summer,119,No
+P0143,Men's Ultra Light Down Jacket,Innerwear,HeatTech,Women,L,Navy,109.02,0.1,15,2024-02-04,Tokyo Shibuya,In-Store,Fall/Winter,196,No
+P0144,Kids' Fleece Hoodie,Bottoms,Ultra Light Down,Kids,XXL,Beige,35.25,0.1,17,2024-02-02,Tokyo Shibuya,Online,Fall/Winter,305,No
+P0145,Men's Linen Blend Shirt,T-Shirts,UV Cut,Unisex,XXL,Beige,129.46,0.3,16,2024-03-23,Online,Online,Fall/Winter,81,Yes
+P0146,AIRism Mask Pack,Bottoms,Ultra Light Down,Men,XS,Beige,91.36,0.2,20,2024-01-07,Seoul Myeongdong,Online,Spring/Summer,121,No
+P0147,Men's Ultra Light Down Jacket,T-Shirts,UV Cut,Kids,L,Beige,131.03,0.5,10,2024-03-28,Tokyo Shibuya,In-Store,Fall/Winter,147,Yes
+P0148,Men's Linen Blend Shirt,Bottoms,Linen,Women,XS,Navy,92.23,0.1,14,2024-03-22,Seoul Myeongdong,In-Store,Fall/Winter,429,No
+P0149,AIRism Mask Pack,Outerwear,Cotton,Unisex,M,Navy,19.46,0.5,10,2024-04-03,Seoul Myeongdong,In-Store,Spring/Summer,490,No
+P0150,Women's UV Cut Cardigan,Innerwear,Linen,Men,XL,Red,132.6,0.2,10,2024-02-21,London Oxford,In-Store,Fall/Winter,303,No
+P0151,Women's UV Cut Cardigan,Bottoms,Ultra Light Down,Unisex,S,Black,22.46,0.3,17,2024-04-25,Online,Online,Spring/Summer,18,No
+P0152,Unisex Cotton Pants,T-Shirts,UV Cut,Women,XL,White,45.3,0.5,16,2024-03-18,New York 5th Ave,Online,Spring/Summer,251,Yes
+P0153,AIRism Mask Pack,Accessories,Ultra Light Down,Men,M,Beige,69.45,0.0,18,2024-02-21,New York 5th Ave,Online,Fall/Winter,430,No
+P0154,Kids' Ultra Stretch Pants,T-Shirts,Linen,Men,L,Red,142.04,0.2,19,2024-02-07,New York 5th Ave,Online,Fall/Winter,201,Yes
+P0155,AIRism Mask Pack,Bottoms,AIRism,Men,M,Black,147.23,0.1,15,2024-05-25,Tokyo Shibuya,Online,Fall/Winter,384,No
+P0156,Men's HeatTech Long Sleeve,Innerwear,Cotton,Kids,M,Red,77.59,0.5,5,2024-04-04,London Oxford,In-Store,Spring/Summer,179,No
+P0157,AIRism Mask Pack,Innerwear,UV Cut,Unisex,XL,Navy,37.44,0.0,13,2024-03-16,Seoul Myeongdong,Online,Spring/Summer,407,Yes
+P0158,AIRism Mask Pack,Bottoms,Ultra Light Down,Women,L,Beige,44.63,0.0,18,2024-03-30,Seoul Myeongdong,Online,Fall/Winter,235,Yes
+P0159,Unisex Cotton Pants,Outerwear,Cotton,Women,L,Beige,119.81,0.0,10,2024-01-22,Tokyo Shibuya,In-Store,Spring/Summer,327,Yes
+P0160,Men's HeatTech Long Sleeve,T-Shirts,AIRism,Men,L,Beige,32.13,0.2,20,2024-02-10,Tokyo Shibuya,In-Store,Fall/Winter,21,Yes
+P0161,Men's Ultra Light Down Jacket,T-Shirts,Linen,Women,S,Navy,105.81,0.1,4,2024-04-26,Seoul Myeongdong,Online,Fall/Winter,290,Yes
+P0162,AIRism Mask Pack,Bottoms,Cotton,Women,L,Navy,144.95,0.3,17,2024-02-29,Los Angeles Downtown,Online,Spring/Summer,356,No
+P0163,Unisex Cotton Pants,Bottoms,Linen,Kids,M,Gray,20.35,0.0,7,2024-01-07,Seoul Myeongdong,In-Store,Spring/Summer,333,No
+P0164,Kids' Fleece Hoodie,Bottoms,UV Cut,Women,XL,Beige,62.02,0.0,16,2024-05-14,Los Angeles Downtown,Online,Spring/Summer,135,Yes
+P0165,Women's AIRism T-Shirt,Bottoms,Linen,Unisex,S,Black,77.55,0.3,18,2024-02-20,London Oxford,In-Store,Spring/Summer,364,Yes
+P0166,Men's Linen Blend Shirt,Accessories,Cotton,Kids,L,White,109.47,0.2,20,2024-02-27,Tokyo Shibuya,In-Store,Fall/Winter,52,Yes
+P0167,AIRism Mask Pack,Outerwear,UV Cut,Men,L,Navy,67.3,0.1,4,2024-02-02,Online,Online,Spring/Summer,310,No
+P0168,Kids' Fleece Hoodie,Accessories,Cotton,Unisex,XXL,Red,110.58,0.0,18,2024-04-20,New York 5th Ave,Online,Fall/Winter,289,No
+P0169,Kids' Fleece Hoodie,Outerwear,UV Cut,Women,XL,Black,39.76,0.5,4,2024-04-18,Tokyo Shibuya,In-Store,Spring/Summer,214,Yes
+P0170,AIRism Mask Pack,Innerwear,Linen,Unisex,L,Beige,51.85,0.1,12,2024-02-13,Online,Online,Spring/Summer,10,No
+P0171,Men's Linen Blend Shirt,Innerwear,Linen,Kids,S,Black,76.54,0.1,19,2024-04-18,London Oxford,In-Store,Spring/Summer,432,No
+P0172,Women's UV Cut Cardigan,T-Shirts,Ultra Light Down,Men,XXL,Red,82.25,0.5,17,2024-05-20,London Oxford,In-Store,Fall/Winter,22,Yes
+P0173,AIRism Mask Pack,T-Shirts,HeatTech,Unisex,L,Black,28.49,0.1,16,2024-02-19,Online,Online,Spring/Summer,131,No
+P0174,Men's Linen Blend Shirt,T-Shirts,Linen,Women,S,Red,14.84,0.0,7,2024-02-23,Tokyo Shibuya,Online,Spring/Summer,446,No
+P0175,Men's Linen Blend Shirt,Accessories,Cotton,Kids,XL,Beige,135.23,0.1,6,2024-02-09,Seoul Myeongdong,Online,Spring/Summer,334,Yes
+P0176,Men's HeatTech Long Sleeve,Innerwear,Ultra Light Down,Men,XL,Red,95.41,0.2,18,2024-05-14,Tokyo Shibuya,Online,Spring/Summer,437,No
+P0177,AIRism Mask Pack,Innerwear,Cotton,Kids,XS,White,105.24,0.0,10,2024-05-26,Seoul Myeongdong,In-Store,Spring/Summer,419,No
+P0178,Unisex Cotton Pants,Outerwear,Linen,Men,S,Beige,82.53,0.1,1,2024-05-08,Los Angeles Downtown,Online,Spring/Summer,381,Yes
+P0179,Unisex Cotton Pants,Bottoms,Ultra Light Down,Unisex,XS,Red,96.77,0.5,5,2024-04-12,Online,Online,Fall/Winter,23,No
+P0180,Women's AIRism T-Shirt,Bottoms,Cotton,Men,L,White,31.87,0.0,2,2024-05-21,London Oxford,In-Store,Spring/Summer,190,Yes
+P0181,AIRism Mask Pack,Innerwear,HeatTech,Kids,S,White,71.55,0.5,4,2024-05-23,New York 5th Ave,Online,Spring/Summer,71,No
+P0182,Men's Linen Blend Shirt,T-Shirts,UV Cut,Unisex,XS,Black,134.73,0.1,17,2024-04-28,Online,Online,Fall/Winter,403,No
+P0183,Kids' Fleece Hoodie,Bottoms,Cotton,Women,XXL,Red,85.68,0.2,9,2024-03-10,Online,Online,Fall/Winter,177,No
+P0184,Men's HeatTech Long Sleeve,Outerwear,UV Cut,Men,L,Black,119.8,0.1,20,2024-05-15,London Oxford,Online,Spring/Summer,237,Yes
+P0185,Women's UV Cut Cardigan,Innerwear,Cotton,Men,XL,White,102.15,0.2,1,2024-02-27,Los Angeles Downtown,In-Store,Fall/Winter,314,Yes
+P0186,AIRism Mask Pack,Outerwear,Linen,Men,L,Beige,100.09,0.0,11,2024-03-20,New York 5th Ave,In-Store,Spring/Summer,137,No
+P0187,Kids' Ultra Stretch Pants,Bottoms,UV Cut,Men,XS,Navy,63.66,0.5,10,2024-04-16,Los Angeles Downtown,In-Store,Spring/Summer,99,Yes
+P0188,Women's AIRism T-Shirt,T-Shirts,HeatTech,Kids,XXL,Black,51.15,0.0,10,2024-05-19,New York 5th Ave,Online,Fall/Winter,174,No
+P0189,Men's HeatTech Long Sleeve,Bottoms,AIRism,Unisex,M,White,69.09,0.5,4,2024-03-29,New York 5th Ave,In-Store,Spring/Summer,293,Yes
+P0190,AIRism Mask Pack,Outerwear,UV Cut,Men,XS,Black,46.79,0.2,13,2024-02-08,Online,Online,Spring/Summer,26,Yes
+P0191,Men's HeatTech Long Sleeve,Outerwear,AIRism,Kids,XS,White,130.96,0.3,1,2024-01-01,Online,Online,Fall/Winter,295,Yes
+P0192,Women's Leggings Pants,T-Shirts,AIRism,Men,XXL,Beige,47.57,0.5,17,2024-03-12,Tokyo Shibuya,Online,Spring/Summer,426,No
+P0193,Men's Linen Blend Shirt,Innerwear,HeatTech,Women,XL,Red,85.47,0.5,5,2024-02-29,Los Angeles Downtown,In-Store,Spring/Summer,457,No
+P0194,AIRism Mask Pack,Outerwear,AIRism,Unisex,L,Beige,13.56,0.5,1,2024-01-30,London Oxford,In-Store,Fall/Winter,453,No
+P0195,Men's Linen Blend Shirt,Accessories,UV Cut,Men,XXL,Red,42.03,0.0,9,2024-05-10,Los Angeles Downtown,Online,Fall/Winter,16,Yes
+P0196,Unisex Cotton Pants,Outerwear,Linen,Unisex,XXL,Black,89.16,0.2,17,2024-01-12,Tokyo Shibuya,Online,Fall/Winter,185,No
+P0197,Women's Leggings Pants,Accessories,Ultra Light Down,Men,XXL,Beige,88.56,0.1,8,2024-04-21,London Oxford,Online,Fall/Winter,325,Yes
+P0198,Kids' Ultra Stretch Pants,Outerwear,UV Cut,Kids,XL,Navy,112.8,0.3,12,2024-02-21,Seoul Myeongdong,In-Store,Fall/Winter,280,Yes
+P0199,Women's UV Cut Cardigan,Innerwear,HeatTech,Unisex,M,Beige,55.65,0.5,19,2024-02-14,Online,Online,Fall/Winter,425,No
+P0200,Unisex Cotton Pants,Accessories,Ultra Light Down,Unisex,XXL,Black,84.27,0.2,5,2024-04-16,Online,Online,Fall/Winter,96,Yes
