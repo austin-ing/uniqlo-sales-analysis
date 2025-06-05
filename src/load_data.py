@@ -3,7 +3,7 @@ import numpy as np
 import csv
 
 
-df = pd.read_csv("../data/uniqlo_sales_dataset.csv")
+df = pd.read_csv("../data/uniqlo_sales_data.csv")
 
 # data processing
 df.head()                               # shows first 5 rows of data
