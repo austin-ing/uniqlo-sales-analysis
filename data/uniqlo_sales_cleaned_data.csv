@@ -1,0 +1,1001 @@
+product_id,product_name,product_category,subcategory,gender,size,color,price,discount_applied,units_sold,sales_date,store_location,channel,season,inventory_level,restock_indicator,revenue,discounted_price
+UQ00001,Leggings Pants,Bottoms,Shorts,Men,XXL,Gray,62.34,18.7,15,2025-02-08,"Houston, TX",Online,Fall,71,No,935.1,-1103.4180000000001
+UQ00002,Linen Shirt,Tops,Blouses,Unisex,XS,Black,93.71,0.0,7,2024-07-18,"Chicago, IL",Online,Summer,82,No,655.9699999999999,93.71
+UQ00003,Cotton Long Sleeve,Tops,T-Shirts,Unisex,XL,Navy,23.9,2.39,11,2024-06-14,"Houston, TX",In-Store,Spring,87,No,262.9,-33.221000000000004
+UQ00004,UV Cut Hat,Accessories,Hats,Unisex,M,Navy,56.62,5.66,8,2025-03-19,"Chicago, IL",Online,Summer,23,No,452.96,-263.8492
+UQ00005,Linen Shirt,Tops,T-Shirts,Unisex,M,White,101.02,30.31,2,2024-09-19,"San Francisco, CA",In-Store,Winter,87,No,202.04,-2960.8961999999997
+UQ00006,Chino Shorts,Bottoms,Skirts,Unisex,L,Beige,126.44,0.0,6,2024-09-08,"Houston, TX",Online,Spring,1,Yes,758.64,126.44
+UQ00007,Hooded Coat,Outerwear,Coats,Women,XL,Beige,35.36,7.07,1,2024-08-30,"New York, NY",In-Store,Spring,75,No,35.36,-214.6352
+UQ00008,Ultra Stretch Jeans,Bottoms,Shorts,Women,XXL,Red,95.53,9.55,12,2024-07-29,"Chicago, IL",Online,Fall,88,No,1146.3600000000001,-816.7815
+UQ00009,Hooded Coat,Outerwear,Parkas,Women,XL,Beige,50.67,15.2,10,2025-03-18,"San Francisco, CA",In-Store,Summer,91,No,506.70000000000005,-719.514
+UQ00010,HeatTech Scarf,Accessories,Scarves,Men,M,Blue,146.23,14.62,15,2024-07-14,"San Francisco, CA",In-Store,Winter,61,No,2193.45,-1991.6525999999997
+UQ00011,Linen Shirt,Tops,Blouses,Women,M,Red,22.58,0.0,19,2025-02-22,"San Francisco, CA",In-Store,Spring,54,No,429.02,22.58
+UQ00012,Leggings Pants,Bottoms,Skirts,Women,L,Navy,147.55,29.51,3,2025-03-19,"Chicago, IL",In-Store,Winter,50,No,442.65000000000003,-4206.650500000001
+UQ00013,Ultra Stretch Jeans,Bottoms,Skirts,Men,XS,Beige,105.14,0.0,9,2025-05-17,"Los Angeles, CA",Online,Winter,38,No,946.26,105.14
+UQ00014,Leggings Pants,Bottoms,Jeans,Men,XXL,White,11.76,3.53,14,2025-01-02,"Houston, TX",In-Store,Fall,8,Yes,164.64,-29.752799999999997
+UQ00015,Hooded Coat,Outerwear,Jackets,Men,S,Navy,12.14,3.64,2,2024-07-08,"Houston, TX",In-Store,Spring,83,No,24.28,-32.049600000000005
+UQ00016,Ultra Stretch Jeans,Bottoms,Jeans,Men,XS,White,43.64,4.36,7,2025-01-20,"San Francisco, CA",Online,Fall,43,No,305.48,-146.6304
+UQ00017,BlockTech Parka,Outerwear,Parkas,Men,L,Gray,79.22,15.84,15,2024-11-15,"Houston, TX",In-Store,Winter,34,No,1188.3,-1175.6248
+UQ00018,Mini Shoulder Bag,Accessories,Bags,Women,S,Black,137.2,27.44,4,2024-06-17,"San Francisco, CA",Online,Summer,49,No,548.8,-3627.5679999999998
+UQ00019,Leggings Pants,Bottoms,Skirts,Men,M,White,102.65,10.27,2,2024-06-16,"New York, NY",Online,Summer,5,Yes,205.3,-951.5655
+UQ00020,AIRism T-Shirt,Tops,T-Shirts,Men,S,White,39.01,11.7,4,2024-07-11,"San Francisco, CA",In-Store,Winter,53,No,156.04,-417.4069999999999
+UQ00021,UV Cut Hat,Accessories,Scarves,Men,XS,Blue,14.28,4.28,18,2024-08-28,"Houston, TX",In-Store,Fall,89,No,257.03999999999996,-46.8384
+UQ00022,Chino Shorts,Bottoms,Skirts,Women,L,Navy,72.87,14.57,10,2024-09-03,"San Francisco, CA",Online,Summer,61,No,728.7,-988.8459
+UQ00023,BlockTech Parka,Outerwear,Coats,Women,M,Navy,139.63,41.89,16,2024-12-18,"Los Angeles, CA",In-Store,Summer,14,Yes,2234.08,-5709.4707
+UQ00024,Leggings Pants,Bottoms,Jeans,Women,L,Black,22.29,0.0,8,2025-01-24,"Los Angeles, CA",In-Store,Spring,84,No,178.32,22.29
+UQ00025,Hooded Coat,Outerwear,Parkas,Unisex,S,White,64.31,0.0,18,2024-06-15,"New York, NY",In-Store,Summer,52,No,1157.58,64.31
+UQ00026,HeatTech Scarf,Accessories,Hats,Women,XS,White,92.05,18.41,13,2025-01-08,"Houston, TX",Online,Winter,40,No,1196.6499999999999,-1602.5905
+UQ00027,Cotton Long Sleeve,Tops,Blouses,Women,XXL,Blue,51.38,0.0,13,2024-08-21,"San Francisco, CA",Online,Summer,64,No,667.94,51.38
+UQ00028,Ultra Light Down Jacket,Outerwear,Jackets,Unisex,S,Beige,12.09,1.21,9,2025-03-10,"San Francisco, CA",In-Store,Fall,87,No,108.81,-2.5388999999999995
+UQ00029,UV Cut Hat,Accessories,Hats,Men,XXL,White,65.18,0.0,8,2025-02-12,"Los Angeles, CA",Online,Spring,87,No,521.44,65.18
+UQ00030,UV Cut Hat,Accessories,Scarves,Women,M,Gray,11.87,3.56,19,2025-03-04,"San Francisco, CA",In-Store,Spring,80,No,225.52999999999997,-30.3872
+UQ00031,Chino Shorts,Bottoms,Skirts,Men,L,Beige,109.49,32.85,3,2025-01-02,"Houston, TX",Online,Spring,32,No,328.46999999999997,-3487.2565
+UQ00032,HeatTech Scarf,Accessories,Scarves,Unisex,XS,Navy,94.73,18.95,10,2024-11-14,"San Francisco, CA",In-Store,Summer,40,No,947.3000000000001,-1700.4035
+UQ00033,UV Cut Hat,Accessories,Hats,Unisex,XXL,White,137.99,13.8,9,2024-08-29,"Houston, TX",Online,Spring,71,No,1241.91,-1766.2720000000002
+UQ00034,Ultra Light Down Jacket,Outerwear,Jackets,Women,XXL,Blue,72.82,21.85,1,2024-11-26,"San Francisco, CA",Online,Winter,47,No,72.82,-1518.297
+UQ00035,Mini Shoulder Bag,Accessories,Scarves,Men,XL,Black,61.81,12.36,5,2025-01-19,"San Francisco, CA",In-Store,Winter,98,No,309.05,-702.1616
+UQ00036,UV Cut Hat,Accessories,Scarves,Women,XL,Navy,92.68,9.27,3,2024-09-21,"New York, NY",Online,Summer,64,No,278.04,-766.4636
+UQ00037,BlockTech Parka,Outerwear,Coats,Men,S,Red,63.51,12.7,15,2025-04-15,"New York, NY",Online,Winter,77,No,952.65,-743.0669999999999
+UQ00038,Ultra Stretch Jeans,Bottoms,Shorts,Men,XL,Black,128.75,12.88,5,2025-05-08,"San Francisco, CA",In-Store,Winter,89,No,643.75,-1529.5500000000002
+UQ00039,UV Cut Hat,Accessories,Bags,Unisex,M,Navy,42.94,12.88,14,2024-06-07,"New York, NY",Online,Winter,26,No,601.16,-510.1272
+UQ00040,BlockTech Parka,Outerwear,Jackets,Unisex,L,Navy,83.08,24.92,15,2025-03-26,"Los Angeles, CA",Online,Summer,89,No,1246.2,-1987.2736
+UQ00041,BlockTech Parka,Outerwear,Coats,Women,S,White,13.46,2.69,13,2025-04-13,"Houston, TX",In-Store,Winter,50,No,174.98000000000002,-22.7474
+UQ00042,Ultra Light Down Jacket,Outerwear,Coats,Women,S,White,14.3,4.29,7,2024-08-06,"San Francisco, CA",Online,Fall,51,No,100.10000000000001,-47.047000000000004
+UQ00043,Leggings Pants,Bottoms,Skirts,Women,XL,Blue,88.76,0.0,4,2025-03-03,"Los Angeles, CA",In-Store,Spring,93,No,355.04,88.76
+UQ00044,Cotton Long Sleeve,Tops,Blouses,Unisex,XXL,Black,29.41,2.94,7,2024-11-16,"Houston, TX",Online,Fall,14,Yes,205.87,-57.0554
+UQ00045,BlockTech Parka,Outerwear,Jackets,Unisex,M,Beige,115.68,11.57,4,2024-10-15,"New York, NY",Online,Spring,12,Yes,462.72,-1222.7376000000002
+UQ00046,Leggings Pants,Bottoms,Skirts,Unisex,S,Gray,20.68,0.0,19,2024-09-20,"Chicago, IL",In-Store,Winter,85,No,392.92,20.68
+UQ00047,UV Cut Hat,Accessories,Hats,Women,XL,Red,133.17,0.0,10,2024-08-04,"Houston, TX",In-Store,Fall,44,No,1331.6999999999998,133.17
+UQ00048,Leggings Pants,Bottoms,Skirts,Unisex,XS,Beige,51.29,10.26,6,2024-08-27,"Los Angeles, CA",Online,Summer,27,No,307.74,-474.9454
+UQ00049,Hooded Coat,Outerwear,Coats,Women,L,Beige,122.41,36.72,12,2025-03-28,"Los Angeles, CA",In-Store,Fall,83,No,1468.92,-4372.4852
+UQ00050,Ultra Stretch Jeans,Bottoms,Jeans,Women,S,Beige,134.86,40.46,11,2024-10-13,"San Francisco, CA",In-Store,Winter,91,No,1483.46,-5321.575600000001
+UQ00051,Linen Shirt,Tops,Shirts,Men,L,White,59.78,17.93,1,2024-07-14,"Houston, TX",Online,Fall,0,Yes,59.78,-1012.0754000000001
+UQ00052,Hooded Coat,Outerwear,Jackets,Women,XL,Black,41.81,8.36,20,2024-07-11,"Los Angeles, CA",In-Store,Spring,76,No,836.2,-307.72159999999997
+UQ00053,Cotton Long Sleeve,Tops,Blouses,Men,L,Black,130.4,26.08,7,2024-10-30,"Chicago, IL",Online,Fall,69,No,912.8000000000001,-3270.432
+UQ00054,Leggings Pants,Bottoms,Skirts,Women,S,Beige,81.4,8.14,9,2024-07-12,"Los Angeles, CA",In-Store,Fall,61,No,732.6,-581.1960000000001
+UQ00055,Cotton Long Sleeve,Tops,T-Shirts,Women,L,Navy,41.0,0.0,19,2024-10-22,"Los Angeles, CA",Online,Winter,43,No,779.0,41.0
+UQ00056,UV Cut Hat,Accessories,Hats,Men,M,Black,44.08,13.22,9,2025-04-30,"Chicago, IL",Online,Summer,51,No,396.71999999999997,-538.6576
+UQ00057,Chino Shorts,Bottoms,Jeans,Women,XXL,Black,60.81,12.16,17,2024-10-16,"Houston, TX",In-Store,Summer,57,No,1033.77,-678.6396000000001
+UQ00058,Cotton Long Sleeve,Tops,Blouses,Men,XL,Black,144.64,28.93,7,2025-01-25,"Houston, TX",In-Store,Winter,1,Yes,1012.4799999999999,-4039.7951999999996
+UQ00059,Cotton Long Sleeve,Tops,Shirts,Unisex,XL,Navy,109.62,10.96,5,2024-09-15,"Chicago, IL",Online,Fall,55,No,548.1,-1091.8152000000002
+UQ00060,UV Cut Hat,Accessories,Scarves,Men,L,Blue,15.06,3.01,17,2025-04-14,"Chicago, IL",Online,Winter,1,Yes,256.02,-30.270599999999998
+UQ00061,AIRism T-Shirt,Tops,Shirts,Unisex,XXL,White,80.28,24.08,5,2024-06-21,"Chicago, IL",Online,Winter,95,No,401.4,-1852.8624
+UQ00062,Linen Shirt,Tops,Shirts,Men,S,Red,137.06,0.0,19,2025-03-15,"New York, NY",In-Store,Spring,1,Yes,2604.14,137.06
+UQ00063,Cotton Long Sleeve,Tops,Blouses,Men,XXL,Gray,84.23,25.27,6,2024-11-30,"Houston, TX",Online,Summer,31,No,505.38,-2044.2621000000001
+UQ00064,Cotton Long Sleeve,Tops,T-Shirts,Men,M,Blue,92.88,9.29,11,2024-12-30,"Houston, TX",Online,Summer,55,No,1021.68,-769.9751999999999
+UQ00065,AIRism T-Shirt,Tops,Blouses,Unisex,L,White,43.17,0.0,6,2024-07-23,"Chicago, IL",Online,Winter,23,No,259.02,43.17
+UQ00066,Leggings Pants,Bottoms,Skirts,Unisex,XL,White,75.74,7.57,2,2025-05-29,"Houston, TX",Online,Spring,69,No,151.48,-497.61179999999996
+UQ00067,BlockTech Parka,Outerwear,Parkas,Women,S,Blue,65.74,0.0,16,2024-10-30,"San Francisco, CA",Online,Winter,15,Yes,1051.84,65.74
+UQ00068,AIRism T-Shirt,Tops,Blouses,Men,M,Navy,126.84,12.68,6,2024-07-05,"Chicago, IL",In-Store,Fall,79,No,761.04,-1481.4912
+UQ00069,Ultra Stretch Jeans,Bottoms,Skirts,Men,XS,Beige,15.61,4.68,20,2025-01-05,"San Francisco, CA",Online,Winter,58,No,312.2,-57.444799999999994
+UQ00070,Leggings Pants,Bottoms,Skirts,Women,XXL,White,40.73,0.0,3,2024-09-26,"Chicago, IL",In-Store,Spring,18,Yes,122.19,40.73
+UQ00071,Mini Shoulder Bag,Accessories,Hats,Men,XS,Beige,58.71,0.0,7,2025-04-23,"Los Angeles, CA",Online,Summer,51,No,410.97,58.71
+UQ00072,Ultra Light Down Jacket,Outerwear,Jackets,Men,XL,Beige,141.57,28.31,8,2025-02-04,"Houston, TX",In-Store,Fall,38,No,1132.56,-3866.2766999999994
+UQ00073,BlockTech Parka,Outerwear,Jackets,Unisex,XL,Beige,141.04,14.1,1,2025-01-31,"San Francisco, CA",Online,Spring,10,Yes,141.04,-1847.6239999999998
+UQ00074,UV Cut Hat,Accessories,Bags,Unisex,XL,Black,57.65,11.53,18,2025-05-14,"New York, NY",In-Store,Fall,22,No,1037.7,-607.0545
+UQ00075,Ultra Stretch Jeans,Bottoms,Skirts,Men,M,Red,85.7,25.71,10,2025-05-05,"New York, NY",In-Store,Fall,98,No,857.0,-2117.647
+UQ00076,Cotton Long Sleeve,Tops,T-Shirts,Women,L,Red,41.9,12.57,16,2024-10-23,"San Francisco, CA",In-Store,Summer,89,No,670.4,-484.783
+UQ00077,Hooded Coat,Outerwear,Jackets,Unisex,XL,Beige,147.4,29.48,20,2025-01-15,"Chicago, IL",In-Store,Spring,59,No,2948.0,-4197.952
+UQ00078,UV Cut Hat,Accessories,Hats,Women,M,Gray,46.42,0.0,1,2024-08-18,"Los Angeles, CA",Online,Summer,47,No,46.42,46.42
+UQ00079,Hooded Coat,Outerwear,Parkas,Women,L,Gray,145.06,14.51,5,2025-03-05,"Houston, TX",In-Store,Summer,36,No,725.3,-1959.7606
+UQ00080,Chino Shorts,Bottoms,Jeans,Men,XS,White,133.47,0.0,9,2024-07-02,"Houston, TX",Online,Winter,98,No,1201.23,133.47
+UQ00081,Leggings Pants,Bottoms,Skirts,Men,XXL,Navy,107.95,21.59,16,2024-06-22,"Chicago, IL",In-Store,Winter,2,Yes,1727.2,-2222.6905
+UQ00082,Hooded Coat,Outerwear,Coats,Unisex,S,White,129.79,25.96,1,2025-02-16,"Los Angeles, CA",In-Store,Spring,23,No,129.79,-3239.5584
+UQ00083,HeatTech Scarf,Accessories,Hats,Men,XL,Blue,129.03,38.71,17,2024-09-01,"New York, NY",Online,Spring,71,No,2193.51,-4865.7213
+UQ00084,Leggings Pants,Bottoms,Jeans,Men,XS,White,119.85,11.98,8,2025-04-01,"Los Angeles, CA",In-Store,Spring,83,No,958.8,-1315.953
+UQ00085,AIRism T-Shirt,Tops,Blouses,Men,L,Black,91.2,9.12,16,2024-09-25,"Los Angeles, CA",Online,Winter,88,No,1459.2,-740.544
+UQ00086,Leggings Pants,Bottoms,Shorts,Men,S,White,102.79,0.0,18,2024-07-05,"Los Angeles, CA",Online,Winter,81,No,1850.22,102.79
+UQ00087,Hooded Coat,Outerwear,Parkas,Unisex,XL,Black,77.89,23.37,3,2025-05-03,"New York, NY",Online,Summer,79,No,233.67000000000002,-1742.3993
+UQ00088,BlockTech Parka,Outerwear,Jackets,Women,XS,Gray,149.12,14.91,4,2024-09-03,"Los Angeles, CA",In-Store,Spring,32,No,596.48,-2074.2592
+UQ00089,Ultra Light Down Jacket,Outerwear,Coats,Men,S,Blue,12.43,3.73,14,2025-05-07,"Houston, TX",Online,Winter,20,No,174.01999999999998,-33.9339
+UQ00090,Chino Shorts,Bottoms,Shorts,Unisex,XL,Beige,34.94,10.48,8,2024-07-14,"New York, NY",Online,Winter,6,Yes,279.52,-331.2312
+UQ00091,Ultra Light Down Jacket,Outerwear,Jackets,Women,M,Red,110.83,0.0,1,2024-10-30,"San Francisco, CA",In-Store,Spring,47,No,110.83,110.83
+UQ00092,Hooded Coat,Outerwear,Parkas,Women,XXL,White,23.01,6.9,19,2024-09-20,"New York, NY",In-Store,Fall,85,No,437.19000000000005,-135.75900000000001
+UQ00093,Hooded Coat,Outerwear,Coats,Unisex,XL,Beige,47.03,14.11,14,2024-11-28,"New York, NY",In-Store,Fall,29,No,658.4200000000001,-616.5633
+UQ00094,Linen Shirt,Tops,Blouses,Unisex,XL,Gray,146.12,43.84,13,2025-02-06,"Chicago, IL",Online,Winter,50,No,1899.56,-6259.7808
+UQ00095,Ultra Light Down Jacket,Outerwear,Parkas,Unisex,XS,White,134.79,13.48,2,2025-04-24,"Chicago, IL",Online,Summer,20,No,269.58,-1682.1792
+UQ00096,BlockTech Parka,Outerwear,Coats,Women,L,Beige,80.27,8.03,15,2024-10-24,"Los Angeles, CA",In-Store,Winter,63,No,1204.05,-564.2981
+UQ00097,Linen Shirt,Tops,T-Shirts,Men,XXL,Beige,130.88,13.09,16,2024-08-07,"Los Angeles, CA",In-Store,Winter,18,Yes,2094.08,-1582.3392
+UQ00098,HeatTech Scarf,Accessories,Bags,Men,M,Blue,89.98,26.99,17,2024-10-26,"New York, NY",Online,Fall,16,Yes,1529.66,-2338.5802
+UQ00099,Linen Shirt,Tops,T-Shirts,Men,L,Black,149.14,44.74,14,2024-10-20,"San Francisco, CA",Online,Summer,5,Yes,2087.96,-6523.3836
+UQ00100,Leggings Pants,Bottoms,Jeans,Women,XL,Beige,61.72,0.0,9,2024-08-25,"San Francisco, CA",Online,Spring,36,No,555.48,61.72
+UQ00101,BlockTech Parka,Outerwear,Parkas,Women,S,White,139.86,0.0,17,2025-02-20,"San Francisco, CA",In-Store,Spring,45,No,2377.6200000000003,139.86
+UQ00102,Linen Shirt,Tops,T-Shirts,Women,XXL,White,145.23,0.0,3,2024-09-16,"Los Angeles, CA",Online,Winter,59,No,435.68999999999994,145.23
+UQ00103,Ultra Stretch Jeans,Bottoms,Jeans,Men,L,Beige,129.32,12.93,1,2025-03-04,"Chicago, IL",Online,Fall,66,No,129.32,-1542.7875999999999
+UQ00104,HeatTech Scarf,Accessories,Hats,Men,XL,Blue,33.63,3.36,10,2025-06-03,"New York, NY",Online,Fall,94,No,336.3,-79.3668
+UQ00105,HeatTech Scarf,Accessories,Hats,Men,M,Navy,128.09,12.81,3,2025-02-25,"San Francisco, CA",In-Store,Spring,45,No,384.27,-1512.7429000000002
+UQ00106,Chino Shorts,Bottoms,Skirts,Women,M,Black,23.5,4.7,15,2025-02-11,"San Francisco, CA",In-Store,Fall,85,No,352.5,-86.95
+UQ00107,HeatTech Scarf,Accessories,Scarves,Women,M,Gray,60.11,6.01,10,2024-07-02,"Los Angeles, CA",Online,Spring,1,Yes,601.1,-301.1511
+UQ00108,BlockTech Parka,Outerwear,Coats,Unisex,XS,Gray,55.06,16.52,8,2025-01-27,"New York, NY",In-Store,Winter,32,No,440.48,-854.5312
+UQ00109,Ultra Stretch Jeans,Bottoms,Shorts,Women,XS,Beige,29.03,8.71,16,2025-02-06,"San Francisco, CA",Online,Summer,38,No,464.48,-223.82130000000004
+UQ00110,Chino Shorts,Bottoms,Skirts,Women,L,Black,51.0,5.1,3,2024-08-10,"Houston, TX",Online,Spring,49,No,153.0,-209.1
+UQ00111,UV Cut Hat,Accessories,Hats,Men,L,Gray,131.29,13.13,13,2024-12-29,"Houston, TX",Online,Spring,59,No,1706.77,-1592.5477
+UQ00112,Ultra Light Down Jacket,Outerwear,Coats,Men,M,White,81.49,8.15,4,2025-03-15,"Houston, TX",Online,Summer,44,No,325.96,-582.6535
+UQ00113,HeatTech Scarf,Accessories,Scarves,Unisex,S,White,37.1,3.71,8,2024-09-08,"New York, NY",In-Store,Spring,15,Yes,296.8,-100.541
+UQ00114,Leggings Pants,Bottoms,Shorts,Unisex,L,White,17.01,3.4,19,2024-08-07,"Chicago, IL",Online,Spring,86,No,323.19000000000005,-40.824000000000005
+UQ00115,Leggings Pants,Bottoms,Skirts,Women,L,Gray,13.77,2.75,2,2024-12-01,"New York, NY",In-Store,Fall,65,No,27.54,-24.0975
+UQ00116,Leggings Pants,Bottoms,Shorts,Men,M,Navy,71.29,0.0,19,2024-10-30,"Houston, TX",In-Store,Fall,24,No,1354.5100000000002,71.29
+UQ00117,Mini Shoulder Bag,Accessories,Bags,Men,XXL,White,31.61,9.48,17,2024-09-17,"Chicago, IL",In-Store,Fall,51,No,537.37,-268.0528
+UQ00118,Mini Shoulder Bag,Accessories,Scarves,Men,S,Red,15.34,0.0,15,2025-05-30,"Chicago, IL",Online,Summer,53,No,230.1,15.34
+UQ00119,UV Cut Hat,Accessories,Hats,Women,S,Gray,85.09,17.02,5,2025-02-08,"Los Angeles, CA",In-Store,Summer,96,No,425.45000000000005,-1363.1418
+UQ00120,Ultra Light Down Jacket,Outerwear,Parkas,Unisex,L,Beige,125.8,25.16,12,2025-02-27,"Chicago, IL",Online,Spring,4,Yes,1509.6,-3039.328
+UQ00121,AIRism T-Shirt,Tops,Shirts,Women,L,Black,73.92,14.78,6,2025-01-07,"Houston, TX",Online,Summer,95,No,443.52,-1018.6175999999999
+UQ00122,AIRism T-Shirt,Tops,T-Shirts,Men,L,Black,84.29,0.0,15,2024-08-29,"San Francisco, CA",In-Store,Spring,98,No,1264.3500000000001,84.29
+UQ00123,Chino Shorts,Bottoms,Skirts,Women,XXL,Beige,99.14,9.91,20,2025-02-25,"Los Angeles, CA",In-Store,Winter,15,Yes,1982.8,-883.3374
+UQ00124,Cotton Long Sleeve,Tops,Blouses,Unisex,XL,Red,146.52,14.65,10,2024-10-08,"San Francisco, CA",In-Store,Winter,29,No,1465.2,-1999.9980000000003
+UQ00125,Leggings Pants,Bottoms,Shorts,Men,XS,Beige,15.65,3.13,19,2025-04-28,"Houston, TX",In-Store,Fall,91,No,297.35,-33.3345
+UQ00126,Leggings Pants,Bottoms,Skirts,Unisex,XS,Blue,114.07,11.41,5,2025-03-30,"San Francisco, CA",Online,Spring,89,No,570.3499999999999,-1187.4687
+UQ00127,Hooded Coat,Outerwear,Jackets,Women,XL,Gray,144.67,0.0,9,2025-04-02,"San Francisco, CA",Online,Fall,11,Yes,1302.03,144.67
+UQ00128,Cotton Long Sleeve,Tops,T-Shirts,Unisex,M,Gray,67.15,13.43,1,2024-06-26,"Chicago, IL",In-Store,Winter,33,No,67.15,-834.6745000000001
+UQ00129,Ultra Light Down Jacket,Outerwear,Jackets,Men,XS,White,43.47,4.35,16,2024-09-01,"Los Angeles, CA",Online,Spring,88,No,695.52,-145.62449999999998
+UQ00130,Leggings Pants,Bottoms,Skirts,Men,XL,Gray,102.33,0.0,1,2025-04-20,"Los Angeles, CA",Online,Summer,15,Yes,102.33,102.33
+UQ00131,Ultra Stretch Jeans,Bottoms,Jeans,Men,XL,Gray,82.24,16.45,5,2024-06-17,"Houston, TX",In-Store,Summer,21,No,411.2,-1270.608
+UQ00132,Chino Shorts,Bottoms,Jeans,Women,XS,Navy,112.11,11.21,3,2025-04-13,"New York, NY",In-Store,Winter,75,No,336.33,-1144.6431
+UQ00133,Ultra Light Down Jacket,Outerwear,Coats,Women,M,Blue,89.15,8.92,19,2024-10-05,"Houston, TX",Online,Spring,85,No,1693.8500000000001,-706.068
+UQ00134,Ultra Stretch Jeans,Bottoms,Shorts,Women,XS,Gray,11.92,3.58,14,2024-11-07,"Los Angeles, CA",Online,Winter,91,No,166.88,-30.753600000000002
+UQ00135,HeatTech Scarf,Accessories,Bags,Men,M,Black,16.34,4.9,17,2024-09-16,"Chicago, IL",Online,Fall,93,No,277.78,-63.726000000000006
+UQ00136,Linen Shirt,Tops,Blouses,Women,XS,Navy,129.66,0.0,20,2024-06-30,"New York, NY",In-Store,Fall,68,No,2593.2,129.66
+UQ00137,Cotton Long Sleeve,Tops,T-Shirts,Men,M,White,76.28,0.0,16,2024-08-25,"Chicago, IL",Online,Winter,84,No,1220.48,76.28
+UQ00138,Leggings Pants,Bottoms,Jeans,Men,M,Red,76.19,15.24,1,2025-05-25,"New York, NY",In-Store,Fall,93,No,76.19,-1084.9456
+UQ00139,Chino Shorts,Bottoms,Shorts,Women,XL,Red,100.87,20.17,10,2025-01-11,"Houston, TX",In-Store,Fall,68,No,1008.7,-1933.6779000000004
+UQ00140,Ultra Stretch Jeans,Bottoms,Skirts,Unisex,XS,White,134.04,0.0,20,2025-05-11,"Chicago, IL",Online,Fall,94,No,2680.7999999999997,134.04
+UQ00141,Chino Shorts,Bottoms,Shorts,Women,S,Red,12.04,0.0,19,2025-03-10,"Houston, TX",In-Store,Spring,57,No,228.76,12.04
+UQ00142,AIRism T-Shirt,Tops,T-Shirts,Unisex,L,Beige,80.05,8.01,5,2024-10-05,"Los Angeles, CA",Online,Winter,3,Yes,400.25,-561.1505
+UQ00143,Leggings Pants,Bottoms,Skirts,Unisex,M,Beige,96.12,9.61,16,2024-08-26,"Chicago, IL",Online,Winter,1,Yes,1537.92,-827.5932
+UQ00144,HeatTech Scarf,Accessories,Scarves,Women,XXL,Beige,13.61,4.08,20,2025-02-14,"Chicago, IL",In-Store,Fall,23,No,272.2,-41.9188
+UQ00145,Ultra Stretch Jeans,Bottoms,Jeans,Unisex,XXL,Beige,104.7,31.41,3,2024-12-15,"San Francisco, CA",In-Store,Summer,32,No,314.1,-3183.927
+UQ00146,AIRism T-Shirt,Tops,Blouses,Women,XXL,Blue,74.06,7.41,19,2024-11-05,"Los Angeles, CA",In-Store,Winter,42,No,1407.14,-474.7246
+UQ00147,Chino Shorts,Bottoms,Shorts,Unisex,M,Blue,141.71,14.17,3,2025-05-14,"San Francisco, CA",Online,Winter,64,No,425.13,-1866.3207
+UQ00148,Cotton Long Sleeve,Tops,Shirts,Unisex,M,Red,144.47,0.0,10,2025-05-26,"San Francisco, CA",Online,Spring,42,No,1444.7,144.47
+UQ00149,Leggings Pants,Bottoms,Jeans,Men,S,Beige,37.31,0.0,13,2025-02-09,"Chicago, IL",In-Store,Winter,11,Yes,485.03000000000003,37.31
+UQ00150,Linen Shirt,Tops,Blouses,Men,L,Red,24.01,7.2,2,2024-11-30,"Chicago, IL",In-Store,Spring,34,No,48.02,-148.86200000000002
+UQ00151,Chino Shorts,Bottoms,Skirts,Women,L,Navy,57.02,0.0,8,2024-07-30,"Chicago, IL",Online,Winter,92,No,456.16,57.02
+UQ00152,AIRism T-Shirt,Tops,T-Shirts,Men,XL,Blue,128.18,25.64,2,2024-09-15,"San Francisco, CA",In-Store,Winter,6,Yes,256.36,-3158.3552000000004
+UQ00153,Chino Shorts,Bottoms,Skirts,Men,M,Gray,26.44,2.64,18,2024-07-29,"Houston, TX",In-Store,Fall,74,No,475.92,-43.3616
+UQ00154,Leggings Pants,Bottoms,Jeans,Unisex,M,Navy,132.75,26.55,4,2024-09-08,"Chicago, IL",In-Store,Summer,88,No,531.0,-3391.7625000000003
+UQ00155,Hooded Coat,Outerwear,Coats,Women,L,Red,122.39,24.48,4,2025-03-21,"New York, NY",Online,Summer,9,Yes,489.56,-2873.7172
+UQ00156,Linen Shirt,Tops,T-Shirts,Women,S,Navy,69.19,13.84,3,2025-01-09,"Chicago, IL",In-Store,Summer,48,No,207.57,-888.3996
+UQ00157,Ultra Light Down Jacket,Outerwear,Jackets,Unisex,M,Navy,112.33,0.0,4,2024-12-31,"Houston, TX",Online,Fall,81,No,449.32,112.33
+UQ00158,Chino Shorts,Bottoms,Skirts,Unisex,L,Red,44.9,0.0,5,2024-09-15,"Chicago, IL",Online,Spring,11,Yes,224.5,44.9
+UQ00159,Cotton Long Sleeve,Tops,Shirts,Men,S,Blue,69.96,0.0,13,2025-03-22,"Houston, TX",In-Store,Fall,22,No,909.4799999999999,69.96
+UQ00160,HeatTech Scarf,Accessories,Bags,Unisex,XS,Blue,115.54,34.66,9,2025-01-18,"New York, NY",Online,Fall,29,No,1039.8600000000001,-3889.0764
+UQ00161,Chino Shorts,Bottoms,Skirts,Unisex,XXL,Red,136.26,0.0,20,2024-11-18,"San Francisco, CA",In-Store,Fall,88,No,2725.2,136.26
+UQ00162,Leggings Pants,Bottoms,Shorts,Unisex,XL,Blue,54.71,10.94,19,2025-05-19,"New York, NY",Online,Summer,48,No,1039.49,-543.8174
+UQ00163,AIRism T-Shirt,Tops,T-Shirts,Unisex,XL,White,17.39,3.48,9,2025-01-17,"New York, NY",Online,Spring,18,Yes,156.51,-43.1272
+UQ00164,AIRism T-Shirt,Tops,T-Shirts,Women,L,Navy,22.68,0.0,7,2024-11-07,"Los Angeles, CA",Online,Fall,27,No,158.76,22.68
+UQ00165,Linen Shirt,Tops,Shirts,Unisex,XS,Red,142.91,14.29,20,2024-10-23,"Los Angeles, CA",Online,Summer,82,No,2858.2,-1899.2739
+UQ00166,Cotton Long Sleeve,Tops,Shirts,Men,S,Beige,78.92,15.78,16,2024-08-29,"Chicago, IL",Online,Spring,68,No,1262.72,-1166.4376
+UQ00167,BlockTech Parka,Outerwear,Parkas,Unisex,XL,White,50.95,10.19,20,2024-07-28,"Los Angeles, CA",In-Store,Fall,84,No,1019.0,-468.2305
+UQ00168,Linen Shirt,Tops,T-Shirts,Unisex,XS,Blue,115.23,34.57,16,2024-12-19,"New York, NY",Online,Spring,56,No,1843.68,-3868.2711000000004
+UQ00169,Cotton Long Sleeve,Tops,Blouses,Unisex,S,White,25.79,0.0,10,2024-12-13,"Chicago, IL",Online,Spring,57,No,257.9,25.79
+UQ00170,HeatTech Scarf,Accessories,Scarves,Men,L,Navy,17.96,3.59,5,2024-07-10,"Chicago, IL",In-Store,Spring,34,No,89.80000000000001,-46.5164
+UQ00171,Chino Shorts,Bottoms,Jeans,Women,S,White,134.18,13.42,11,2025-03-25,"Chicago, IL",In-Store,Winter,74,No,1475.98,-1666.5156000000002
+UQ00172,AIRism T-Shirt,Tops,T-Shirts,Women,XL,Navy,26.29,7.89,12,2024-06-23,"Los Angeles, CA",Online,Spring,8,Yes,315.48,-181.13809999999998
+UQ00173,UV Cut Hat,Accessories,Bags,Unisex,M,Beige,116.51,11.65,12,2025-05-05,"Houston, TX",In-Store,Winter,16,Yes,1398.1200000000001,-1240.8315
+UQ00174,Ultra Stretch Jeans,Bottoms,Jeans,Men,M,White,24.06,4.81,7,2024-07-17,"Chicago, IL",In-Store,Fall,45,No,168.42,-91.66859999999998
+UQ00175,BlockTech Parka,Outerwear,Coats,Men,L,Navy,108.04,10.8,10,2024-08-03,"Chicago, IL",Online,Summer,8,Yes,1080.4,-1058.7920000000001
+UQ00176,Hooded Coat,Outerwear,Parkas,Men,M,Red,124.96,0.0,2,2025-02-03,"Houston, TX",In-Store,Fall,4,Yes,249.92,124.96
+UQ00177,Chino Shorts,Bottoms,Shorts,Unisex,XXL,Gray,81.77,16.35,6,2024-08-06,"San Francisco, CA",Online,Spring,82,No,490.62,-1255.1695
+UQ00178,Chino Shorts,Bottoms,Shorts,Unisex,XXL,Beige,91.28,9.13,13,2025-04-08,"New York, NY",Online,Summer,64,No,1186.64,-742.1064000000001
+UQ00179,Ultra Stretch Jeans,Bottoms,Jeans,Unisex,XXL,White,133.15,0.0,17,2025-02-24,"Chicago, IL",Online,Summer,70,No,2263.55,133.15
+UQ00180,HeatTech Scarf,Accessories,Bags,Unisex,XL,White,147.94,29.59,4,2024-11-15,"New York, NY",Online,Winter,35,No,591.76,-4229.6046
+UQ00181,Hooded Coat,Outerwear,Coats,Women,M,Beige,62.58,18.77,19,2025-01-22,"Houston, TX",In-Store,Fall,60,No,1189.02,-1112.0466
+UQ00182,HeatTech Scarf,Accessories,Bags,Unisex,L,Navy,62.82,6.28,7,2024-06-29,"Chicago, IL",Online,Spring,90,No,439.74,-331.68960000000004
+UQ00183,Ultra Light Down Jacket,Outerwear,Parkas,Women,XXL,Gray,44.72,0.0,19,2024-11-01,"Los Angeles, CA",Online,Summer,38,No,849.68,44.72
+UQ00184,Linen Shirt,Tops,Shirts,Unisex,XS,Red,70.72,21.22,13,2024-10-31,"Houston, TX",In-Store,Summer,12,Yes,919.36,-1429.9584
+UQ00185,Chino Shorts,Bottoms,Shorts,Unisex,XL,Blue,66.63,13.33,20,2025-01-22,"San Francisco, CA",In-Store,Spring,91,No,1332.6,-821.5478999999999
+UQ00186,BlockTech Parka,Outerwear,Coats,Women,XL,Red,117.31,11.73,9,2024-12-03,"Chicago, IL",Online,Fall,38,No,1055.79,-1258.7363
+UQ00187,HeatTech Scarf,Accessories,Hats,Women,XS,Gray,114.35,0.0,13,2024-12-27,"Houston, TX",Online,Fall,91,No,1486.55,114.35
+UQ00188,AIRism T-Shirt,Tops,T-Shirts,Women,XS,Beige,144.6,43.38,17,2024-09-10,"Chicago, IL",Online,Fall,24,No,2458.2,-6128.148
+UQ00189,Linen Shirt,Tops,Blouses,Women,L,Gray,131.5,0.0,6,2025-01-05,"Los Angeles, CA",In-Store,Fall,5,Yes,789.0,131.5
+UQ00190,Cotton Long Sleeve,Tops,T-Shirts,Women,XL,White,122.2,24.44,13,2025-05-05,"San Francisco, CA",Online,Summer,31,No,1588.6000000000001,-2864.3680000000004
+UQ00191,UV Cut Hat,Accessories,Hats,Women,L,Navy,87.74,0.0,15,2024-06-09,"Los Angeles, CA",In-Store,Spring,20,No,1316.1,87.74
+UQ00192,UV Cut Hat,Accessories,Scarves,Men,XS,Black,15.98,0.0,11,2025-02-24,"San Francisco, CA",In-Store,Fall,35,No,175.78,15.98
+UQ00193,Cotton Long Sleeve,Tops,Shirts,Women,XXL,Red,87.44,26.23,20,2025-03-11,"Chicago, IL",In-Store,Spring,56,No,1748.8,-2206.1112
+UQ00194,Hooded Coat,Outerwear,Coats,Men,XS,Navy,83.13,16.63,9,2024-07-19,"Los Angeles, CA",Online,Spring,48,No,748.17,-1299.3219
+UQ00195,AIRism T-Shirt,Tops,Shirts,Women,XL,Beige,107.3,21.46,1,2025-02-24,"Chicago, IL",Online,Fall,53,No,107.3,-2195.358
+UQ00196,UV Cut Hat,Accessories,Bags,Unisex,M,Beige,91.7,27.51,16,2025-05-14,"Los Angeles, CA",Online,Summer,86,No,1467.2,-2430.967
+UQ00197,HeatTech Scarf,Accessories,Hats,Men,L,Beige,16.26,4.88,12,2024-12-30,"New York, NY",Online,Summer,73,No,195.12,-63.088800000000006
+UQ00198,Leggings Pants,Bottoms,Shorts,Women,S,Black,142.96,28.59,8,2025-03-23,"Houston, TX",Online,Winter,75,No,1143.68,-3944.2664
+UQ00199,HeatTech Scarf,Accessories,Hats,Unisex,L,Blue,24.85,4.97,8,2024-09-16,"Chicago, IL",Online,Summer,91,No,198.8,-98.6545
+UQ00200,Mini Shoulder Bag,Accessories,Hats,Unisex,M,Black,100.46,20.09,8,2025-03-30,"Houston, TX",Online,Summer,57,No,803.68,-1917.7813999999998
+UQ00201,Chino Shorts,Bottoms,Jeans,Women,XXL,Black,42.02,12.61,5,2025-02-08,"New York, NY",Online,Spring,40,No,210.10000000000002,-487.85220000000004
+UQ00202,Hooded Coat,Outerwear,Coats,Women,S,Gray,46.29,13.89,17,2024-10-15,"San Francisco, CA",Online,Fall,72,No,786.93,-596.6781
+UQ00203,Hooded Coat,Outerwear,Jackets,Women,XL,Beige,53.23,15.97,20,2024-07-18,"New York, NY",In-Store,Spring,76,No,1064.6,-796.8531
+UQ00204,Hooded Coat,Outerwear,Coats,Unisex,M,Black,105.76,31.73,13,2024-09-26,"San Francisco, CA",Online,Fall,45,No,1374.88,-3250.0048
+UQ00205,BlockTech Parka,Outerwear,Coats,Women,S,Gray,20.57,6.17,6,2024-11-20,"Chicago, IL",Online,Spring,81,No,123.42,-106.3469
+UQ00206,Mini Shoulder Bag,Accessories,Hats,Women,XL,Gray,68.23,0.0,5,2024-08-05,"San Francisco, CA",Online,Spring,46,No,341.15000000000003,68.23
+UQ00207,Ultra Stretch Jeans,Bottoms,Skirts,Unisex,S,Black,138.58,13.86,10,2024-11-28,"New York, NY",Online,Summer,55,No,1385.8000000000002,-1782.1388000000002
+UQ00208,Chino Shorts,Bottoms,Jeans,Women,L,Red,132.63,39.79,13,2024-06-06,"San Francisco, CA",In-Store,Fall,4,Yes,1724.19,-5144.7177
+UQ00209,Ultra Stretch Jeans,Bottoms,Shorts,Women,L,Blue,13.59,4.08,1,2025-03-12,"Houston, TX",Online,Fall,64,No,13.59,-41.8572
+UQ00210,AIRism T-Shirt,Tops,Blouses,Unisex,M,Black,77.15,23.14,15,2025-05-11,"New York, NY",In-Store,Summer,48,No,1157.25,-1708.101
+UQ00211,HeatTech Scarf,Accessories,Hats,Men,XL,Navy,62.64,18.79,17,2025-03-11,"Los Angeles, CA",Online,Winter,76,No,1064.88,-1114.3655999999999
+UQ00212,Ultra Stretch Jeans,Bottoms,Skirts,Women,XL,Beige,18.79,3.76,9,2024-09-15,"Chicago, IL",In-Store,Summer,98,No,169.10999999999999,-51.86039999999999
+UQ00213,BlockTech Parka,Outerwear,Jackets,Unisex,XXL,Red,28.64,5.73,16,2024-12-16,"New York, NY",In-Store,Fall,54,No,458.24,-135.46720000000002
+UQ00214,Mini Shoulder Bag,Accessories,Bags,Women,S,Gray,130.96,13.1,17,2025-03-27,"Chicago, IL",Online,Summer,68,No,2226.32,-1584.616
+UQ00215,UV Cut Hat,Accessories,Hats,Unisex,M,White,149.86,0.0,6,2024-08-13,"Los Angeles, CA",Online,Fall,2,Yes,899.1600000000001,149.86
+UQ00216,HeatTech Scarf,Accessories,Scarves,Unisex,XXL,Navy,87.66,26.3,5,2024-12-19,"Houston, TX",In-Store,Spring,52,No,438.29999999999995,-2217.798
+UQ00217,Cotton Long Sleeve,Tops,Blouses,Men,XXL,Navy,142.17,28.43,10,2025-05-25,"San Francisco, CA",Online,Winter,82,No,1421.6999999999998,-3899.7230999999997
+UQ00218,Hooded Coat,Outerwear,Parkas,Women,XXL,Blue,44.53,13.36,14,2024-07-16,"Chicago, IL",Online,Summer,72,No,623.4200000000001,-550.3908
+UQ00219,Hooded Coat,Outerwear,Jackets,Unisex,M,Beige,27.98,0.0,19,2025-05-09,"Chicago, IL",Online,Winter,44,No,531.62,27.98
+UQ00220,Linen Shirt,Tops,Blouses,Men,S,Navy,94.76,18.95,1,2025-02-02,"Houston, TX",Online,Summer,31,No,94.76,-1700.942
+UQ00221,Chino Shorts,Bottoms,Jeans,Women,L,Gray,16.47,1.65,8,2024-09-28,"San Francisco, CA",In-Store,Summer,38,No,131.76,-10.705499999999997
+UQ00222,BlockTech Parka,Outerwear,Parkas,Unisex,XXL,Navy,103.92,31.18,2,2025-04-27,"Houston, TX",In-Store,Summer,53,No,207.84,-3136.3056
+UQ00223,UV Cut Hat,Accessories,Hats,Unisex,S,Black,118.02,35.41,18,2025-02-08,"San Francisco, CA",In-Store,Summer,11,Yes,2124.36,-4061.0681999999993
+UQ00224,AIRism T-Shirt,Tops,Blouses,Unisex,XS,Red,124.19,37.26,12,2024-12-19,"Los Angeles, CA",In-Store,Summer,4,Yes,1490.28,-4503.1294
+UQ00225,UV Cut Hat,Accessories,Scarves,Men,L,Gray,22.28,2.23,17,2025-01-27,"San Francisco, CA",In-Store,Summer,46,No,378.76,-27.404400000000003
+UQ00226,UV Cut Hat,Accessories,Scarves,Women,XXL,Black,68.78,13.76,5,2024-08-21,"Los Angeles, CA",Online,Spring,84,No,343.9,-877.6328
+UQ00227,Ultra Stretch Jeans,Bottoms,Jeans,Unisex,XL,Blue,99.41,9.94,11,2024-08-03,"Chicago, IL",In-Store,Spring,50,No,1093.51,-888.7253999999999
+UQ00228,Ultra Light Down Jacket,Outerwear,Jackets,Women,XXL,Black,136.34,13.63,2,2024-10-28,"San Francisco, CA",In-Store,Spring,37,No,272.68,-1721.9742
+UQ00229,UV Cut Hat,Accessories,Bags,Women,XS,Beige,95.03,9.5,18,2025-03-28,"Houston, TX",Online,Spring,29,No,1710.54,-807.755
+UQ00230,BlockTech Parka,Outerwear,Parkas,Men,M,Gray,87.57,26.27,19,2024-08-06,"New York, NY",In-Store,Fall,62,No,1663.83,-2212.8938999999996
+UQ00231,Ultra Light Down Jacket,Outerwear,Jackets,Unisex,XXL,Gray,111.6,22.32,6,2024-12-31,"Houston, TX",In-Store,Fall,96,No,669.5999999999999,-2379.312
+UQ00232,Linen Shirt,Tops,Shirts,Unisex,XXL,Blue,119.61,0.0,10,2025-04-03,"San Francisco, CA",In-Store,Fall,50,No,1196.1,119.61
+UQ00233,Chino Shorts,Bottoms,Jeans,Women,S,Beige,107.57,0.0,4,2025-05-29,"Houston, TX",Online,Winter,9,Yes,430.28,107.57
+UQ00234,UV Cut Hat,Accessories,Hats,Unisex,XS,White,139.62,41.89,10,2024-12-27,"San Francisco, CA",In-Store,Summer,16,Yes,1396.2,-5709.0618
+UQ00235,Hooded Coat,Outerwear,Parkas,Women,XS,Red,46.05,13.81,5,2025-05-27,"New York, NY",Online,Fall,33,No,230.25,-589.9005
+UQ00236,UV Cut Hat,Accessories,Hats,Unisex,M,Beige,96.81,19.36,2,2024-06-05,"New York, NY",In-Store,Summer,76,No,193.62,-1777.4316
+UQ00237,Leggings Pants,Bottoms,Shorts,Unisex,L,Red,39.18,0.0,11,2025-01-23,"Chicago, IL",In-Store,Winter,74,No,430.98,39.18
+UQ00238,Leggings Pants,Bottoms,Skirts,Men,S,Beige,20.52,2.05,16,2024-10-08,"Los Angeles, CA",In-Store,Fall,94,No,328.32,-21.545999999999996
+UQ00239,Leggings Pants,Bottoms,Skirts,Women,XL,Blue,65.94,13.19,16,2024-12-11,"New York, NY",In-Store,Winter,7,Yes,1055.04,-803.8086
+UQ00240,HeatTech Scarf,Accessories,Bags,Unisex,XL,Navy,35.11,7.02,4,2024-06-12,"New York, NY",Online,Spring,55,No,140.44,-211.36219999999997
+UQ00241,Chino Shorts,Bottoms,Skirts,Women,XL,Red,67.53,0.0,3,2024-07-18,"Chicago, IL",In-Store,Winter,26,No,202.59,67.53
+UQ00242,HeatTech Scarf,Accessories,Hats,Unisex,S,Navy,103.36,31.01,18,2025-05-31,"Los Angeles, CA",In-Store,Winter,60,No,1860.48,-3101.8336
+UQ00243,Leggings Pants,Bottoms,Shorts,Women,L,Red,36.82,3.68,19,2024-10-23,"Chicago, IL",Online,Fall,20,No,699.58,-98.67760000000001
+UQ00244,AIRism T-Shirt,Tops,T-Shirts,Unisex,XXL,Black,33.55,0.0,10,2025-05-12,"Houston, TX",In-Store,Fall,60,No,335.5,33.55
+UQ00245,Mini Shoulder Bag,Accessories,Bags,Unisex,M,Gray,14.35,2.87,6,2025-04-23,"Chicago, IL",Online,Summer,0,Yes,86.1,-26.834500000000002
+UQ00246,Chino Shorts,Bottoms,Jeans,Unisex,XS,Navy,84.72,25.42,12,2025-04-14,"Houston, TX",Online,Winter,89,No,1016.64,-2068.8624
+UQ00247,HeatTech Scarf,Accessories,Bags,Men,XS,Navy,135.09,13.51,17,2024-10-02,"San Francisco, CA",Online,Winter,77,No,2296.53,-1689.9759
+UQ00248,Chino Shorts,Bottoms,Skirts,Women,XXL,Gray,56.11,11.22,9,2024-09-05,"Chicago, IL",In-Store,Fall,25,No,504.99,-573.4442
+UQ00249,Cotton Long Sleeve,Tops,T-Shirts,Men,M,Beige,121.82,36.55,15,2024-06-27,"Los Angeles, CA",Online,Fall,55,No,1827.3,-4330.700999999999
+UQ00250,Leggings Pants,Bottoms,Shorts,Men,L,Red,132.2,13.22,16,2024-09-06,"San Francisco, CA",In-Store,Fall,60,No,2115.2,-1615.484
+UQ00251,Mini Shoulder Bag,Accessories,Hats,Men,L,Red,10.26,3.08,4,2025-05-11,"New York, NY",In-Store,Fall,0,Yes,41.04,-21.3408
+UQ00252,BlockTech Parka,Outerwear,Parkas,Unisex,XS,White,21.73,2.17,3,2025-01-11,"Chicago, IL",Online,Spring,51,No,65.19,-25.4241
+UQ00253,AIRism T-Shirt,Tops,Shirts,Women,L,Beige,39.21,7.84,14,2024-07-05,"Houston, TX",Online,Summer,89,No,548.94,-268.1964
+UQ00254,Leggings Pants,Bottoms,Skirts,Women,XXL,Navy,116.29,11.63,14,2024-07-08,"Chicago, IL",Online,Summer,87,No,1628.0600000000002,-1236.1627
+UQ00255,BlockTech Parka,Outerwear,Coats,Women,XXL,Beige,110.77,11.08,14,2025-03-16,"New York, NY",Online,Summer,58,No,1550.78,-1116.5616
+UQ00256,Cotton Long Sleeve,Tops,Blouses,Women,M,White,45.24,0.0,7,2024-12-10,"Chicago, IL",Online,Winter,2,Yes,316.68,45.24
+UQ00257,Cotton Long Sleeve,Tops,T-Shirts,Women,M,Red,135.23,0.0,14,2025-04-17,"Houston, TX",In-Store,Summer,17,Yes,1893.2199999999998,135.23
+UQ00258,AIRism T-Shirt,Tops,Blouses,Men,L,White,72.54,21.76,3,2024-07-01,"Houston, TX",Online,Winter,14,Yes,217.62,-1505.9304000000002
+UQ00259,Linen Shirt,Tops,Shirts,Women,L,Gray,24.58,4.92,5,2025-03-27,"Los Angeles, CA",Online,Summer,27,No,122.89999999999999,-96.35359999999999
+UQ00260,Cotton Long Sleeve,Tops,Shirts,Men,XS,Black,12.71,2.54,17,2024-12-28,"Los Angeles, CA",Online,Summer,85,No,216.07000000000002,-19.573400000000003
+UQ00261,Hooded Coat,Outerwear,Coats,Women,XS,Beige,55.75,16.72,12,2025-03-29,"Chicago, IL",In-Store,Fall,24,No,669.0,-876.39
+UQ00262,Mini Shoulder Bag,Accessories,Hats,Women,XS,Navy,134.57,26.91,20,2024-07-23,"San Francisco, CA",Online,Winter,24,No,2691.3999999999996,-3486.7086999999997
+UQ00263,BlockTech Parka,Outerwear,Jackets,Unisex,L,Black,104.97,20.99,3,2024-07-24,"San Francisco, CA",In-Store,Spring,17,Yes,314.90999999999997,-2098.3502999999996
+UQ00264,Mini Shoulder Bag,Accessories,Bags,Men,XL,Navy,22.07,0.0,15,2025-02-16,"New York, NY",In-Store,Summer,85,No,331.05,22.07
+UQ00265,Ultra Light Down Jacket,Outerwear,Jackets,Women,S,White,92.06,0.0,8,2024-12-06,"Houston, TX",Online,Fall,39,No,736.48,92.06
+UQ00266,Ultra Stretch Jeans,Bottoms,Jeans,Women,M,White,70.33,0.0,19,2025-01-04,"San Francisco, CA",In-Store,Spring,41,No,1336.27,70.33
+UQ00267,Leggings Pants,Bottoms,Shorts,Unisex,L,Navy,49.63,4.96,6,2024-08-08,"Houston, TX",In-Store,Fall,51,No,297.78000000000003,-196.53480000000002
+UQ00268,Mini Shoulder Bag,Accessories,Scarves,Women,XXL,Gray,100.33,20.07,2,2024-09-15,"Houston, TX",Online,Winter,58,No,200.66,-1913.2931
+UQ00269,Ultra Stretch Jeans,Bottoms,Skirts,Men,M,Gray,59.75,17.93,13,2024-12-26,"New York, NY",In-Store,Spring,69,No,776.75,-1011.5675
+UQ00270,Mini Shoulder Bag,Accessories,Scarves,Men,XXL,Gray,94.71,9.47,1,2025-05-09,"Chicago, IL",Online,Fall,52,No,94.71,-802.1937
+UQ00271,Cotton Long Sleeve,Tops,T-Shirts,Women,M,White,24.15,2.42,6,2025-01-26,"Houston, TX",Online,Summer,69,No,144.89999999999998,-34.293
+UQ00272,Hooded Coat,Outerwear,Jackets,Women,XXL,White,44.33,8.87,4,2024-11-16,"Houston, TX",In-Store,Summer,93,No,177.32,-348.8770999999999
+UQ00273,UV Cut Hat,Accessories,Scarves,Men,L,White,36.02,0.0,9,2024-08-26,"San Francisco, CA",Online,Fall,2,Yes,324.18,36.02
+UQ00274,Hooded Coat,Outerwear,Coats,Unisex,XS,Red,83.33,8.33,8,2025-05-31,"Chicago, IL",Online,Spring,35,No,666.64,-610.8089
+UQ00275,Mini Shoulder Bag,Accessories,Bags,Women,XXL,Blue,149.52,44.86,6,2024-12-31,"Houston, TX",Online,Winter,65,No,897.1200000000001,-6557.9472000000005
+UQ00276,Mini Shoulder Bag,Accessories,Hats,Men,XL,White,90.54,0.0,11,2025-03-25,"Los Angeles, CA",In-Store,Winter,3,Yes,995.94,90.54
+UQ00277,Leggings Pants,Bottoms,Shorts,Men,XS,Navy,10.64,0.0,17,2025-03-15,"Houston, TX",In-Store,Fall,93,No,180.88,10.64
+UQ00278,Chino Shorts,Bottoms,Skirts,Women,XS,White,33.82,0.0,19,2025-02-27,"Houston, TX",In-Store,Winter,61,No,642.58,33.82
+UQ00279,Leggings Pants,Bottoms,Skirts,Women,L,Gray,140.01,28.0,15,2024-08-22,"New York, NY",Online,Spring,74,No,2100.1499999999996,-3780.2699999999995
+UQ00280,Ultra Stretch Jeans,Bottoms,Jeans,Men,L,White,89.93,17.99,19,2025-03-08,"New York, NY",In-Store,Fall,44,No,1708.67,-1527.9107
+UQ00281,Mini Shoulder Bag,Accessories,Scarves,Men,XXL,Red,117.63,35.29,6,2024-10-04,"Houston, TX",Online,Winter,25,No,705.78,-4033.5326999999997
+UQ00282,Chino Shorts,Bottoms,Jeans,Unisex,L,Black,55.22,16.57,19,2024-11-06,"New York, NY",Online,Summer,83,No,1049.18,-859.7754
+UQ00283,Hooded Coat,Outerwear,Coats,Men,XL,Black,80.97,8.1,17,2025-02-20,"Chicago, IL",Online,Summer,11,Yes,1376.49,-574.887
+UQ00284,Hooded Coat,Outerwear,Coats,Women,M,White,25.98,5.2,14,2025-02-12,"Chicago, IL",Online,Summer,63,No,363.72,-109.116
+UQ00285,AIRism T-Shirt,Tops,Shirts,Unisex,XS,Red,22.12,4.42,11,2024-10-28,"Chicago, IL",Online,Fall,99,No,243.32000000000002,-75.6504
+UQ00286,Hooded Coat,Outerwear,Parkas,Unisex,L,Gray,54.79,16.44,3,2024-11-22,"Los Angeles, CA",In-Store,Fall,32,No,164.37,-845.9576000000001
+UQ00287,UV Cut Hat,Accessories,Hats,Women,S,Blue,61.59,0.0,10,2025-05-20,"San Francisco, CA",In-Store,Fall,4,Yes,615.9000000000001,61.59
+UQ00288,Cotton Long Sleeve,Tops,Blouses,Women,XS,Red,18.77,5.63,12,2024-12-23,"Chicago, IL",Online,Fall,1,Yes,225.24,-86.90509999999999
+UQ00289,Ultra Light Down Jacket,Outerwear,Coats,Unisex,S,Red,55.03,5.5,2,2024-11-27,"Houston, TX",Online,Spring,83,No,110.06,-247.635
+UQ00290,UV Cut Hat,Accessories,Hats,Women,XL,Beige,45.55,13.66,5,2024-07-21,"New York, NY",In-Store,Summer,72,No,227.75,-576.663
+UQ00291,UV Cut Hat,Accessories,Scarves,Men,M,Navy,116.33,34.9,11,2024-09-09,"Chicago, IL",Online,Fall,14,Yes,1279.6299999999999,-3943.587
+UQ00292,Chino Shorts,Bottoms,Skirts,Unisex,XS,Blue,75.92,0.0,3,2024-08-31,"Houston, TX",Online,Summer,93,No,227.76,75.92
+UQ00293,Mini Shoulder Bag,Accessories,Bags,Unisex,S,Navy,24.84,7.45,5,2024-06-29,"Chicago, IL",In-Store,Summer,61,No,124.2,-160.218
+UQ00294,BlockTech Parka,Outerwear,Jackets,Men,XXL,Red,114.34,11.43,18,2024-10-14,"Houston, TX",In-Store,Winter,77,No,2058.12,-1192.5662
+UQ00295,Chino Shorts,Bottoms,Jeans,Unisex,L,Gray,140.51,14.05,11,2024-06-13,"New York, NY",Online,Winter,8,Yes,1545.61,-1833.6555
+UQ00296,Ultra Light Down Jacket,Outerwear,Jackets,Men,XS,Navy,38.6,0.0,3,2025-01-19,"Los Angeles, CA",In-Store,Spring,34,No,115.80000000000001,38.6
+UQ00297,Linen Shirt,Tops,Shirts,Women,XL,Beige,139.6,41.88,8,2025-01-06,"Houston, TX",In-Store,Winter,10,Yes,1116.8,-5706.848
+UQ00298,UV Cut Hat,Accessories,Hats,Women,XXL,Beige,121.24,0.0,14,2024-09-02,"San Francisco, CA",In-Store,Spring,59,No,1697.36,121.24
+UQ00299,UV Cut Hat,Accessories,Scarves,Women,XL,Blue,32.81,6.56,5,2025-01-19,"Houston, TX",In-Store,Winter,4,Yes,164.05,-182.4236
+UQ00300,AIRism T-Shirt,Tops,Shirts,Men,L,Beige,42.9,12.87,14,2024-08-29,"Houston, TX",In-Store,Fall,25,No,600.6,-509.22299999999996
+UQ00301,Hooded Coat,Outerwear,Jackets,Women,S,Black,137.0,0.0,13,2024-06-07,"New York, NY",In-Store,Summer,41,No,1781.0,137.0
+UQ00302,AIRism T-Shirt,Tops,T-Shirts,Women,M,White,64.84,12.97,8,2024-07-02,"Chicago, IL",In-Store,Spring,71,No,518.72,-776.1348
+UQ00303,Mini Shoulder Bag,Accessories,Hats,Men,XS,Red,71.38,0.0,14,2025-03-06,"Houston, TX",Online,Winter,31,No,999.3199999999999,71.38
+UQ00304,Leggings Pants,Bottoms,Shorts,Men,M,Red,74.68,7.47,6,2025-02-05,"Chicago, IL",Online,Spring,96,No,448.08000000000004,-483.17960000000005
+UQ00305,Cotton Long Sleeve,Tops,T-Shirts,Unisex,XS,Beige,114.57,11.46,15,2024-06-27,"Chicago, IL",In-Store,Summer,96,No,1718.55,-1198.4022
+UQ00306,AIRism T-Shirt,Tops,Blouses,Women,XXL,Black,42.41,8.48,1,2024-09-01,"San Francisco, CA",Online,Spring,65,No,42.41,-317.22679999999997
+UQ00307,Ultra Stretch Jeans,Bottoms,Skirts,Women,M,Beige,86.0,17.2,8,2024-07-01,"San Francisco, CA",Online,Fall,50,No,688.0,-1393.2
+UQ00308,Leggings Pants,Bottoms,Shorts,Men,XL,Blue,85.9,8.59,6,2025-05-22,"Los Angeles, CA",In-Store,Winter,5,Yes,515.4000000000001,-651.981
+UQ00309,AIRism T-Shirt,Tops,Shirts,Women,M,Navy,56.49,0.0,19,2024-06-17,"Los Angeles, CA",In-Store,Summer,71,No,1073.31,56.49
+UQ00310,Ultra Light Down Jacket,Outerwear,Jackets,Men,L,Gray,107.02,32.11,20,2025-05-04,"Chicago, IL",Online,Spring,14,Yes,2140.4,-3329.3922
+UQ00311,Cotton Long Sleeve,Tops,Shirts,Men,M,Navy,132.91,0.0,1,2024-10-11,"Houston, TX",Online,Spring,93,No,132.91,132.91
+UQ00312,Mini Shoulder Bag,Accessories,Bags,Men,XS,Beige,135.04,27.01,4,2024-07-02,"Los Angeles, CA",In-Store,Spring,28,No,540.16,-3512.3904
+UQ00313,UV Cut Hat,Accessories,Hats,Men,XS,Navy,31.13,3.11,1,2024-12-21,"Chicago, IL",Online,Fall,26,No,31.13,-65.6843
+UQ00314,Ultra Stretch Jeans,Bottoms,Shorts,Men,XS,White,114.05,22.81,4,2024-09-05,"New York, NY",Online,Winter,85,No,456.2,-2487.4305
+UQ00315,UV Cut Hat,Accessories,Bags,Men,M,White,109.87,32.96,5,2024-09-21,"Houston, TX",Online,Spring,73,No,549.35,-3511.4452
+UQ00316,Leggings Pants,Bottoms,Skirts,Unisex,L,Black,57.79,0.0,6,2025-02-19,"San Francisco, CA",Online,Winter,12,Yes,346.74,57.79
+UQ00317,Leggings Pants,Bottoms,Jeans,Women,L,Beige,25.39,0.0,4,2024-12-10,"San Francisco, CA",In-Store,Winter,87,No,101.56,25.39
+UQ00318,AIRism T-Shirt,Tops,Blouses,Women,M,White,94.45,18.89,15,2024-08-27,"Houston, TX",Online,Fall,28,No,1416.75,-1689.7105000000001
+UQ00319,BlockTech Parka,Outerwear,Parkas,Men,XXL,Beige,85.48,0.0,15,2024-12-31,"Los Angeles, CA",In-Store,Spring,67,No,1282.2,85.48
+UQ00320,Cotton Long Sleeve,Tops,Shirts,Women,XL,Red,111.02,22.2,2,2024-07-26,"Houston, TX",Online,Spring,26,No,222.04,-2353.624
+UQ00321,HeatTech Scarf,Accessories,Bags,Unisex,S,White,99.66,29.9,19,2025-03-12,"Chicago, IL",Online,Spring,35,No,1893.54,-2880.174
+UQ00322,Linen Shirt,Tops,Shirts,Unisex,XS,Gray,85.88,17.18,11,2025-06-03,"Chicago, IL",Online,Spring,26,No,944.68,-1389.5384
+UQ00323,Linen Shirt,Tops,T-Shirts,Women,M,Black,58.3,11.66,11,2025-05-13,"Los Angeles, CA",In-Store,Summer,73,No,641.3,-621.478
+UQ00324,Leggings Pants,Bottoms,Skirts,Unisex,XXL,Red,57.85,11.57,6,2025-01-12,"Chicago, IL",Online,Summer,71,No,347.1,-611.4745
+UQ00325,Chino Shorts,Bottoms,Shorts,Women,M,Blue,69.2,0.0,14,2025-01-14,"San Francisco, CA",Online,Winter,11,Yes,968.8000000000001,69.2
+UQ00326,HeatTech Scarf,Accessories,Scarves,Men,M,Beige,137.56,0.0,8,2024-12-05,"New York, NY",Online,Summer,61,No,1100.48,137.56
+UQ00327,Linen Shirt,Tops,Blouses,Women,S,Blue,24.01,7.2,1,2024-09-07,"New York, NY",Online,Fall,59,No,24.01,-148.86200000000002
+UQ00328,Ultra Stretch Jeans,Bottoms,Shorts,Men,M,Gray,92.91,18.58,12,2025-04-05,"Los Angeles, CA",Online,Fall,99,No,1114.92,-1633.3577999999998
+UQ00329,AIRism T-Shirt,Tops,Blouses,Men,S,Gray,138.53,0.0,5,2024-12-05,"Houston, TX",Online,Spring,36,No,692.65,138.53
+UQ00330,HeatTech Scarf,Accessories,Scarves,Unisex,XXL,Blue,108.91,10.89,10,2025-04-14,"Los Angeles, CA",Online,Winter,91,No,1089.1,-1077.1199
+UQ00331,Ultra Light Down Jacket,Outerwear,Coats,Women,L,White,62.32,18.7,9,2024-11-10,"Chicago, IL",In-Store,Winter,50,No,560.88,-1103.0639999999999
+UQ00332,UV Cut Hat,Accessories,Bags,Women,S,Beige,113.0,0.0,8,2024-08-17,"Chicago, IL",Online,Spring,40,No,904.0,113.0
+UQ00333,Chino Shorts,Bottoms,Jeans,Unisex,S,Navy,139.48,13.95,1,2024-07-11,"Los Angeles, CA",Online,Winter,45,No,139.48,-1806.2659999999998
+UQ00334,Linen Shirt,Tops,Shirts,Unisex,XL,Beige,42.93,0.0,14,2024-07-12,"Los Angeles, CA",In-Store,Fall,35,No,601.02,42.93
+UQ00335,Cotton Long Sleeve,Tops,T-Shirts,Unisex,XS,White,27.35,0.0,1,2025-02-15,"New York, NY",In-Store,Fall,62,No,27.35,27.35
+UQ00336,Ultra Light Down Jacket,Outerwear,Coats,Unisex,XL,Beige,53.5,16.05,19,2024-11-19,"Houston, TX",Online,Fall,39,No,1016.5,-805.1750000000001
+UQ00337,Hooded Coat,Outerwear,Jackets,Women,XL,Blue,95.01,19.0,15,2024-10-20,"Chicago, IL",Online,Fall,72,No,1425.15,-1710.18
+UQ00338,Hooded Coat,Outerwear,Jackets,Unisex,L,Beige,114.09,22.82,10,2024-11-16,"San Francisco, CA",In-Store,Summer,51,No,1140.9,-2489.4438
+UQ00339,UV Cut Hat,Accessories,Hats,Unisex,XL,Gray,120.19,36.06,9,2024-11-11,"New York, NY",In-Store,Fall,34,No,1081.71,-4213.8614
+UQ00340,Leggings Pants,Bottoms,Shorts,Women,XS,Red,65.64,6.56,11,2024-12-03,"Los Angeles, CA",Online,Spring,37,No,722.04,-364.9584
+UQ00341,AIRism T-Shirt,Tops,T-Shirts,Women,L,Black,58.39,11.68,18,2025-05-06,"Chicago, IL",In-Store,Fall,90,No,1051.02,-623.6052
+UQ00342,UV Cut Hat,Accessories,Scarves,Women,XL,Red,113.15,33.95,17,2025-03-15,"New York, NY",In-Store,Summer,42,No,1923.5500000000002,-3728.2925000000005
+UQ00343,Ultra Light Down Jacket,Outerwear,Parkas,Men,XL,Gray,14.5,1.45,19,2024-06-26,"New York, NY",In-Store,Summer,53,No,275.5,-6.5249999999999995
+UQ00344,Cotton Long Sleeve,Tops,T-Shirts,Men,XXL,Blue,34.59,0.0,7,2025-02-21,"Los Angeles, CA",In-Store,Fall,51,No,242.13000000000002,34.59
+UQ00345,Ultra Stretch Jeans,Bottoms,Shorts,Unisex,XL,Red,68.55,0.0,1,2025-02-13,"Chicago, IL",Online,Winter,48,No,68.55,68.55
+UQ00346,Linen Shirt,Tops,T-Shirts,Unisex,S,Navy,119.17,0.0,11,2025-02-10,"San Francisco, CA",Online,Summer,21,No,1310.8700000000001,119.17
+UQ00347,Hooded Coat,Outerwear,Jackets,Men,XL,Beige,40.71,0.0,18,2024-07-13,"New York, NY",In-Store,Fall,84,No,732.78,40.71
+UQ00348,HeatTech Scarf,Accessories,Scarves,Women,S,Red,82.02,0.0,17,2024-06-28,"San Francisco, CA",Online,Winter,83,No,1394.34,82.02
+UQ00349,Ultra Light Down Jacket,Outerwear,Jackets,Men,XXL,Gray,74.16,0.0,20,2024-11-08,"Houston, TX",In-Store,Winter,85,No,1483.1999999999998,74.16
+UQ00350,Chino Shorts,Bottoms,Skirts,Men,S,Black,21.85,0.0,8,2025-03-14,"Los Angeles, CA",In-Store,Winter,48,No,174.8,21.85
+UQ00351,Ultra Stretch Jeans,Bottoms,Skirts,Men,XL,Red,51.84,0.0,13,2024-10-14,"New York, NY",Online,Summer,93,No,673.9200000000001,51.84
+UQ00352,BlockTech Parka,Outerwear,Coats,Unisex,S,Black,114.89,22.98,19,2025-04-11,"Los Angeles, CA",In-Store,Summer,61,No,2182.91,-2525.2822
+UQ00353,Cotton Long Sleeve,Tops,T-Shirts,Men,XL,Beige,38.62,3.86,17,2025-05-05,"Chicago, IL",In-Store,Winter,44,No,656.54,-110.45319999999998
+UQ00354,HeatTech Scarf,Accessories,Scarves,Unisex,S,Gray,62.78,6.28,16,2024-07-17,"San Francisco, CA",In-Store,Summer,39,No,1004.48,-331.4784
+UQ00355,Linen Shirt,Tops,Blouses,Men,L,Red,92.14,0.0,1,2024-09-09,"Chicago, IL",Online,Summer,77,No,92.14,92.14
+UQ00356,UV Cut Hat,Accessories,Bags,Women,M,Gray,109.87,21.97,18,2024-08-18,"Chicago, IL",In-Store,Fall,65,No,1977.66,-2303.9739
+UQ00357,Ultra Light Down Jacket,Outerwear,Jackets,Women,S,Navy,84.72,8.47,17,2024-08-17,"New York, NY",Online,Winter,93,No,1440.24,-632.8584000000001
+UQ00358,Linen Shirt,Tops,Shirts,Unisex,L,White,88.25,8.83,4,2024-12-30,"New York, NY",Online,Fall,0,Yes,353.0,-690.9975000000001
+UQ00359,Mini Shoulder Bag,Accessories,Hats,Men,XL,Red,56.71,17.01,7,2024-11-26,"Chicago, IL",Online,Summer,2,Yes,396.97,-907.9271000000001
+UQ00360,UV Cut Hat,Accessories,Hats,Women,XS,Navy,62.16,18.65,10,2024-07-29,"Los Angeles, CA",Online,Fall,82,No,621.5999999999999,-1097.1239999999998
+UQ00361,Leggings Pants,Bottoms,Shorts,Unisex,M,Gray,100.06,0.0,1,2024-11-15,"Houston, TX",In-Store,Summer,86,No,100.06,100.06
+UQ00362,HeatTech Scarf,Accessories,Hats,Women,XXL,Gray,146.95,29.39,18,2024-08-15,"New York, NY",Online,Winter,6,Yes,2645.1,-4171.9105
+UQ00363,UV Cut Hat,Accessories,Bags,Women,S,Beige,102.15,0.0,1,2024-09-21,"Houston, TX",Online,Winter,56,No,102.15,102.15
+UQ00364,UV Cut Hat,Accessories,Hats,Men,XL,Black,40.98,12.29,8,2024-12-01,"San Francisco, CA",In-Store,Spring,53,No,327.84,-462.66419999999994
+UQ00365,UV Cut Hat,Accessories,Bags,Unisex,XS,Blue,57.4,0.0,5,2024-09-10,"Chicago, IL",In-Store,Fall,66,No,287.0,57.4
+UQ00366,UV Cut Hat,Accessories,Scarves,Unisex,XL,Blue,134.14,13.41,15,2025-05-10,"San Francisco, CA",In-Store,Fall,7,Yes,2012.1,-1664.6773999999998
+UQ00367,HeatTech Scarf,Accessories,Scarves,Women,L,Navy,23.82,0.0,14,2025-05-29,"San Francisco, CA",In-Store,Fall,31,No,333.48,23.82
+UQ00368,Cotton Long Sleeve,Tops,Blouses,Unisex,M,Black,129.7,25.94,11,2024-07-04,"Houston, TX",Online,Fall,15,Yes,1426.6999999999998,-3234.718
+UQ00369,Hooded Coat,Outerwear,Parkas,Women,XS,White,65.51,0.0,5,2024-11-24,"San Francisco, CA",In-Store,Winter,53,No,327.55,65.51
+UQ00370,BlockTech Parka,Outerwear,Jackets,Men,XL,Red,38.6,7.72,16,2025-04-14,"San Francisco, CA",Online,Summer,81,No,617.6,-259.392
+UQ00371,AIRism T-Shirt,Tops,T-Shirts,Unisex,L,Red,11.72,2.34,7,2025-05-05,"New York, NY",In-Store,Spring,32,No,82.04,-15.704799999999999
+UQ00372,BlockTech Parka,Outerwear,Coats,Men,L,Red,39.0,0.0,19,2025-05-03,"Houston, TX",In-Store,Winter,18,Yes,741.0,39.0
+UQ00373,UV Cut Hat,Accessories,Hats,Women,XS,Black,91.53,27.46,18,2025-01-04,"Chicago, IL",In-Store,Spring,1,Yes,1647.54,-2421.8838
+UQ00374,AIRism T-Shirt,Tops,T-Shirts,Women,S,Gray,137.39,0.0,5,2024-07-13,"Chicago, IL",Online,Winter,19,Yes,686.9499999999999,137.39
+UQ00375,Chino Shorts,Bottoms,Skirts,Women,L,Beige,56.92,17.08,2,2024-06-24,"San Francisco, CA",In-Store,Spring,66,No,113.84,-915.2735999999999
+UQ00376,HeatTech Scarf,Accessories,Bags,Women,XXL,Gray,92.54,9.25,12,2025-02-13,"New York, NY",Online,Spring,19,Yes,1110.48,-763.455
+UQ00377,HeatTech Scarf,Accessories,Bags,Unisex,M,Blue,97.28,29.18,6,2024-12-31,"Chicago, IL",In-Store,Winter,93,No,583.6800000000001,-2741.3504
+UQ00378,BlockTech Parka,Outerwear,Jackets,Men,S,Red,60.69,18.21,12,2025-04-25,"New York, NY",Online,Summer,98,No,728.28,-1044.4749
+UQ00379,Linen Shirt,Tops,T-Shirts,Men,M,Beige,142.68,42.8,12,2024-06-10,"Chicago, IL",Online,Fall,23,No,1712.16,-5964.023999999999
+UQ00380,Ultra Stretch Jeans,Bottoms,Shorts,Men,XS,White,25.89,5.18,14,2024-07-11,"Chicago, IL",In-Store,Winter,86,No,362.46000000000004,-108.22019999999999
+UQ00381,Hooded Coat,Outerwear,Coats,Women,M,Gray,121.88,36.56,17,2025-05-30,"San Francisco, CA",In-Store,Spring,80,No,2071.96,-4334.0528
+UQ00382,Chino Shorts,Bottoms,Shorts,Unisex,XS,Gray,47.51,4.75,8,2025-03-24,"Chicago, IL",Online,Winter,65,No,380.08,-178.1625
+UQ00383,AIRism T-Shirt,Tops,T-Shirts,Women,M,Blue,98.59,9.86,7,2025-04-30,"San Francisco, CA",Online,Fall,72,No,690.13,-873.5074
+UQ00384,HeatTech Scarf,Accessories,Bags,Men,L,Gray,29.41,5.88,11,2024-09-04,"Houston, TX",In-Store,Winter,3,Yes,323.51,-143.5208
+UQ00385,Linen Shirt,Tops,Blouses,Men,M,White,28.42,5.68,13,2024-08-08,"Chicago, IL",In-Store,Spring,97,No,369.46000000000004,-133.0056
+UQ00386,Linen Shirt,Tops,T-Shirts,Women,XXL,Red,48.02,9.6,11,2024-11-09,"Los Angeles, CA",In-Store,Spring,69,No,528.22,-412.97200000000004
+UQ00387,Leggings Pants,Bottoms,Jeans,Men,XS,Red,137.9,0.0,10,2024-12-10,"Los Angeles, CA",In-Store,Fall,99,No,1379.0,137.9
+UQ00388,Ultra Stretch Jeans,Bottoms,Shorts,Unisex,XXL,Gray,79.63,0.0,2,2024-12-08,"Houston, TX",In-Store,Winter,16,Yes,159.26,79.63
+UQ00389,Mini Shoulder Bag,Accessories,Bags,Women,L,Red,66.63,13.33,6,2024-08-27,"Houston, TX",Online,Spring,75,No,399.78,-821.5478999999999
+UQ00390,Ultra Light Down Jacket,Outerwear,Jackets,Unisex,M,Navy,38.8,3.88,10,2025-05-06,"San Francisco, CA",In-Store,Summer,85,No,388.0,-111.74399999999999
+UQ00391,Leggings Pants,Bottoms,Shorts,Women,XXL,Blue,29.06,8.72,6,2024-11-07,"Houston, TX",In-Store,Winter,90,No,174.35999999999999,-224.3432
+UQ00392,Cotton Long Sleeve,Tops,Blouses,Unisex,M,Gray,93.54,18.71,12,2025-05-21,"Chicago, IL",Online,Winter,52,No,1122.48,-1656.5934000000002
+UQ00393,BlockTech Parka,Outerwear,Coats,Women,XL,Red,34.45,0.0,13,2024-06-27,"San Francisco, CA",In-Store,Spring,16,Yes,447.85,34.45
+UQ00394,UV Cut Hat,Accessories,Scarves,Women,XXL,White,68.53,6.85,14,2024-08-07,"Los Angeles, CA",In-Store,Fall,63,No,959.4200000000001,-400.90049999999997
+UQ00395,UV Cut Hat,Accessories,Bags,Men,L,White,59.44,0.0,11,2024-10-30,"San Francisco, CA",In-Store,Summer,64,No,653.8399999999999,59.44
+UQ00396,Hooded Coat,Outerwear,Parkas,Men,M,Beige,21.49,2.15,4,2024-06-05,"Los Angeles, CA",In-Store,Summer,25,No,85.96,-24.713499999999996
+UQ00397,Chino Shorts,Bottoms,Jeans,Unisex,S,Beige,19.45,0.0,11,2024-11-03,"Houston, TX",In-Store,Summer,39,No,213.95,19.45
+UQ00398,UV Cut Hat,Accessories,Scarves,Men,XS,Blue,71.11,0.0,4,2024-09-15,"San Francisco, CA",Online,Summer,58,No,284.44,71.11
+UQ00399,Chino Shorts,Bottoms,Shorts,Women,L,Beige,51.5,0.0,3,2025-05-30,"Los Angeles, CA",Online,Fall,53,No,154.5,51.5
+UQ00400,Linen Shirt,Tops,Shirts,Women,XXL,White,76.55,7.66,15,2025-04-05,"Los Angeles, CA",Online,Winter,23,No,1148.25,-509.823
+UQ00401,Ultra Stretch Jeans,Bottoms,Shorts,Men,L,Red,141.06,14.11,5,2025-04-05,"Los Angeles, CA",Online,Winter,55,No,705.3,-1849.2966
+UQ00402,HeatTech Scarf,Accessories,Bags,Women,M,Gray,39.99,12.0,4,2024-11-28,"New York, NY",Online,Summer,19,Yes,159.96,-439.89000000000004
+UQ00403,BlockTech Parka,Outerwear,Coats,Women,L,Blue,32.58,3.26,20,2024-09-23,"New York, NY",Online,Winter,80,No,651.5999999999999,-73.6308
+UQ00404,Ultra Stretch Jeans,Bottoms,Shorts,Unisex,M,Beige,79.39,15.88,13,2024-11-16,"New York, NY",Online,Spring,97,No,1032.07,-1181.3232
+UQ00405,AIRism T-Shirt,Tops,Blouses,Unisex,M,Beige,97.17,29.15,2,2025-03-02,"Chicago, IL",Online,Summer,72,No,194.34,-2735.3354999999997
+UQ00406,Chino Shorts,Bottoms,Jeans,Women,XS,Blue,20.42,2.04,17,2025-03-15,"San Francisco, CA",Online,Winter,0,Yes,347.14000000000004,-21.236800000000002
+UQ00407,AIRism T-Shirt,Tops,Blouses,Women,S,Beige,79.27,7.93,11,2025-04-05,"San Francisco, CA",Online,Spring,41,No,871.9699999999999,-549.3411
+UQ00408,UV Cut Hat,Accessories,Scarves,Unisex,XXL,White,74.26,22.28,3,2025-01-06,"San Francisco, CA",Online,Summer,2,Yes,222.78000000000003,-1580.2528000000002
+UQ00409,Cotton Long Sleeve,Tops,T-Shirts,Unisex,M,Black,20.79,2.08,12,2025-02-17,"Los Angeles, CA",In-Store,Fall,43,No,249.48,-22.4532
+UQ00410,Hooded Coat,Outerwear,Coats,Women,XL,White,145.38,0.0,6,2025-03-11,"Houston, TX",Online,Spring,97,No,872.28,145.38
+UQ00411,BlockTech Parka,Outerwear,Jackets,Men,L,Beige,24.33,0.0,5,2024-12-11,"Chicago, IL",Online,Summer,43,No,121.64999999999999,24.33
+UQ00412,Mini Shoulder Bag,Accessories,Hats,Men,L,Blue,122.94,0.0,17,2024-08-04,"Chicago, IL",In-Store,Spring,60,No,2089.98,122.94
+UQ00413,Cotton Long Sleeve,Tops,Shirts,Unisex,L,Beige,120.5,0.0,17,2024-08-17,"Houston, TX",In-Store,Spring,46,No,2048.5,120.5
+UQ00414,BlockTech Parka,Outerwear,Jackets,Women,L,Beige,22.04,4.41,16,2024-09-28,"Houston, TX",In-Store,Fall,87,No,352.64,-75.1564
+UQ00415,Cotton Long Sleeve,Tops,Shirts,Women,S,Beige,116.07,0.0,17,2024-08-28,"New York, NY",Online,Winter,86,No,1973.1899999999998,116.07
+UQ00416,AIRism T-Shirt,Tops,Blouses,Unisex,L,Blue,111.27,0.0,16,2024-06-27,"Chicago, IL",In-Store,Summer,69,No,1780.32,111.27
+UQ00417,Ultra Light Down Jacket,Outerwear,Coats,Men,XS,Gray,147.18,14.72,18,2025-01-15,"San Francisco, CA",In-Store,Summer,88,No,2649.2400000000002,-2019.3096000000003
+UQ00418,HeatTech Scarf,Accessories,Hats,Unisex,XXL,Black,100.43,20.09,9,2025-03-17,"San Francisco, CA",Online,Winter,25,No,903.8700000000001,-1917.2087000000001
+UQ00419,Hooded Coat,Outerwear,Coats,Women,XXL,Blue,15.42,4.63,10,2025-01-01,"New York, NY",Online,Winter,15,Yes,154.2,-55.974599999999995
+UQ00420,HeatTech Scarf,Accessories,Bags,Unisex,XL,White,139.43,27.89,7,2024-06-28,"Los Angeles, CA",In-Store,Fall,13,Yes,976.01,-3749.2727000000004
+UQ00421,UV Cut Hat,Accessories,Bags,Unisex,XXL,Red,26.77,0.0,7,2025-03-22,"Los Angeles, CA",In-Store,Spring,8,Yes,187.39,26.77
+UQ00422,Ultra Light Down Jacket,Outerwear,Parkas,Women,M,Blue,36.86,0.0,8,2024-10-04,"San Francisco, CA",Online,Spring,58,No,294.88,36.86
+UQ00423,Hooded Coat,Outerwear,Parkas,Unisex,XL,Black,142.1,42.63,18,2024-06-27,"San Francisco, CA",In-Store,Spring,94,No,2557.7999999999997,-5915.6230000000005
+UQ00424,AIRism T-Shirt,Tops,T-Shirts,Women,XXL,Red,130.59,26.12,7,2024-06-24,"New York, NY",In-Store,Summer,98,No,914.13,-3280.4208000000003
+UQ00425,UV Cut Hat,Accessories,Hats,Women,XS,Blue,54.57,16.37,10,2025-01-17,"Los Angeles, CA",Online,Winter,16,Yes,545.7,-838.7409
+UQ00426,Ultra Light Down Jacket,Outerwear,Parkas,Unisex,XL,Red,100.92,10.09,3,2024-12-07,"Chicago, IL",Online,Summer,59,No,302.76,-917.3628
+UQ00427,AIRism T-Shirt,Tops,Shirts,Unisex,M,Blue,77.25,23.18,3,2024-12-17,"San Francisco, CA",Online,Spring,36,No,231.75,-1713.405
+UQ00428,Mini Shoulder Bag,Accessories,Scarves,Unisex,L,Red,84.14,25.24,12,2025-05-28,"Los Angeles, CA",In-Store,Winter,38,No,1009.6800000000001,-2039.5536
+UQ00429,Chino Shorts,Bottoms,Skirts,Men,XL,Blue,54.04,16.21,17,2025-05-02,"Chicago, IL",Online,Spring,3,Yes,918.68,-821.9484
+UQ00430,Ultra Stretch Jeans,Bottoms,Shorts,Women,S,White,120.6,36.18,13,2024-12-28,"San Francisco, CA",In-Store,Fall,81,No,1567.8,-4242.708
+UQ00431,Chino Shorts,Bottoms,Skirts,Unisex,S,Beige,82.72,16.54,13,2024-08-05,"San Francisco, CA",Online,Spring,41,No,1075.36,-1285.4687999999999
+UQ00432,Cotton Long Sleeve,Tops,T-Shirts,Men,S,Navy,132.63,0.0,2,2024-06-27,"San Francisco, CA",Online,Winter,54,No,265.26,132.63
+UQ00433,Hooded Coat,Outerwear,Parkas,Unisex,XXL,White,74.57,7.46,2,2024-12-19,"Los Angeles, CA",In-Store,Winter,29,No,149.14,-481.72219999999993
+UQ00434,AIRism T-Shirt,Tops,T-Shirts,Women,M,Gray,9.93,0.0,13,2024-07-06,"Chicago, IL",Online,Summer,12,Yes,129.09,9.93
+UQ00435,Cotton Long Sleeve,Tops,Blouses,Unisex,S,Black,63.65,12.73,3,2025-05-01,"San Francisco, CA",Online,Fall,38,No,190.95,-746.6145
+UQ00436,UV Cut Hat,Accessories,Scarves,Unisex,XXL,Black,11.23,3.37,17,2024-08-16,"New York, NY",In-Store,Spring,92,No,190.91,-26.6151
+UQ00437,Ultra Light Down Jacket,Outerwear,Parkas,Unisex,XS,Red,15.16,3.03,12,2024-07-01,"Houston, TX",Online,Fall,56,No,181.92000000000002,-30.7748
+UQ00438,HeatTech Scarf,Accessories,Bags,Women,XXL,Blue,91.21,9.12,12,2025-01-22,"Chicago, IL",In-Store,Spring,9,Yes,1094.52,-740.6251999999998
+UQ00439,Ultra Light Down Jacket,Outerwear,Coats,Unisex,XS,Beige,22.74,6.82,7,2024-07-01,"New York, NY",In-Store,Spring,83,No,159.17999999999998,-132.3468
+UQ00440,AIRism T-Shirt,Tops,T-Shirts,Men,L,Navy,113.16,33.95,17,2025-02-22,"Houston, TX",In-Store,Winter,2,Yes,1923.72,-3728.6220000000003
+UQ00441,Linen Shirt,Tops,T-Shirts,Unisex,XL,Red,75.32,22.6,18,2025-05-05,"Chicago, IL",Online,Summer,67,No,1355.7599999999998,-1626.912
+UQ00442,Leggings Pants,Bottoms,Jeans,Unisex,M,Navy,110.08,11.01,5,2024-09-04,"New York, NY",In-Store,Spring,24,No,550.4,-1101.9008
+UQ00443,Mini Shoulder Bag,Accessories,Scarves,Women,XS,Gray,48.72,0.0,14,2024-11-08,"New York, NY",Online,Winter,78,No,682.0799999999999,48.72
+UQ00444,UV Cut Hat,Accessories,Hats,Men,M,Blue,69.79,13.96,17,2024-07-21,"Chicago, IL",In-Store,Summer,87,No,1186.43,-904.4784000000002
+UQ00445,AIRism T-Shirt,Tops,Shirts,Women,XL,Beige,27.32,2.73,5,2025-06-05,"New York, NY",In-Store,Summer,60,No,136.6,-47.2636
+UQ00446,Ultra Light Down Jacket,Outerwear,Coats,Unisex,S,Gray,46.16,0.0,6,2025-05-16,"San Francisco, CA",In-Store,Winter,38,No,276.96,46.16
+UQ00447,Ultra Light Down Jacket,Outerwear,Jackets,Women,XL,Blue,132.98,0.0,14,2025-01-12,"New York, NY",In-Store,Fall,87,No,1861.7199999999998,132.98
+UQ00448,Ultra Stretch Jeans,Bottoms,Skirts,Women,S,Navy,75.34,0.0,13,2024-09-08,"Houston, TX",Online,Fall,97,No,979.4200000000001,75.34
+UQ00449,Ultra Light Down Jacket,Outerwear,Parkas,Unisex,L,Red,33.28,3.33,20,2025-01-15,"Los Angeles, CA",Online,Winter,3,Yes,665.6,-77.5424
+UQ00450,Leggings Pants,Bottoms,Jeans,Men,XS,Black,42.33,8.47,20,2025-01-21,"San Francisco, CA",In-Store,Winter,92,No,846.5999999999999,-316.2051
+UQ00451,Cotton Long Sleeve,Tops,Blouses,Men,L,Blue,100.85,30.25,19,2024-06-20,"Los Angeles, CA",Online,Fall,73,No,1916.1499999999999,-2949.8624999999997
+UQ00452,Cotton Long Sleeve,Tops,Shirts,Unisex,S,White,16.47,4.94,9,2025-01-31,"Chicago, IL",Online,Spring,2,Yes,148.23,-64.8918
+UQ00453,Mini Shoulder Bag,Accessories,Bags,Men,XL,White,125.57,37.67,5,2024-07-06,"New York, NY",Online,Fall,4,Yes,627.8499999999999,-4604.6519
+UQ00454,Ultra Stretch Jeans,Bottoms,Shorts,Unisex,XS,Blue,98.07,0.0,17,2024-11-14,"Chicago, IL",Online,Summer,8,Yes,1667.1899999999998,98.07
+UQ00455,Ultra Light Down Jacket,Outerwear,Parkas,Unisex,XXL,Red,139.79,13.98,17,2025-02-15,"New York, NY",In-Store,Winter,60,No,2376.43,-1814.4741999999999
+UQ00456,Cotton Long Sleeve,Tops,Blouses,Men,XS,White,46.33,13.9,3,2025-01-17,"Chicago, IL",Online,Summer,49,No,138.99,-597.657
+UQ00457,HeatTech Scarf,Accessories,Bags,Unisex,XXL,Gray,78.67,0.0,17,2025-01-10,"Houston, TX",Online,Fall,87,No,1337.39,78.67
+UQ00458,BlockTech Parka,Outerwear,Jackets,Unisex,L,White,135.54,0.0,3,2024-12-25,"Los Angeles, CA",Online,Winter,12,Yes,406.62,135.54
+UQ00459,UV Cut Hat,Accessories,Hats,Unisex,XS,Blue,41.23,8.25,15,2024-10-05,"Los Angeles, CA",In-Store,Spring,88,No,618.4499999999999,-298.91749999999996
+UQ00460,Ultra Light Down Jacket,Outerwear,Parkas,Men,M,White,92.91,27.87,14,2025-06-03,"San Francisco, CA",Online,Summer,97,No,1300.74,-2496.4917
+UQ00461,HeatTech Scarf,Accessories,Bags,Women,XXL,Beige,73.94,7.39,3,2024-09-14,"Chicago, IL",In-Store,Summer,91,No,221.82,-472.47659999999996
+UQ00462,Ultra Light Down Jacket,Outerwear,Parkas,Men,XXL,Red,76.63,22.99,3,2024-08-23,"San Francisco, CA",In-Store,Summer,24,No,229.89,-1685.0936999999997
+UQ00463,Linen Shirt,Tops,Shirts,Women,XL,Red,129.21,25.84,10,2025-02-20,"Chicago, IL",Online,Spring,8,Yes,1292.1000000000001,-3209.5764000000004
+UQ00464,HeatTech Scarf,Accessories,Scarves,Women,XS,Gray,55.97,5.6,5,2025-03-10,"San Francisco, CA",Online,Winter,10,Yes,279.85,-257.462
+UQ00465,Mini Shoulder Bag,Accessories,Bags,Unisex,S,Black,22.08,2.21,15,2024-10-05,"Houston, TX",Online,Fall,37,No,331.2,-26.716799999999996
+UQ00466,Linen Shirt,Tops,Blouses,Men,XXL,Red,46.27,9.25,5,2024-09-05,"New York, NY",In-Store,Fall,47,No,231.35000000000002,-381.7275
+UQ00467,HeatTech Scarf,Accessories,Hats,Men,XS,Black,79.32,7.93,6,2024-09-16,"San Francisco, CA",In-Store,Summer,36,No,475.91999999999996,-549.6876
+UQ00468,BlockTech Parka,Outerwear,Jackets,Women,M,Beige,40.73,12.22,13,2024-11-05,"San Francisco, CA",In-Store,Summer,27,No,529.49,-456.9906
+UQ00469,HeatTech Scarf,Accessories,Scarves,Unisex,S,Navy,20.56,6.17,17,2024-07-25,"Chicago, IL",In-Store,Fall,39,No,349.52,-106.2952
+UQ00470,Chino Shorts,Bottoms,Shorts,Unisex,L,Blue,133.51,26.7,19,2025-02-20,"San Francisco, CA",Online,Spring,57,No,2536.6899999999996,-3431.207
+UQ00471,Cotton Long Sleeve,Tops,Blouses,Unisex,XXL,Red,89.88,26.96,8,2025-02-10,"Los Angeles, CA",In-Store,Fall,97,No,719.04,-2333.2848
+UQ00472,Chino Shorts,Bottoms,Jeans,Men,L,Gray,86.03,25.81,13,2024-09-29,"San Francisco, CA",Online,Fall,32,No,1118.39,-2134.4042999999997
+UQ00473,Mini Shoulder Bag,Accessories,Scarves,Unisex,XXL,Red,132.91,26.58,19,2024-11-29,"New York, NY",In-Store,Spring,79,No,2525.29,-3399.8378
+UQ00474,Leggings Pants,Bottoms,Jeans,Men,XXL,White,102.08,30.62,1,2024-10-05,"Chicago, IL",Online,Winter,58,No,102.08,-3023.6096000000002
+UQ00475,Linen Shirt,Tops,Blouses,Women,XXL,Blue,131.32,26.26,9,2025-05-31,"Los Angeles, CA",Online,Winter,12,Yes,1181.8799999999999,-3317.1432
+UQ00476,AIRism T-Shirt,Tops,Shirts,Women,S,White,127.08,0.0,10,2025-03-23,"Los Angeles, CA",Online,Spring,99,No,1270.8,127.08
+UQ00477,Chino Shorts,Bottoms,Shorts,Men,S,Black,96.51,19.3,6,2025-06-03,"New York, NY",In-Store,Fall,59,No,579.0600000000001,-1766.1330000000003
+UQ00478,BlockTech Parka,Outerwear,Coats,Unisex,XL,Blue,32.1,3.21,11,2024-07-03,"San Francisco, CA",In-Store,Summer,44,No,353.1,-70.941
+UQ00479,AIRism T-Shirt,Tops,Shirts,Men,S,Black,131.96,26.39,19,2024-06-08,"San Francisco, CA",Online,Winter,30,No,2507.2400000000002,-3350.4644000000003
+UQ00480,HeatTech Scarf,Accessories,Hats,Unisex,L,Blue,125.51,37.65,10,2024-11-29,"Houston, TX",In-Store,Summer,31,No,1255.1000000000001,-4599.9415
+UQ00481,Linen Shirt,Tops,Blouses,Women,XS,Red,56.82,0.0,7,2025-02-01,"Houston, TX",Online,Spring,30,No,397.74,56.82
+UQ00482,Cotton Long Sleeve,Tops,Blouses,Men,XL,Red,10.06,3.02,2,2025-01-09,"Chicago, IL",Online,Fall,77,No,20.12,-20.3212
+UQ00483,Cotton Long Sleeve,Tops,T-Shirts,Women,M,Red,115.83,23.17,12,2024-07-13,"San Francisco, CA",Online,Spring,38,No,1389.96,-2567.9511
+UQ00484,Mini Shoulder Bag,Accessories,Bags,Unisex,XL,Red,36.94,11.08,13,2024-07-03,"Los Angeles, CA",Online,Winter,45,No,480.21999999999997,-372.35519999999997
+UQ00485,BlockTech Parka,Outerwear,Coats,Unisex,XL,Beige,55.6,5.56,9,2024-12-30,"Los Angeles, CA",Online,Summer,16,Yes,500.40000000000003,-253.53599999999997
+UQ00486,Linen Shirt,Tops,Blouses,Men,XXL,Gray,26.12,5.22,2,2024-08-26,"Los Angeles, CA",In-Store,Summer,59,No,52.24,-110.2264
+UQ00487,Leggings Pants,Bottoms,Skirts,Men,M,Gray,11.17,2.23,13,2024-12-18,"San Francisco, CA",Online,Winter,34,No,145.21,-13.7391
+UQ00488,AIRism T-Shirt,Tops,Blouses,Men,M,Black,27.88,5.58,19,2024-09-15,"San Francisco, CA",Online,Winter,29,No,529.72,-127.6904
+UQ00489,Ultra Light Down Jacket,Outerwear,Coats,Women,XXL,Red,12.48,1.25,9,2024-07-26,"San Francisco, CA",In-Store,Winter,95,No,112.32000000000001,-3.12
+UQ00490,Linen Shirt,Tops,Blouses,Women,S,Gray,127.52,0.0,15,2025-06-02,"New York, NY",Online,Summer,93,No,1912.8,127.52
+UQ00491,Ultra Light Down Jacket,Outerwear,Coats,Women,S,White,115.42,11.54,4,2024-10-18,"Los Angeles, CA",Online,Spring,19,Yes,461.68,-1216.5267999999999
+UQ00492,AIRism T-Shirt,Tops,Shirts,Men,L,Red,106.2,21.24,18,2025-05-13,"Houston, TX",Online,Summer,67,No,1911.6000000000001,-2149.488
+UQ00493,UV Cut Hat,Accessories,Scarves,Men,XXL,Gray,52.03,15.61,17,2024-07-01,"Chicago, IL",Online,Winter,11,Yes,884.51,-760.1582999999999
+UQ00494,Linen Shirt,Tops,Blouses,Women,S,Black,19.33,5.8,10,2025-05-12,"New York, NY",In-Store,Summer,64,No,193.29999999999998,-92.78399999999999
+UQ00495,Leggings Pants,Bottoms,Shorts,Men,XL,Black,18.01,1.8,18,2024-09-07,"New York, NY",In-Store,Fall,49,No,324.18,-14.408000000000001
+UQ00496,Chino Shorts,Bottoms,Shorts,Unisex,M,Beige,148.52,44.56,15,2024-10-26,"Houston, TX",In-Store,Spring,28,No,2227.8,-6469.5312
+UQ00497,Ultra Stretch Jeans,Bottoms,Shorts,Men,XXL,White,72.33,7.23,3,2024-09-23,"New York, NY",Online,Spring,51,No,216.99,-450.6159
+UQ00498,BlockTech Parka,Outerwear,Jackets,Women,M,White,116.06,0.0,7,2024-08-05,"San Francisco, CA",Online,Winter,28,No,812.4200000000001,116.06
+UQ00499,Ultra Stretch Jeans,Bottoms,Jeans,Women,M,Gray,13.0,0.0,6,2024-11-22,"Houston, TX",Online,Winter,78,No,78.0,13.0
+UQ00500,Chino Shorts,Bottoms,Skirts,Women,XXL,Red,124.53,0.0,11,2025-04-24,"Los Angeles, CA",Online,Winter,57,No,1369.83,124.53
+UQ00501,Cotton Long Sleeve,Tops,T-Shirts,Unisex,XXL,Beige,10.04,1.0,2,2025-01-01,"San Francisco, CA",Online,Spring,45,No,20.08,0.0
+UQ00502,Hooded Coat,Outerwear,Parkas,Men,S,Beige,75.5,7.55,4,2025-03-05,"Houston, TX",Online,Winter,80,No,302.0,-494.525
+UQ00503,HeatTech Scarf,Accessories,Hats,Women,XS,Gray,24.21,2.42,9,2024-09-30,"New York, NY",Online,Spring,38,No,217.89000000000001,-34.3782
+UQ00504,BlockTech Parka,Outerwear,Jackets,Men,S,Beige,83.68,8.37,11,2025-01-28,"New York, NY",Online,Winter,31,No,920.48,-616.7216
+UQ00505,AIRism T-Shirt,Tops,Blouses,Men,L,Red,21.43,4.29,14,2025-04-14,"Chicago, IL",In-Store,Spring,83,No,300.02,-70.5047
+UQ00506,AIRism T-Shirt,Tops,T-Shirts,Men,XS,White,101.53,20.31,3,2025-02-13,"San Francisco, CA",In-Store,Fall,80,No,304.59000000000003,-1960.5442999999998
+UQ00507,Linen Shirt,Tops,T-Shirts,Men,M,Navy,144.75,14.48,15,2024-12-27,"Los Angeles, CA",In-Store,Spring,79,No,2171.25,-1951.23
+UQ00508,HeatTech Scarf,Accessories,Scarves,Unisex,XL,Blue,129.93,38.98,20,2024-06-08,"Houston, TX",Online,Summer,5,Yes,2598.6000000000004,-4934.7414
+UQ00509,UV Cut Hat,Accessories,Hats,Unisex,XS,Beige,116.31,11.63,5,2025-02-19,"San Francisco, CA",In-Store,Winter,2,Yes,581.55,-1236.3753000000002
+UQ00510,Hooded Coat,Outerwear,Coats,Women,L,Black,53.57,16.07,6,2025-04-18,"San Francisco, CA",In-Store,Summer,14,Yes,321.42,-807.2999
+UQ00511,Ultra Light Down Jacket,Outerwear,Coats,Men,XL,Gray,114.32,22.86,3,2025-01-06,"New York, NY",In-Store,Summer,63,No,342.96,-2499.0352
+UQ00512,Leggings Pants,Bottoms,Jeans,Women,XXL,Black,131.44,39.43,12,2024-09-29,"San Francisco, CA",Online,Fall,17,Yes,1577.28,-5051.2392
+UQ00513,Ultra Light Down Jacket,Outerwear,Parkas,Unisex,L,White,130.91,26.18,16,2025-06-01,"Los Angeles, CA",Online,Spring,26,No,2094.56,-3296.3138
+UQ00514,AIRism T-Shirt,Tops,Shirts,Unisex,S,Gray,145.45,43.63,14,2025-02-17,"New York, NY",Online,Winter,88,No,2036.2999999999997,-6200.5335
+UQ00515,Cotton Long Sleeve,Tops,Shirts,Men,S,Gray,131.51,0.0,8,2024-07-15,"San Francisco, CA",Online,Spring,78,No,1052.08,131.51
+UQ00516,Chino Shorts,Bottoms,Skirts,Unisex,S,Red,73.42,22.03,18,2025-06-04,"Los Angeles, CA",In-Store,Fall,70,No,1321.56,-1544.0226
+UQ00517,Cotton Long Sleeve,Tops,Blouses,Unisex,XXL,Blue,97.57,19.51,12,2025-05-12,"Los Angeles, CA",Online,Summer,52,No,1170.84,-1806.0207
+UQ00518,Linen Shirt,Tops,T-Shirts,Women,L,Blue,137.56,41.27,3,2024-07-27,"San Francisco, CA",Online,Fall,19,Yes,412.68,-5539.541200000001
+UQ00519,Leggings Pants,Bottoms,Shorts,Men,S,Red,121.42,12.14,14,2024-09-15,"Chicago, IL",In-Store,Summer,70,No,1699.88,-1352.6188000000002
+UQ00520,Mini Shoulder Bag,Accessories,Scarves,Unisex,XS,Black,27.43,2.74,12,2024-07-19,"New York, NY",Online,Fall,83,No,329.15999999999997,-47.72820000000001
+UQ00521,HeatTech Scarf,Accessories,Bags,Women,XXL,Gray,70.14,14.03,6,2025-05-16,"New York, NY",Online,Summer,47,No,420.84000000000003,-913.9241999999999
+UQ00522,Chino Shorts,Bottoms,Skirts,Men,L,Beige,78.72,23.62,2,2024-07-16,"Chicago, IL",In-Store,Winter,87,No,157.44,-1780.6464
+UQ00523,AIRism T-Shirt,Tops,Blouses,Men,S,Red,70.55,14.11,13,2025-03-20,"Los Angeles, CA",Online,Fall,80,No,917.15,-924.9105
+UQ00524,Ultra Stretch Jeans,Bottoms,Jeans,Men,L,Blue,11.53,0.0,18,2025-01-05,"Chicago, IL",Online,Winter,93,No,207.54,11.53
+UQ00525,HeatTech Scarf,Accessories,Bags,Men,S,White,64.85,0.0,14,2024-08-04,"Los Angeles, CA",In-Store,Summer,94,No,907.8999999999999,64.85
+UQ00526,Cotton Long Sleeve,Tops,Shirts,Men,XXL,Gray,110.96,0.0,11,2024-09-18,"Houston, TX",Online,Spring,44,No,1220.56,110.96
+UQ00527,Ultra Stretch Jeans,Bottoms,Jeans,Men,XS,Black,115.89,0.0,6,2024-09-22,"Chicago, IL",In-Store,Winter,40,No,695.34,115.89
+UQ00528,Cotton Long Sleeve,Tops,Blouses,Unisex,XXL,Blue,15.45,0.0,19,2025-01-25,"New York, NY",Online,Summer,87,No,293.55,15.45
+UQ00529,Chino Shorts,Bottoms,Skirts,Women,XXL,Navy,30.33,6.07,12,2024-08-25,"Los Angeles, CA",Online,Fall,45,No,363.96,-153.7731
+UQ00530,Linen Shirt,Tops,T-Shirts,Men,S,Gray,29.85,0.0,16,2025-03-10,"New York, NY",In-Store,Summer,53,No,477.6,29.85
+UQ00531,Mini Shoulder Bag,Accessories,Hats,Women,XL,Black,96.44,28.93,20,2024-10-16,"Houston, TX",Online,Spring,32,No,1928.8,-2693.5692
+UQ00532,Chino Shorts,Bottoms,Jeans,Women,M,White,88.25,26.47,18,2024-08-23,"San Francisco, CA",In-Store,Winter,96,No,1588.5,-2247.7275
+UQ00533,Chino Shorts,Bottoms,Jeans,Women,M,Navy,82.38,24.71,1,2025-02-26,"Houston, TX",In-Store,Winter,76,No,82.38,-1953.2298
+UQ00534,AIRism T-Shirt,Tops,Blouses,Unisex,S,Red,21.45,0.0,13,2025-02-06,"New York, NY",In-Store,Spring,25,No,278.84999999999997,21.45
+UQ00535,Mini Shoulder Bag,Accessories,Hats,Women,L,Red,65.47,19.64,2,2025-05-02,"Los Angeles, CA",In-Store,Summer,37,No,130.94,-1220.3608
+UQ00536,Cotton Long Sleeve,Tops,Blouses,Men,XS,Black,89.36,26.81,14,2024-09-15,"Los Angeles, CA",In-Store,Summer,14,Yes,1251.04,-2306.3815999999997
+UQ00537,Ultra Light Down Jacket,Outerwear,Jackets,Unisex,XS,Navy,37.92,7.58,12,2024-12-18,"San Francisco, CA",In-Store,Winter,48,No,455.04,-249.51360000000003
+UQ00538,BlockTech Parka,Outerwear,Jackets,Women,M,Navy,143.12,0.0,3,2024-12-11,"New York, NY",Online,Summer,5,Yes,429.36,143.12
+UQ00539,Linen Shirt,Tops,Shirts,Men,L,Black,93.17,18.63,9,2024-09-10,"Houston, TX",In-Store,Winter,94,No,838.53,-1642.5871
+UQ00540,UV Cut Hat,Accessories,Bags,Men,S,White,85.68,8.57,18,2025-05-22,"New York, NY",In-Store,Winter,75,No,1542.2400000000002,-648.5976
+UQ00541,HeatTech Scarf,Accessories,Bags,Women,S,Beige,131.84,39.55,18,2025-05-23,"Chicago, IL",Online,Summer,91,No,2373.12,-5082.432
+UQ00542,Linen Shirt,Tops,T-Shirts,Women,S,Blue,122.14,12.21,15,2025-04-29,"Los Angeles, CA",Online,Summer,6,Yes,1832.1,-1369.1894000000002
+UQ00543,BlockTech Parka,Outerwear,Jackets,Unisex,XS,Red,102.41,10.24,16,2024-06-24,"Houston, TX",Online,Fall,3,Yes,1638.56,-946.2684
+UQ00544,Ultra Light Down Jacket,Outerwear,Parkas,Unisex,XS,Red,93.55,18.71,3,2024-07-10,"Houston, TX",In-Store,Fall,40,No,280.65,-1656.7705
+UQ00545,Cotton Long Sleeve,Tops,Blouses,Unisex,XS,Gray,32.86,9.86,14,2025-02-06,"Los Angeles, CA",In-Store,Fall,74,No,460.03999999999996,-291.1396
+UQ00546,AIRism T-Shirt,Tops,Shirts,Men,S,Gray,111.38,33.41,12,2024-11-16,"Houston, TX",Online,Winter,86,No,1336.56,-3609.8257999999996
+UQ00547,Chino Shorts,Bottoms,Jeans,Men,XXL,Red,100.94,10.09,13,2025-04-23,"Chicago, IL",Online,Summer,18,Yes,1312.22,-917.5446
+UQ00548,Ultra Light Down Jacket,Outerwear,Jackets,Men,S,Navy,146.52,0.0,4,2024-09-20,"San Francisco, CA",Online,Winter,44,No,586.08,146.52
+UQ00549,BlockTech Parka,Outerwear,Jackets,Women,XL,Red,35.4,7.08,19,2024-06-22,"New York, NY",Online,Fall,43,No,672.6,-215.232
+UQ00550,Chino Shorts,Bottoms,Jeans,Men,L,Red,87.65,26.3,18,2024-06-06,"Houston, TX",In-Store,Spring,82,No,1577.7,-2217.545
+UQ00551,Linen Shirt,Tops,Blouses,Men,M,Beige,41.88,4.19,9,2024-10-12,"Houston, TX",Online,Winter,58,No,376.92,-133.59720000000002
+UQ00552,Leggings Pants,Bottoms,Skirts,Women,L,Navy,100.95,30.29,10,2025-03-31,"Chicago, IL",In-Store,Summer,34,No,1009.5,-2956.8255
+UQ00553,BlockTech Parka,Outerwear,Parkas,Unisex,L,Gray,40.78,12.23,15,2024-07-25,"New York, NY",In-Store,Winter,96,No,611.7,-457.9594
+UQ00554,Cotton Long Sleeve,Tops,T-Shirts,Men,XS,Navy,127.56,25.51,17,2025-02-07,"Houston, TX",Online,Summer,93,No,2168.52,-3126.4956
+UQ00555,Leggings Pants,Bottoms,Jeans,Unisex,XXL,Red,144.41,14.44,20,2024-09-14,"Los Angeles, CA",In-Store,Spring,36,No,2888.2,-1940.8703999999998
+UQ00556,AIRism T-Shirt,Tops,T-Shirts,Unisex,XS,Gray,58.33,0.0,12,2024-08-06,"Chicago, IL",Online,Spring,19,Yes,699.96,58.33
+UQ00557,Cotton Long Sleeve,Tops,Shirts,Women,M,Red,80.58,0.0,18,2025-03-19,"San Francisco, CA",Online,Fall,48,No,1450.44,80.58
+UQ00558,BlockTech Parka,Outerwear,Coats,Unisex,M,Beige,81.86,8.19,9,2024-11-23,"Houston, TX",In-Store,Winter,35,No,736.74,-588.5734
+UQ00559,HeatTech Scarf,Accessories,Scarves,Women,L,Navy,14.02,0.0,2,2025-01-05,"Los Angeles, CA",In-Store,Fall,99,No,28.04,14.02
+UQ00560,BlockTech Parka,Outerwear,Parkas,Unisex,XXL,Beige,132.18,26.44,2,2025-03-06,"Los Angeles, CA",Online,Summer,35,No,264.36,-3362.6592000000005
+UQ00561,Hooded Coat,Outerwear,Parkas,Women,XS,Navy,68.94,0.0,10,2024-11-18,"Houston, TX",In-Store,Winter,57,No,689.4,68.94
+UQ00562,Cotton Long Sleeve,Tops,T-Shirts,Unisex,M,White,137.63,13.76,12,2025-01-08,"New York, NY",Online,Spring,2,Yes,1651.56,-1756.1588
+UQ00563,BlockTech Parka,Outerwear,Coats,Unisex,L,White,97.12,19.42,8,2024-06-08,"Chicago, IL",In-Store,Summer,20,No,776.96,-1788.9504000000002
+UQ00564,AIRism T-Shirt,Tops,Shirts,Unisex,XL,Beige,112.54,22.51,3,2024-07-18,"San Francisco, CA",Online,Summer,25,No,337.62,-2420.7354000000005
+UQ00565,HeatTech Scarf,Accessories,Scarves,Unisex,XL,Navy,110.12,33.04,16,2024-07-04,"Houston, TX",In-Store,Summer,93,No,1761.92,-3528.2448
+UQ00566,HeatTech Scarf,Accessories,Hats,Unisex,XS,Black,35.06,7.01,12,2025-05-13,"Chicago, IL",In-Store,Winter,13,Yes,420.72,-210.7106
+UQ00567,Linen Shirt,Tops,Shirts,Women,M,Blue,145.9,0.0,5,2025-02-28,"Los Angeles, CA",In-Store,Fall,68,No,729.5,145.9
+UQ00568,Chino Shorts,Bottoms,Skirts,Women,XXL,White,19.58,1.96,9,2025-05-22,"Chicago, IL",Online,Summer,61,No,176.21999999999997,-18.796799999999998
+UQ00569,UV Cut Hat,Accessories,Scarves,Unisex,XL,Beige,23.54,2.35,15,2024-08-01,"Los Angeles, CA",In-Store,Summer,13,Yes,353.09999999999997,-31.779
+UQ00570,Ultra Light Down Jacket,Outerwear,Parkas,Women,XS,White,81.97,8.2,20,2025-01-02,"Houston, TX",In-Store,Fall,1,Yes,1639.4,-590.184
+UQ00571,Hooded Coat,Outerwear,Coats,Men,L,White,23.24,4.65,17,2024-06-18,"Houston, TX",Online,Winter,88,No,395.08,-84.82600000000001
+UQ00572,UV Cut Hat,Accessories,Hats,Women,XXL,Red,145.62,0.0,2,2025-04-25,"San Francisco, CA",In-Store,Spring,34,No,291.24,145.62
+UQ00573,HeatTech Scarf,Accessories,Scarves,Men,XS,Gray,101.84,10.18,1,2024-10-26,"Los Angeles, CA",Online,Fall,39,No,101.84,-934.8912
+UQ00574,Ultra Stretch Jeans,Bottoms,Skirts,Men,S,Beige,93.72,0.0,4,2025-01-17,"Los Angeles, CA",Online,Winter,44,No,374.88,93.72
+UQ00575,Ultra Light Down Jacket,Outerwear,Coats,Unisex,M,White,43.08,0.0,11,2025-01-05,"Los Angeles, CA",Online,Winter,9,Yes,473.88,43.08
+UQ00576,Linen Shirt,Tops,T-Shirts,Unisex,M,Beige,20.19,2.02,14,2024-08-01,"New York, NY",Online,Winter,79,No,282.66,-20.5938
+UQ00577,Chino Shorts,Bottoms,Shorts,Unisex,L,Blue,82.67,16.53,10,2024-11-18,"Chicago, IL",Online,Spring,75,No,826.7,-1283.8651000000002
+UQ00578,BlockTech Parka,Outerwear,Parkas,Unisex,XS,Black,125.94,0.0,1,2024-07-24,"Chicago, IL",In-Store,Summer,4,Yes,125.94,125.94
+UQ00579,BlockTech Parka,Outerwear,Jackets,Women,M,Red,44.72,13.42,11,2024-06-21,"Los Angeles, CA",In-Store,Fall,75,No,491.91999999999996,-555.4224
+UQ00580,HeatTech Scarf,Accessories,Scarves,Women,L,Beige,108.85,10.88,20,2024-10-02,"New York, NY",Online,Winter,27,No,2177.0,-1075.438
+UQ00581,Leggings Pants,Bottoms,Jeans,Unisex,XS,White,15.03,4.51,5,2024-10-24,"San Francisco, CA",Online,Winter,46,No,75.14999999999999,-52.75529999999999
+UQ00582,BlockTech Parka,Outerwear,Jackets,Unisex,XXL,Beige,102.83,30.85,5,2025-05-20,"Houston, TX",In-Store,Summer,48,No,514.15,-3069.4755
+UQ00583,Mini Shoulder Bag,Accessories,Scarves,Unisex,M,Gray,128.08,12.81,12,2025-06-02,"Los Angeles, CA",In-Store,Winter,55,No,1536.96,-1512.6248000000003
+UQ00584,Ultra Light Down Jacket,Outerwear,Coats,Men,XXL,White,91.85,9.19,15,2025-04-10,"New York, NY",Online,Fall,5,Yes,1377.75,-752.2515
+UQ00585,UV Cut Hat,Accessories,Scarves,Men,XL,Black,38.72,0.0,20,2025-05-05,"San Francisco, CA",In-Store,Spring,77,No,774.4,38.72
+UQ00586,Chino Shorts,Bottoms,Shorts,Unisex,S,White,17.89,3.58,5,2024-06-20,"Houston, TX",In-Store,Spring,19,Yes,89.45,-46.156200000000005
+UQ00587,UV Cut Hat,Accessories,Scarves,Women,XS,Gray,17.14,0.0,1,2025-05-20,"Los Angeles, CA",Online,Spring,34,No,17.14,17.14
+UQ00588,Cotton Long Sleeve,Tops,Shirts,Women,XXL,White,73.21,0.0,5,2024-10-21,"San Francisco, CA",Online,Spring,32,No,366.04999999999995,73.21
+UQ00589,Linen Shirt,Tops,T-Shirts,Women,XS,Beige,80.91,24.27,14,2024-08-25,"Chicago, IL",Online,Winter,11,Yes,1132.74,-1882.7757
+UQ00590,UV Cut Hat,Accessories,Scarves,Women,XS,Black,30.67,6.13,18,2025-02-24,"Chicago, IL",In-Store,Winter,87,No,552.0600000000001,-157.3371
+UQ00591,Hooded Coat,Outerwear,Jackets,Women,L,Beige,105.94,21.19,2,2024-09-09,"Los Angeles, CA",Online,Fall,88,No,211.88,-2138.9286
+UQ00592,AIRism T-Shirt,Tops,Shirts,Unisex,M,Beige,99.38,0.0,7,2025-02-19,"Houston, TX",In-Store,Fall,94,No,695.66,99.38
+UQ00593,Ultra Stretch Jeans,Bottoms,Jeans,Unisex,XXL,Black,45.49,0.0,11,2024-07-14,"New York, NY",Online,Fall,49,No,500.39000000000004,45.49
+UQ00594,Cotton Long Sleeve,Tops,Blouses,Men,M,Navy,57.87,17.36,6,2024-10-20,"New York, NY",In-Store,Fall,83,No,347.21999999999997,-946.7531999999999
+UQ00595,Mini Shoulder Bag,Accessories,Scarves,Unisex,XS,Beige,27.5,0.0,13,2025-04-03,"New York, NY",Online,Winter,51,No,357.5,27.5
+UQ00596,Linen Shirt,Tops,T-Shirts,Unisex,M,Navy,108.56,10.86,10,2025-01-08,"New York, NY",Online,Fall,7,Yes,1085.6,-1070.4016
+UQ00597,HeatTech Scarf,Accessories,Bags,Women,L,Blue,145.69,14.57,1,2025-05-14,"Chicago, IL",Online,Fall,7,Yes,145.69,-1977.0133
+UQ00598,Linen Shirt,Tops,Shirts,Unisex,S,Red,31.76,9.53,6,2025-05-10,"San Francisco, CA",In-Store,Winter,4,Yes,190.56,-270.9128
+UQ00599,Ultra Stretch Jeans,Bottoms,Skirts,Unisex,XS,Navy,144.77,0.0,15,2024-11-09,"Chicago, IL",In-Store,Spring,33,No,2171.55,144.77
+UQ00600,Cotton Long Sleeve,Tops,Blouses,Unisex,XS,White,102.53,10.25,11,2025-02-01,"San Francisco, CA",In-Store,Spring,73,No,1127.83,-948.4025
+UQ00601,UV Cut Hat,Accessories,Bags,Men,S,White,12.35,0.0,18,2025-03-23,"New York, NY",Online,Fall,16,Yes,222.29999999999998,12.35
+UQ00602,Mini Shoulder Bag,Accessories,Scarves,Men,S,Blue,126.22,25.24,15,2024-08-04,"New York, NY",In-Store,Summer,75,No,1893.3,-3059.5728
+UQ00603,BlockTech Parka,Outerwear,Jackets,Women,XS,Blue,25.74,2.57,14,2025-05-30,"Chicago, IL",In-Store,Spring,67,No,360.35999999999996,-40.41179999999999
+UQ00604,Ultra Stretch Jeans,Bottoms,Skirts,Men,S,White,104.61,20.92,19,2025-06-01,"New York, NY",In-Store,Summer,30,No,1987.59,-2083.8312
+UQ00605,Leggings Pants,Bottoms,Jeans,Unisex,XL,Red,102.14,20.43,16,2024-09-04,"New York, NY",In-Store,Winter,68,No,1634.24,-1984.5801999999999
+UQ00606,Chino Shorts,Bottoms,Shorts,Unisex,S,Black,90.71,0.0,2,2025-05-06,"Houston, TX",Online,Spring,63,No,181.42,90.71
+UQ00607,Chino Shorts,Bottoms,Jeans,Women,S,Black,16.65,4.99,9,2024-08-07,"Chicago, IL",Online,Summer,32,No,149.85,-66.4335
+UQ00608,Chino Shorts,Bottoms,Jeans,Women,S,Black,66.87,13.37,16,2025-04-11,"Chicago, IL",In-Store,Winter,12,Yes,1069.92,-827.1819
+UQ00609,Hooded Coat,Outerwear,Coats,Men,S,Blue,119.43,0.0,13,2025-04-15,"New York, NY",In-Store,Spring,30,No,1552.5900000000001,119.43
+UQ00610,Mini Shoulder Bag,Accessories,Bags,Women,M,Navy,113.28,0.0,4,2024-08-12,"Los Angeles, CA",In-Store,Winter,97,No,453.12,113.28
+UQ00611,Cotton Long Sleeve,Tops,Blouses,Unisex,XS,Red,66.48,19.94,14,2025-05-13,"Los Angeles, CA",Online,Winter,3,Yes,930.72,-1259.1312000000003
+UQ00612,Hooded Coat,Outerwear,Jackets,Women,XXL,Black,103.36,10.34,6,2024-11-12,"San Francisco, CA",Online,Spring,97,No,620.16,-965.3824
+UQ00613,Chino Shorts,Bottoms,Jeans,Unisex,XL,Gray,116.62,23.32,9,2024-06-14,"San Francisco, CA",Online,Summer,22,No,1049.58,-2602.9584
+UQ00614,Linen Shirt,Tops,T-Shirts,Unisex,L,Navy,70.88,21.26,11,2024-08-13,"Los Angeles, CA",In-Store,Fall,0,Yes,779.68,-1436.0288
+UQ00615,UV Cut Hat,Accessories,Hats,Men,S,White,26.73,5.35,7,2025-03-18,"New York, NY",Online,Fall,88,No,187.11,-116.2755
+UQ00616,Leggings Pants,Bottoms,Jeans,Unisex,M,Black,55.87,0.0,1,2025-05-30,"Los Angeles, CA",Online,Fall,75,No,55.87,55.87
+UQ00617,AIRism T-Shirt,Tops,Shirts,Men,S,Red,95.28,19.06,15,2024-10-12,"San Francisco, CA",In-Store,Summer,20,No,1429.2,-1720.7567999999999
+UQ00618,UV Cut Hat,Accessories,Bags,Unisex,XXL,Beige,63.16,6.32,1,2025-04-04,"New York, NY",Online,Summer,48,No,63.16,-336.0112
+UQ00619,UV Cut Hat,Accessories,Scarves,Unisex,M,White,86.3,0.0,3,2025-06-01,"San Francisco, CA",In-Store,Summer,43,No,258.9,86.3
+UQ00620,Hooded Coat,Outerwear,Jackets,Men,M,Gray,11.95,0.0,11,2024-11-11,"Houston, TX",Online,Spring,98,No,131.45,11.95
+UQ00621,Linen Shirt,Tops,Blouses,Unisex,XL,Beige,33.48,10.04,14,2025-04-12,"Houston, TX",Online,Summer,73,No,468.71999999999997,-302.65919999999994
+UQ00622,HeatTech Scarf,Accessories,Hats,Women,L,Blue,116.21,0.0,9,2025-02-20,"New York, NY",In-Store,Summer,2,Yes,1045.8899999999999,116.21
+UQ00623,Linen Shirt,Tops,Blouses,Men,XS,Red,85.83,25.75,8,2025-05-06,"New York, NY",In-Store,Fall,47,No,686.64,-2124.2925
+UQ00624,Mini Shoulder Bag,Accessories,Scarves,Unisex,XL,Beige,128.5,12.85,12,2025-03-17,"New York, NY",Online,Fall,4,Yes,1542.0,-1522.725
+UQ00625,AIRism T-Shirt,Tops,T-Shirts,Men,XXL,Blue,65.74,6.57,5,2025-04-15,"New York, NY",In-Store,Winter,78,No,328.7,-366.17179999999996
+UQ00626,Mini Shoulder Bag,Accessories,Bags,Unisex,M,Navy,84.6,8.46,15,2024-09-09,"San Francisco, CA",Online,Fall,42,No,1269.0,-631.116
+UQ00627,Chino Shorts,Bottoms,Jeans,Unisex,XS,Red,116.98,0.0,6,2024-09-16,"Chicago, IL",In-Store,Fall,45,No,701.88,116.98
+UQ00628,Ultra Light Down Jacket,Outerwear,Coats,Women,XL,Beige,110.44,22.09,11,2024-08-05,"Los Angeles, CA",Online,Winter,20,No,1214.84,-2329.1796
+UQ00629,Chino Shorts,Bottoms,Skirts,Women,XXL,Beige,37.31,0.0,16,2025-04-06,"Los Angeles, CA",Online,Winter,46,No,596.96,37.31
+UQ00630,Cotton Long Sleeve,Tops,T-Shirts,Men,L,Blue,19.88,3.98,15,2025-03-04,"San Francisco, CA",Online,Spring,24,No,298.2,-59.242399999999996
+UQ00631,Ultra Stretch Jeans,Bottoms,Skirts,Unisex,XS,Blue,101.56,0.0,19,2024-07-16,"San Francisco, CA",Online,Summer,14,Yes,1929.64,101.56
+UQ00632,UV Cut Hat,Accessories,Hats,Men,XXL,Beige,37.5,0.0,13,2024-10-31,"Los Angeles, CA",In-Store,Fall,85,No,487.5,37.5
+UQ00633,Chino Shorts,Bottoms,Shorts,Women,S,Black,37.14,0.0,14,2025-05-09,"New York, NY",In-Store,Summer,67,No,519.96,37.14
+UQ00634,Cotton Long Sleeve,Tops,T-Shirts,Men,XXL,Black,45.85,9.17,20,2024-06-20,"Chicago, IL",Online,Fall,26,No,917.0,-374.5945
+UQ00635,BlockTech Parka,Outerwear,Parkas,Men,XL,Beige,140.04,0.0,3,2025-05-04,"Los Angeles, CA",In-Store,Spring,7,Yes,420.12,140.04
+UQ00636,BlockTech Parka,Outerwear,Jackets,Unisex,XS,Black,53.48,0.0,4,2024-12-04,"San Francisco, CA",In-Store,Summer,29,No,213.92,53.48
+UQ00637,Hooded Coat,Outerwear,Jackets,Unisex,XL,Gray,110.16,0.0,17,2024-08-30,"Chicago, IL",Online,Spring,76,No,1872.72,110.16
+UQ00638,Cotton Long Sleeve,Tops,Blouses,Women,XL,White,67.8,13.56,11,2024-08-21,"New York, NY",In-Store,Fall,6,Yes,745.8,-851.568
+UQ00639,Cotton Long Sleeve,Tops,T-Shirts,Women,L,Gray,105.26,10.53,10,2025-04-18,"New York, NY",Online,Winter,38,No,1052.6000000000001,-1003.1278
+UQ00640,Ultra Light Down Jacket,Outerwear,Coats,Men,L,Gray,83.42,25.03,7,2025-05-27,"Los Angeles, CA",Online,Winter,62,No,583.94,-2004.5826000000002
+UQ00641,Ultra Stretch Jeans,Bottoms,Shorts,Women,XXL,Red,24.86,7.46,10,2024-11-30,"Chicago, IL",Online,Winter,60,No,248.6,-160.5956
+UQ00642,Chino Shorts,Bottoms,Shorts,Men,M,Gray,45.82,9.16,4,2024-10-18,"Los Angeles, CA",Online,Spring,83,No,183.28,-373.8912
+UQ00643,AIRism T-Shirt,Tops,Shirts,Unisex,XL,Blue,77.6,15.52,7,2024-10-01,"Los Angeles, CA",In-Store,Winter,53,No,543.1999999999999,-1126.752
+UQ00644,Cotton Long Sleeve,Tops,Blouses,Women,XL,Beige,86.93,0.0,13,2025-04-19,"San Francisco, CA",In-Store,Spring,46,No,1130.0900000000001,86.93
+UQ00645,BlockTech Parka,Outerwear,Coats,Unisex,XS,White,143.1,0.0,9,2025-04-09,"New York, NY",Online,Spring,25,No,1287.8999999999999,143.1
+UQ00646,Ultra Light Down Jacket,Outerwear,Jackets,Men,XXL,Black,39.59,3.96,10,2025-05-09,"San Francisco, CA",Online,Fall,87,No,395.90000000000003,-117.1864
+UQ00647,BlockTech Parka,Outerwear,Jackets,Women,XL,Beige,67.44,13.49,10,2024-09-01,"San Francisco, CA",In-Store,Fall,71,No,674.4,-842.3256
+UQ00648,BlockTech Parka,Outerwear,Parkas,Women,XXL,Black,117.69,35.31,17,2024-08-30,"Chicago, IL",In-Store,Spring,25,No,2000.73,-4037.9439
+UQ00649,HeatTech Scarf,Accessories,Bags,Unisex,XXL,Blue,45.69,9.14,4,2024-06-14,"Chicago, IL",Online,Summer,49,No,182.76,-371.9166
+UQ00650,Leggings Pants,Bottoms,Shorts,Unisex,M,Navy,112.37,0.0,4,2025-02-16,"Houston, TX",Online,Fall,59,No,449.48,112.37
+UQ00651,AIRism T-Shirt,Tops,Blouses,Women,XL,Blue,103.9,10.39,18,2024-08-19,"San Francisco, CA",Online,Winter,18,Yes,1870.2,-975.6210000000001
+UQ00652,Ultra Stretch Jeans,Bottoms,Skirts,Men,XXL,Black,97.24,19.45,1,2024-11-06,"Houston, TX",Online,Winter,54,No,97.24,-1794.0779999999997
+UQ00653,Chino Shorts,Bottoms,Shorts,Women,M,White,92.03,0.0,15,2024-10-10,"San Francisco, CA",In-Store,Fall,48,No,1380.45,92.03
+UQ00654,Linen Shirt,Tops,T-Shirts,Men,XS,Beige,113.06,22.61,2,2024-09-21,"San Francisco, CA",Online,Spring,32,No,226.12,-2443.2266
+UQ00655,HeatTech Scarf,Accessories,Scarves,Women,XL,Red,40.24,12.07,17,2025-05-06,"Houston, TX",In-Store,Fall,21,No,684.08,-445.45680000000004
+UQ00656,Hooded Coat,Outerwear,Coats,Women,L,Black,13.21,2.64,15,2024-07-01,"Los Angeles, CA",Online,Fall,34,No,198.15,-21.664400000000004
+UQ00657,Mini Shoulder Bag,Accessories,Bags,Men,XS,Navy,94.89,28.47,11,2025-04-01,"Chicago, IL",Online,Winter,9,Yes,1043.79,-2606.6283
+UQ00658,AIRism T-Shirt,Tops,Blouses,Unisex,L,Red,45.86,9.17,13,2024-09-21,"Houston, TX",In-Store,Fall,56,No,596.18,-374.6762
+UQ00659,Cotton Long Sleeve,Tops,T-Shirts,Unisex,XS,Blue,79.45,15.89,2,2024-10-19,"Houston, TX",Online,Spring,63,No,158.9,-1183.0105
+UQ00660,Chino Shorts,Bottoms,Shorts,Unisex,XL,Blue,29.0,8.7,18,2025-02-09,"New York, NY",In-Store,Winter,66,No,522.0,-223.29999999999998
+UQ00661,BlockTech Parka,Outerwear,Coats,Women,S,Black,71.88,21.56,7,2024-12-19,"Chicago, IL",In-Store,Spring,40,No,503.15999999999997,-1477.8528
+UQ00662,Mini Shoulder Bag,Accessories,Bags,Women,L,Black,106.84,21.37,7,2024-11-07,"Houston, TX",Online,Winter,23,No,747.88,-2176.3308
+UQ00663,Chino Shorts,Bottoms,Jeans,Men,XXL,Navy,27.88,2.79,19,2025-02-23,"Houston, TX",In-Store,Summer,67,No,529.72,-49.9052
+UQ00664,Cotton Long Sleeve,Tops,T-Shirts,Men,L,Gray,111.31,11.13,10,2025-04-28,"New York, NY",Online,Winter,31,No,1113.1,-1127.5703
+UQ00665,Leggings Pants,Bottoms,Shorts,Women,L,Navy,48.28,4.83,14,2024-12-30,"San Francisco, CA",Online,Summer,35,No,675.9200000000001,-184.91240000000002
+UQ00666,Hooded Coat,Outerwear,Parkas,Women,XL,Navy,21.89,6.57,1,2024-10-11,"Houston, TX",Online,Winter,35,No,21.89,-121.9273
+UQ00667,Hooded Coat,Outerwear,Jackets,Unisex,M,Navy,36.76,0.0,8,2025-06-04,"Los Angeles, CA",In-Store,Summer,96,No,294.08,36.76
+UQ00668,Hooded Coat,Outerwear,Parkas,Unisex,XXL,Blue,41.63,4.16,9,2024-06-15,"Los Angeles, CA",In-Store,Spring,67,No,374.67,-131.5508
+UQ00669,Ultra Stretch Jeans,Bottoms,Jeans,Unisex,M,Beige,71.84,7.18,2,2024-07-19,"Houston, TX",Online,Fall,59,No,143.68,-443.9712
+UQ00670,AIRism T-Shirt,Tops,Blouses,Unisex,XXL,Gray,121.95,12.2,8,2025-05-11,"New York, NY",In-Store,Fall,71,No,975.6,-1365.84
+UQ00671,Ultra Stretch Jeans,Bottoms,Skirts,Men,L,Beige,101.02,30.31,12,2024-09-14,"New York, NY",In-Store,Fall,57,No,1212.24,-2960.8961999999997
+UQ00672,AIRism T-Shirt,Tops,Blouses,Unisex,M,White,56.52,16.96,6,2024-08-13,"Los Angeles, CA",In-Store,Winter,1,Yes,339.12,-902.0592000000001
+UQ00673,HeatTech Scarf,Accessories,Bags,Men,XXL,White,149.08,0.0,2,2025-01-16,"Houston, TX",Online,Spring,80,No,298.16,149.08
+UQ00674,Hooded Coat,Outerwear,Parkas,Unisex,XXL,White,149.27,0.0,20,2024-09-16,"San Francisco, CA",In-Store,Fall,7,Yes,2985.4,149.27
+UQ00675,Ultra Light Down Jacket,Outerwear,Coats,Women,M,Blue,91.17,18.23,4,2024-06-19,"Chicago, IL",In-Store,Fall,68,No,364.68,-1570.8591000000001
+UQ00676,Cotton Long Sleeve,Tops,T-Shirts,Unisex,L,Navy,34.44,0.0,15,2024-07-17,"Los Angeles, CA",In-Store,Spring,54,No,516.5999999999999,34.44
+UQ00677,AIRism T-Shirt,Tops,T-Shirts,Unisex,XL,Red,84.92,8.49,16,2025-01-22,"Houston, TX",Online,Fall,11,Yes,1358.72,-636.0508
+UQ00678,BlockTech Parka,Outerwear,Coats,Unisex,XL,Beige,58.56,11.71,12,2024-11-20,"San Francisco, CA",In-Store,Winter,7,Yes,702.72,-627.1776000000001
+UQ00679,HeatTech Scarf,Accessories,Bags,Men,L,Navy,121.26,0.0,16,2024-10-17,"San Francisco, CA",In-Store,Summer,29,No,1940.16,121.26
+UQ00680,Chino Shorts,Bottoms,Shorts,Women,XL,White,42.75,12.82,19,2025-03-14,"San Francisco, CA",Online,Spring,4,Yes,812.25,-505.305
+UQ00681,Cotton Long Sleeve,Tops,Shirts,Men,XXL,Beige,113.11,0.0,12,2025-04-06,"Chicago, IL",Online,Summer,64,No,1357.32,113.11
+UQ00682,UV Cut Hat,Accessories,Scarves,Men,M,Blue,127.78,38.33,20,2024-10-04,"New York, NY",In-Store,Summer,69,No,2555.6,-4770.0274
+UQ00683,Leggings Pants,Bottoms,Jeans,Women,L,Beige,45.89,13.77,8,2024-11-21,"Chicago, IL",Online,Spring,31,No,367.12,-586.0153
+UQ00684,HeatTech Scarf,Accessories,Hats,Women,M,Beige,27.78,2.78,16,2025-01-26,"Los Angeles, CA",In-Store,Spring,75,No,444.48,-49.4484
+UQ00685,Linen Shirt,Tops,Blouses,Women,M,Black,119.38,23.88,2,2024-12-20,"New York, NY",In-Store,Spring,13,Yes,238.76,-2731.4143999999997
+UQ00686,HeatTech Scarf,Accessories,Bags,Unisex,S,Blue,26.37,7.91,18,2024-07-19,"Houston, TX",Online,Winter,65,No,474.66,-182.2167
+UQ00687,Ultra Stretch Jeans,Bottoms,Jeans,Unisex,S,Beige,63.23,18.97,2,2024-11-01,"Los Angeles, CA",In-Store,Fall,90,No,126.46,-1136.2431
+UQ00688,UV Cut Hat,Accessories,Scarves,Men,XL,Red,43.37,0.0,1,2025-05-20,"San Francisco, CA",Online,Winter,74,No,43.37,43.37
+UQ00689,AIRism T-Shirt,Tops,Blouses,Women,M,Beige,125.44,12.54,4,2025-01-14,"Los Angeles, CA",In-Store,Spring,81,No,501.76,-1447.5775999999998
+UQ00690,UV Cut Hat,Accessories,Scarves,Men,XL,Red,82.1,24.63,3,2024-08-17,"San Francisco, CA",Online,Fall,21,No,246.29999999999998,-1940.0229999999997
+UQ00691,Chino Shorts,Bottoms,Skirts,Unisex,XXL,Gray,79.47,23.84,5,2024-09-11,"Chicago, IL",In-Store,Winter,11,Yes,397.35,-1815.0947999999999
+UQ00692,Leggings Pants,Bottoms,Skirts,Women,XS,White,140.18,42.05,10,2024-06-22,"Los Angeles, CA",In-Store,Fall,37,No,1401.8000000000002,-5754.389
+UQ00693,Chino Shorts,Bottoms,Shorts,Unisex,M,Blue,124.34,12.43,3,2025-03-07,"Los Angeles, CA",In-Store,Fall,29,No,373.02,-1421.2062
+UQ00694,Mini Shoulder Bag,Accessories,Hats,Women,L,Red,132.82,26.56,14,2024-11-21,"Chicago, IL",Online,Fall,5,Yes,1859.48,-3394.8792
+UQ00695,BlockTech Parka,Outerwear,Coats,Men,XS,Blue,29.68,2.97,7,2024-06-05,"Chicago, IL",Online,Fall,51,No,207.76,-58.46960000000001
+UQ00696,Chino Shorts,Bottoms,Shorts,Women,S,Beige,124.52,0.0,15,2024-12-23,"San Francisco, CA",In-Store,Spring,20,No,1867.8,124.52
+UQ00697,Hooded Coat,Outerwear,Coats,Unisex,XS,Gray,13.11,0.0,2,2025-05-30,"Houston, TX",Online,Summer,34,No,26.22,13.11
+UQ00698,AIRism T-Shirt,Tops,Shirts,Unisex,XL,Beige,58.35,5.84,20,2025-04-14,"San Francisco, CA",In-Store,Fall,81,No,1167.0,-282.414
+UQ00699,Chino Shorts,Bottoms,Jeans,Men,XS,Black,99.64,19.93,2,2024-12-31,"San Francisco, CA",Online,Spring,24,No,199.28,-1886.1852
+UQ00700,Linen Shirt,Tops,T-Shirts,Unisex,M,White,77.01,23.1,1,2025-02-26,"New York, NY",Online,Fall,35,No,77.01,-1701.9210000000003
+UQ00701,Cotton Long Sleeve,Tops,T-Shirts,Men,M,Beige,94.79,0.0,1,2025-03-11,"San Francisco, CA",Online,Winter,79,No,94.79,94.79
+UQ00702,Chino Shorts,Bottoms,Skirts,Women,XXL,Black,116.97,23.39,20,2025-06-05,"Chicago, IL",In-Store,Winter,2,Yes,2339.4,-2618.9583000000002
+UQ00703,Cotton Long Sleeve,Tops,Blouses,Unisex,L,Gray,143.29,14.33,6,2025-03-20,"New York, NY",In-Store,Spring,24,No,859.74,-1910.0557
+UQ00704,AIRism T-Shirt,Tops,T-Shirts,Women,XXL,White,103.18,10.32,2,2025-03-18,"Chicago, IL",Online,Spring,7,Yes,206.36,-961.6376000000001
+UQ00705,BlockTech Parka,Outerwear,Jackets,Men,XS,Gray,76.85,0.0,4,2025-02-20,"San Francisco, CA",In-Store,Summer,24,No,307.4,76.85
+UQ00706,Ultra Stretch Jeans,Bottoms,Skirts,Women,XXL,White,42.46,0.0,13,2024-08-20,"San Francisco, CA",Online,Summer,59,No,551.98,42.46
+UQ00707,Cotton Long Sleeve,Tops,T-Shirts,Women,M,Blue,118.64,23.73,13,2024-10-24,"New York, NY",Online,Fall,30,No,1542.32,-2696.6872
+UQ00708,Chino Shorts,Bottoms,Jeans,Women,XXL,Black,80.76,16.15,18,2024-11-19,"New York, NY",In-Store,Winter,92,No,1453.68,-1223.514
+UQ00709,Ultra Light Down Jacket,Outerwear,Jackets,Men,S,Black,24.69,0.0,6,2024-07-02,"Houston, TX",Online,Summer,31,No,148.14000000000001,24.69
+UQ00710,Chino Shorts,Bottoms,Shorts,Unisex,L,Red,40.15,12.04,2,2025-02-17,"New York, NY",In-Store,Summer,59,No,80.3,-443.256
+UQ00711,Mini Shoulder Bag,Accessories,Scarves,Unisex,XXL,Gray,60.97,12.19,19,2025-05-28,"Los Angeles, CA",Online,Winter,4,Yes,1158.43,-682.2543
+UQ00712,BlockTech Parka,Outerwear,Coats,Women,XXL,Black,119.21,11.92,10,2024-10-11,"Houston, TX",In-Store,Fall,88,No,1192.1,-1301.7731999999999
+UQ00713,AIRism T-Shirt,Tops,Blouses,Women,S,Blue,18.04,0.0,11,2025-02-02,"Houston, TX",Online,Spring,49,No,198.44,18.04
+UQ00714,UV Cut Hat,Accessories,Scarves,Unisex,XXL,White,17.99,5.4,15,2024-10-04,"San Francisco, CA",In-Store,Spring,72,No,269.84999999999997,-79.156
+UQ00715,BlockTech Parka,Outerwear,Jackets,Men,L,White,70.15,21.05,9,2025-02-17,"New York, NY",Online,Winter,98,No,631.35,-1406.5075000000002
+UQ00716,Linen Shirt,Tops,T-Shirts,Women,S,White,20.35,0.0,14,2025-04-30,"Houston, TX",Online,Summer,6,Yes,284.90000000000003,20.35
+UQ00717,HeatTech Scarf,Accessories,Hats,Men,L,Beige,106.8,0.0,1,2024-07-23,"San Francisco, CA",Online,Spring,3,Yes,106.8,106.8
+UQ00718,Mini Shoulder Bag,Accessories,Scarves,Women,XS,White,98.55,9.86,8,2025-03-11,"Houston, TX",In-Store,Summer,16,Yes,788.4,-873.1529999999999
+UQ00719,Leggings Pants,Bottoms,Skirts,Women,XL,Red,42.47,8.49,20,2025-05-20,"New York, NY",Online,Summer,92,No,849.4,-318.1003
+UQ00720,BlockTech Parka,Outerwear,Jackets,Women,S,Blue,97.25,19.45,6,2024-09-29,"San Francisco, CA",In-Store,Summer,49,No,583.5,-1794.2624999999998
+UQ00721,Chino Shorts,Bottoms,Jeans,Women,XS,Blue,28.2,2.82,20,2024-12-18,"San Francisco, CA",Online,Fall,62,No,564.0,-51.32399999999999
+UQ00722,Ultra Light Down Jacket,Outerwear,Coats,Women,M,Red,72.87,21.86,3,2024-10-03,"Chicago, IL",Online,Fall,6,Yes,218.61,-1520.0682000000002
+UQ00723,Chino Shorts,Bottoms,Shorts,Women,S,Black,83.47,16.69,14,2025-02-18,"New York, NY",Online,Winter,70,No,1168.58,-1309.6443000000002
+UQ00724,Ultra Light Down Jacket,Outerwear,Jackets,Women,S,Navy,112.61,0.0,5,2024-11-10,"Los Angeles, CA",Online,Winter,54,No,563.05,112.61
+UQ00725,Linen Shirt,Tops,Shirts,Men,L,Beige,68.16,20.45,6,2024-10-09,"Chicago, IL",In-Store,Summer,78,No,408.96,-1325.712
+UQ00726,Mini Shoulder Bag,Accessories,Bags,Men,S,Red,91.4,27.42,7,2024-11-08,"Houston, TX",In-Store,Winter,4,Yes,639.8000000000001,-2414.7880000000005
+UQ00727,BlockTech Parka,Outerwear,Jackets,Unisex,XL,Black,40.03,4.0,18,2025-03-02,"Chicago, IL",In-Store,Spring,84,No,720.54,-120.09
+UQ00728,Cotton Long Sleeve,Tops,Blouses,Unisex,M,Blue,37.74,11.32,5,2024-09-27,"Houston, TX",Online,Fall,44,No,188.70000000000002,-389.4768
+UQ00729,BlockTech Parka,Outerwear,Parkas,Unisex,XXL,White,15.87,0.0,17,2025-01-06,"San Francisco, CA",In-Store,Spring,98,No,269.78999999999996,15.87
+UQ00730,Mini Shoulder Bag,Accessories,Bags,Unisex,M,Beige,47.12,9.42,11,2024-07-24,"Houston, TX",In-Store,Spring,62,No,518.3199999999999,-396.75039999999996
+UQ00731,UV Cut Hat,Accessories,Bags,Women,XL,Beige,79.81,23.94,4,2024-08-18,"Los Angeles, CA",Online,Winter,33,No,319.24,-1830.8414000000002
+UQ00732,UV Cut Hat,Accessories,Scarves,Women,M,Black,55.35,0.0,18,2024-11-15,"New York, NY",Online,Summer,98,No,996.3000000000001,55.35
+UQ00733,Cotton Long Sleeve,Tops,Shirts,Men,XXL,Red,62.52,6.25,20,2025-02-18,"San Francisco, CA",Online,Winter,28,No,1250.4,-328.23
+UQ00734,Chino Shorts,Bottoms,Skirts,Women,L,White,74.22,14.84,10,2025-06-05,"Los Angeles, CA",In-Store,Fall,12,Yes,742.2,-1027.2048
+UQ00735,Ultra Stretch Jeans,Bottoms,Skirts,Women,XL,Red,28.54,0.0,17,2024-10-30,"Los Angeles, CA",Online,Winter,8,Yes,485.18,28.54
+UQ00736,HeatTech Scarf,Accessories,Bags,Women,L,Red,141.9,28.38,2,2025-02-23,"Los Angeles, CA",Online,Winter,59,No,283.8,-3885.222
+UQ00737,AIRism T-Shirt,Tops,T-Shirts,Unisex,XL,Black,20.6,4.12,1,2025-03-22,"Los Angeles, CA",In-Store,Spring,9,Yes,20.6,-64.272
+UQ00738,Chino Shorts,Bottoms,Jeans,Men,XL,Beige,140.14,0.0,8,2025-05-21,"New York, NY",In-Store,Fall,20,No,1121.12,140.14
+UQ00739,HeatTech Scarf,Accessories,Hats,Men,M,Gray,125.42,12.54,2,2024-08-11,"Houston, TX",In-Store,Spring,7,Yes,250.84,-1447.3467999999998
+UQ00740,Chino Shorts,Bottoms,Shorts,Women,XS,Black,135.22,27.04,8,2025-01-30,"Chicago, IL",In-Store,Fall,48,No,1081.76,-3521.1288
+UQ00741,Ultra Stretch Jeans,Bottoms,Skirts,Unisex,L,Navy,95.85,9.58,13,2025-01-12,"Los Angeles, CA",In-Store,Spring,82,No,1246.05,-822.3929999999999
+UQ00742,Hooded Coat,Outerwear,Jackets,Women,XL,Gray,24.7,2.47,12,2024-09-29,"Houston, TX",Online,Fall,64,No,296.4,-36.309000000000005
+UQ00743,AIRism T-Shirt,Tops,Shirts,Unisex,XS,Black,71.96,21.59,8,2024-11-09,"Chicago, IL",In-Store,Fall,76,No,575.68,-1481.6563999999998
+UQ00744,UV Cut Hat,Accessories,Scarves,Women,XXL,White,15.22,4.57,11,2025-01-03,"Chicago, IL",Online,Spring,0,Yes,167.42000000000002,-54.33540000000001
+UQ00745,Mini Shoulder Bag,Accessories,Bags,Women,L,White,19.99,6.0,3,2025-04-24,"Los Angeles, CA",Online,Spring,23,No,59.97,-99.94999999999999
+UQ00746,BlockTech Parka,Outerwear,Parkas,Unisex,S,Navy,14.88,0.0,20,2024-06-05,"New York, NY",In-Store,Spring,20,No,297.6,14.88
+UQ00747,Ultra Light Down Jacket,Outerwear,Parkas,Unisex,XL,Gray,64.16,0.0,14,2024-10-01,"Los Angeles, CA",In-Store,Summer,99,No,898.24,64.16
+UQ00748,Ultra Stretch Jeans,Bottoms,Skirts,Unisex,XS,Navy,58.86,5.89,15,2024-09-24,"San Francisco, CA",Online,Summer,82,No,882.9,-287.8254
+UQ00749,Ultra Stretch Jeans,Bottoms,Jeans,Women,XL,Red,102.49,0.0,19,2024-08-25,"Los Angeles, CA",Online,Spring,57,No,1947.31,102.49
+UQ00750,Cotton Long Sleeve,Tops,T-Shirts,Women,XS,White,23.68,4.74,8,2024-11-18,"New York, NY",In-Store,Summer,63,No,189.44,-88.56320000000001
+UQ00751,Cotton Long Sleeve,Tops,Blouses,Men,XXL,Blue,69.3,13.86,15,2025-04-06,"Houston, TX",In-Store,Summer,95,No,1039.5,-891.198
+UQ00752,HeatTech Scarf,Accessories,Scarves,Unisex,XS,White,81.95,24.59,17,2025-01-16,"San Francisco, CA",In-Store,Spring,94,No,1393.15,-1933.2005000000001
+UQ00753,Ultra Light Down Jacket,Outerwear,Coats,Unisex,XL,Blue,119.45,11.95,8,2025-01-26,"San Francisco, CA",In-Store,Fall,24,No,955.6,-1307.9775
+UQ00754,Cotton Long Sleeve,Tops,T-Shirts,Men,M,Gray,146.54,29.31,15,2025-02-14,"Chicago, IL",In-Store,Fall,49,No,2198.1,-4148.5473999999995
+UQ00755,Leggings Pants,Bottoms,Shorts,Women,XS,Gray,11.36,2.27,4,2024-10-08,"San Francisco, CA",Online,Spring,67,No,45.44,-14.4272
+UQ00756,Ultra Light Down Jacket,Outerwear,Jackets,Unisex,S,Beige,118.35,35.5,9,2024-12-02,"Chicago, IL",Online,Summer,88,No,1065.1499999999999,-4083.075
+UQ00757,Ultra Stretch Jeans,Bottoms,Jeans,Unisex,XXL,Blue,84.14,8.41,18,2024-11-23,"San Francisco, CA",In-Store,Spring,9,Yes,1514.52,-623.4774
+UQ00758,Chino Shorts,Bottoms,Shorts,Women,L,Black,121.72,0.0,12,2024-11-23,"Los Angeles, CA",In-Store,Winter,90,No,1460.6399999999999,121.72
+UQ00759,Chino Shorts,Bottoms,Skirts,Men,M,Beige,147.1,0.0,13,2025-02-22,"New York, NY",In-Store,Spring,52,No,1912.3,147.1
+UQ00760,UV Cut Hat,Accessories,Bags,Women,L,Gray,138.74,0.0,16,2024-08-26,"Houston, TX",In-Store,Winter,31,No,2219.84,138.74
+UQ00761,Cotton Long Sleeve,Tops,Shirts,Women,XXL,Red,96.21,28.86,2,2024-12-20,"Houston, TX",In-Store,Fall,10,Yes,192.42,-2680.4105999999997
+UQ00762,BlockTech Parka,Outerwear,Coats,Unisex,XS,Gray,16.02,1.6,17,2024-12-05,"Houston, TX",In-Store,Winter,39,No,272.34,-9.612000000000002
+UQ00763,Leggings Pants,Bottoms,Shorts,Unisex,XS,Black,93.69,28.11,9,2025-04-09,"New York, NY",Online,Spring,24,No,843.21,-2539.9359
+UQ00764,Linen Shirt,Tops,Blouses,Unisex,M,Black,62.54,0.0,14,2025-05-20,"Chicago, IL",Online,Fall,88,No,875.56,62.54
+UQ00765,AIRism T-Shirt,Tops,T-Shirts,Women,XS,Blue,32.82,6.56,20,2025-04-10,"San Francisco, CA",Online,Summer,29,No,656.4,-182.4792
+UQ00766,Mini Shoulder Bag,Accessories,Bags,Unisex,XXL,White,139.86,13.99,12,2025-03-17,"Houston, TX",Online,Fall,31,No,1678.3200000000002,-1816.7814000000003
+UQ00767,Cotton Long Sleeve,Tops,T-Shirts,Unisex,XXL,Navy,79.35,0.0,17,2024-08-09,"Chicago, IL",Online,Winter,20,No,1348.9499999999998,79.35
+UQ00768,Mini Shoulder Bag,Accessories,Hats,Women,XL,Red,49.93,14.98,7,2025-02-15,"New York, NY",Online,Summer,11,Yes,349.51,-698.0214
+UQ00769,Chino Shorts,Bottoms,Jeans,Women,M,Gray,138.55,0.0,18,2024-07-07,"Chicago, IL",Online,Spring,20,No,2493.9,138.55
+UQ00770,Ultra Stretch Jeans,Bottoms,Skirts,Unisex,M,Black,115.61,23.12,8,2024-09-23,"Los Angeles, CA",In-Store,Summer,45,No,924.88,-2557.2932
+UQ00771,Ultra Light Down Jacket,Outerwear,Jackets,Unisex,S,Beige,111.89,33.57,7,2024-12-22,"Los Angeles, CA",In-Store,Summer,22,No,783.23,-3644.2573
+UQ00772,AIRism T-Shirt,Tops,Shirts,Women,S,Beige,101.76,20.35,11,2025-02-17,"New York, NY",Online,Winter,85,No,1119.3600000000001,-1969.0560000000003
+UQ00773,Leggings Pants,Bottoms,Jeans,Unisex,XL,White,115.35,23.07,13,2025-02-05,"New York, NY",In-Store,Winter,81,No,1499.55,-2545.7745
+UQ00774,BlockTech Parka,Outerwear,Parkas,Women,L,Gray,25.01,7.5,15,2025-01-31,"Los Angeles, CA",Online,Winter,51,No,375.15000000000003,-162.565
+UQ00775,Mini Shoulder Bag,Accessories,Hats,Unisex,S,Navy,124.39,0.0,15,2024-10-13,"Los Angeles, CA",Online,Spring,22,No,1865.85,124.39
+UQ00776,Cotton Long Sleeve,Tops,Blouses,Unisex,L,Blue,127.6,0.0,13,2024-07-11,"San Francisco, CA",In-Store,Winter,21,No,1658.8,127.6
+UQ00777,Leggings Pants,Bottoms,Jeans,Unisex,L,Red,85.81,17.16,1,2025-04-18,"San Francisco, CA",Online,Spring,55,No,85.81,-1386.6896000000002
+UQ00778,Mini Shoulder Bag,Accessories,Scarves,Women,XXL,White,95.57,0.0,19,2025-03-23,"Los Angeles, CA",Online,Spring,22,No,1815.83,95.57
+UQ00779,UV Cut Hat,Accessories,Scarves,Men,XS,Red,106.34,0.0,7,2024-09-04,"Los Angeles, CA",Online,Spring,24,No,744.38,106.34
+UQ00780,BlockTech Parka,Outerwear,Parkas,Women,M,Beige,116.46,11.65,15,2025-02-21,"Chicago, IL",In-Store,Fall,7,Yes,1746.8999999999999,-1240.299
+UQ00781,Mini Shoulder Bag,Accessories,Hats,Men,XL,Gray,74.52,22.36,16,2024-10-03,"Los Angeles, CA",In-Store,Winter,71,No,1192.32,-1591.7471999999998
+UQ00782,UV Cut Hat,Accessories,Scarves,Men,S,Black,44.44,4.44,5,2024-08-31,"Los Angeles, CA",Online,Summer,2,Yes,222.2,-152.8736
+UQ00783,Chino Shorts,Bottoms,Shorts,Men,L,Black,148.75,0.0,8,2025-04-14,"Houston, TX",In-Store,Winter,98,No,1190.0,148.75
+UQ00784,Cotton Long Sleeve,Tops,Blouses,Men,M,Gray,66.11,6.61,10,2024-08-21,"Los Angeles, CA",In-Store,Fall,97,No,661.1,-370.87710000000004
+UQ00785,Chino Shorts,Bottoms,Shorts,Men,XXL,Beige,38.46,0.0,10,2024-08-01,"San Francisco, CA",In-Store,Winter,20,No,384.6,38.46
+UQ00786,Ultra Light Down Jacket,Outerwear,Jackets,Unisex,XS,Gray,112.53,11.25,7,2024-06-14,"Houston, TX",In-Store,Spring,90,No,787.71,-1153.4325000000001
+UQ00787,HeatTech Scarf,Accessories,Scarves,Men,XXL,Beige,36.22,10.87,9,2024-06-22,"New York, NY",Online,Fall,12,Yes,325.98,-357.49139999999994
+UQ00788,Ultra Stretch Jeans,Bottoms,Skirts,Unisex,L,Gray,85.32,0.0,4,2024-09-08,"San Francisco, CA",In-Store,Winter,85,No,341.28,85.32
+UQ00789,Mini Shoulder Bag,Accessories,Hats,Women,XS,White,128.63,38.59,12,2024-12-06,"San Francisco, CA",In-Store,Summer,80,No,1543.56,-4835.2017000000005
+UQ00790,Ultra Stretch Jeans,Bottoms,Skirts,Unisex,M,White,11.44,1.14,2,2025-01-28,"New York, NY",In-Store,Fall,52,No,22.88,-1.6015999999999988
+UQ00791,Cotton Long Sleeve,Tops,T-Shirts,Men,M,Red,61.41,0.0,11,2025-05-01,"San Francisco, CA",In-Store,Summer,15,Yes,675.51,61.41
+UQ00792,Linen Shirt,Tops,T-Shirts,Women,M,Black,30.74,0.0,6,2025-03-30,"Los Angeles, CA",Online,Winter,55,No,184.44,30.74
+UQ00793,Leggings Pants,Bottoms,Shorts,Unisex,M,Beige,80.19,16.04,4,2024-07-03,"Houston, TX",Online,Summer,3,Yes,320.76,-1206.0575999999999
+UQ00794,UV Cut Hat,Accessories,Bags,Men,XXL,White,110.99,33.3,3,2024-11-28,"New York, NY",Online,Summer,25,No,332.96999999999997,-3584.9769999999994
+UQ00795,Linen Shirt,Tops,Blouses,Women,XL,Red,64.71,19.41,8,2024-11-12,"New York, NY",Online,Summer,20,No,517.68,-1191.3111
+UQ00796,UV Cut Hat,Accessories,Scarves,Women,L,Blue,13.97,1.4,14,2025-05-15,"New York, NY",In-Store,Fall,3,Yes,195.58,-5.587999999999999
+UQ00797,UV Cut Hat,Accessories,Scarves,Women,M,Navy,35.28,10.58,13,2025-02-04,"Chicago, IL",In-Store,Summer,19,Yes,458.64,-337.98240000000004
+UQ00798,Linen Shirt,Tops,Shirts,Unisex,M,Black,66.23,19.87,7,2025-01-14,"Chicago, IL",In-Store,Summer,3,Yes,463.61,-1249.7601000000002
+UQ00799,UV Cut Hat,Accessories,Hats,Unisex,XS,White,81.32,24.4,3,2024-08-19,"Chicago, IL",Online,Spring,87,No,243.95999999999998,-1902.8879999999997
+UQ00800,Hooded Coat,Outerwear,Jackets,Men,XXL,Navy,24.48,7.34,20,2025-03-10,"New York, NY",Online,Spring,3,Yes,489.6,-155.2032
+UQ00801,Linen Shirt,Tops,Shirts,Unisex,XS,Navy,17.29,5.19,2,2025-03-02,"New York, NY",Online,Spring,29,No,34.58,-72.4451
+UQ00802,Chino Shorts,Bottoms,Skirts,Men,L,Navy,122.6,12.26,19,2024-11-01,"Chicago, IL",Online,Winter,48,No,2329.4,-1380.4759999999999
+UQ00803,Chino Shorts,Bottoms,Shorts,Women,L,Black,99.01,9.9,19,2024-12-13,"San Francisco, CA",Online,Fall,21,No,1881.19,-881.1890000000001
+UQ00804,AIRism T-Shirt,Tops,T-Shirts,Unisex,L,Navy,107.26,10.73,12,2024-11-07,"Los Angeles, CA",In-Store,Winter,29,No,1287.1200000000001,-1043.6398000000002
+UQ00805,UV Cut Hat,Accessories,Scarves,Men,XXL,Red,147.38,44.21,4,2024-09-07,"Houston, TX",Online,Winter,63,No,589.52,-6368.2898
+UQ00806,Ultra Stretch Jeans,Bottoms,Shorts,Women,XXL,Beige,82.74,0.0,13,2024-08-01,"Los Angeles, CA",Online,Fall,99,No,1075.62,82.74
+UQ00807,Chino Shorts,Bottoms,Shorts,Men,S,Gray,27.03,0.0,17,2025-02-14,"Houston, TX",Online,Winter,54,No,459.51,27.03
+UQ00808,Cotton Long Sleeve,Tops,Blouses,Women,XS,Navy,42.92,4.29,20,2025-02-27,"Houston, TX",In-Store,Spring,91,No,858.4000000000001,-141.20680000000002
+UQ00809,HeatTech Scarf,Accessories,Hats,Women,M,Gray,112.89,11.29,11,2024-06-07,"San Francisco, CA",In-Store,Fall,56,No,1241.79,-1161.6381
+UQ00810,BlockTech Parka,Outerwear,Coats,Unisex,S,Beige,140.54,0.0,13,2025-05-17,"Chicago, IL",Online,Summer,32,No,1827.02,140.54
+UQ00811,Ultra Stretch Jeans,Bottoms,Shorts,Women,XXL,White,68.87,20.66,4,2025-03-23,"New York, NY",Online,Winter,19,Yes,275.48,-1353.9842
+UQ00812,BlockTech Parka,Outerwear,Parkas,Unisex,XS,Beige,119.89,35.97,15,2025-05-05,"San Francisco, CA",Online,Spring,69,No,1798.35,-4192.5533
+UQ00813,Ultra Light Down Jacket,Outerwear,Jackets,Unisex,S,Blue,148.66,29.73,11,2025-03-31,"Houston, TX",Online,Winter,8,Yes,1635.26,-4271.0018
+UQ00814,Cotton Long Sleeve,Tops,Shirts,Men,M,Gray,142.94,28.59,5,2025-05-14,"New York, NY",In-Store,Winter,60,No,714.7,-3943.7146
+UQ00815,Hooded Coat,Outerwear,Coats,Women,XL,White,147.05,14.71,3,2024-07-16,"New York, NY",Online,Spring,76,No,441.15000000000003,-2016.0555000000004
+UQ00816,Hooded Coat,Outerwear,Coats,Men,S,Gray,107.94,32.38,13,2025-04-03,"Los Angeles, CA",Online,Summer,69,No,1403.22,-3387.1572
+UQ00817,Ultra Light Down Jacket,Outerwear,Jackets,Women,XS,Navy,82.43,24.73,13,2024-11-17,"Houston, TX",In-Store,Summer,50,No,1071.5900000000001,-1956.0639
+UQ00818,Chino Shorts,Bottoms,Jeans,Unisex,XL,Beige,141.6,0.0,10,2024-08-28,"Houston, TX",In-Store,Winter,34,No,1416.0,141.6
+UQ00819,Mini Shoulder Bag,Accessories,Bags,Men,XL,Blue,70.05,0.0,19,2024-08-12,"Chicago, IL",In-Store,Fall,68,No,1330.95,70.05
+UQ00820,Cotton Long Sleeve,Tops,Blouses,Women,L,Navy,127.77,0.0,5,2025-04-13,"San Francisco, CA",In-Store,Spring,83,No,638.85,127.77
+UQ00821,HeatTech Scarf,Accessories,Scarves,Men,XXL,Gray,122.27,24.45,10,2025-03-02,"Los Angeles, CA",Online,Spring,63,No,1222.7,-2867.2315
+UQ00822,Linen Shirt,Tops,T-Shirts,Unisex,XXL,Red,77.52,15.5,6,2024-12-23,"San Francisco, CA",Online,Summer,89,No,465.12,-1124.04
+UQ00823,Ultra Light Down Jacket,Outerwear,Parkas,Unisex,XXL,White,21.18,2.12,7,2024-12-02,"San Francisco, CA",Online,Winter,38,No,148.26,-23.721600000000002
+UQ00824,Chino Shorts,Bottoms,Skirts,Women,L,Blue,79.4,15.88,1,2024-06-24,"Chicago, IL",In-Store,Fall,23,No,79.4,-1181.4720000000002
+UQ00825,BlockTech Parka,Outerwear,Coats,Women,L,Navy,112.03,11.2,6,2025-01-07,"Chicago, IL",Online,Fall,40,No,672.1800000000001,-1142.706
+UQ00826,AIRism T-Shirt,Tops,Blouses,Men,L,Red,32.15,0.0,12,2024-09-09,"New York, NY",In-Store,Fall,59,No,385.79999999999995,32.15
+UQ00827,UV Cut Hat,Accessories,Hats,Unisex,XL,White,65.74,0.0,20,2025-05-27,"Los Angeles, CA",Online,Fall,23,No,1314.8,65.74
+UQ00828,Cotton Long Sleeve,Tops,Blouses,Women,L,Black,75.99,22.8,12,2025-04-30,"Los Angeles, CA",In-Store,Spring,29,No,911.8799999999999,-1656.5819999999999
+UQ00829,Chino Shorts,Bottoms,Shorts,Women,L,Red,14.98,0.0,7,2024-07-22,"San Francisco, CA",In-Store,Winter,34,No,104.86,14.98
+UQ00830,Hooded Coat,Outerwear,Coats,Unisex,M,White,48.49,4.85,14,2024-11-29,"Los Angeles, CA",Online,Spring,9,Yes,678.86,-186.6865
+UQ00831,Cotton Long Sleeve,Tops,T-Shirts,Men,XXL,Blue,47.97,9.59,10,2024-07-26,"Chicago, IL",In-Store,Fall,88,No,479.7,-412.0623
+UQ00832,Ultra Stretch Jeans,Bottoms,Jeans,Unisex,M,White,118.64,35.59,12,2025-04-12,"New York, NY",In-Store,Spring,72,No,1423.68,-4103.757600000001
+UQ00833,Mini Shoulder Bag,Accessories,Bags,Unisex,XS,Beige,78.16,0.0,11,2024-12-02,"Houston, TX",Online,Fall,83,No,859.76,78.16
+UQ00834,Cotton Long Sleeve,Tops,T-Shirts,Men,S,White,96.66,19.33,11,2025-02-19,"San Francisco, CA",Online,Fall,56,No,1063.26,-1771.7777999999998
+UQ00835,Cotton Long Sleeve,Tops,Blouses,Unisex,L,White,58.33,5.83,18,2024-12-28,"Houston, TX",Online,Winter,32,No,1049.94,-281.7339
+UQ00836,UV Cut Hat,Accessories,Hats,Women,M,Red,117.96,0.0,6,2025-01-08,"San Francisco, CA",In-Store,Summer,14,Yes,707.76,117.96
+UQ00837,Chino Shorts,Bottoms,Skirts,Unisex,XS,Blue,12.96,2.59,11,2025-01-22,"Chicago, IL",Online,Winter,19,Yes,142.56,-20.6064
+UQ00838,Mini Shoulder Bag,Accessories,Scarves,Women,XL,Black,27.82,2.78,16,2024-10-06,"San Francisco, CA",In-Store,Fall,70,No,445.12,-49.5196
+UQ00839,Ultra Stretch Jeans,Bottoms,Skirts,Men,M,Red,64.98,13.0,12,2025-03-25,"Chicago, IL",In-Store,Winter,13,Yes,779.76,-779.76
+UQ00840,HeatTech Scarf,Accessories,Hats,Men,XXL,Blue,112.21,11.22,18,2025-05-17,"Houston, TX",In-Store,Summer,68,No,2019.78,-1146.7862
+UQ00841,Linen Shirt,Tops,Shirts,Women,L,Red,101.48,10.15,5,2024-11-23,"Chicago, IL",In-Store,Fall,87,No,507.40000000000003,-928.542
+UQ00842,Mini Shoulder Bag,Accessories,Bags,Women,XL,Beige,57.26,5.73,19,2025-01-28,"Houston, TX",Online,Summer,88,No,1087.94,-270.8398
+UQ00843,Ultra Stretch Jeans,Bottoms,Jeans,Unisex,L,Blue,142.49,0.0,12,2025-04-17,"New York, NY",Online,Fall,60,No,1709.88,142.49
+UQ00844,BlockTech Parka,Outerwear,Coats,Women,XL,Red,25.87,0.0,18,2025-03-11,"New York, NY",In-Store,Summer,67,No,465.66,25.87
+UQ00845,Hooded Coat,Outerwear,Parkas,Unisex,XS,Red,68.42,13.68,7,2025-05-17,"San Francisco, CA",Online,Winter,85,No,478.94,-867.5656
+UQ00846,AIRism T-Shirt,Tops,T-Shirts,Unisex,M,Red,88.47,8.85,17,2024-12-18,"Los Angeles, CA",In-Store,Summer,23,No,1503.99,-694.4894999999999
+UQ00847,Chino Shorts,Bottoms,Shorts,Men,XXL,Gray,25.97,5.19,2,2024-11-17,"New York, NY",In-Store,Summer,27,No,51.94,-108.8143
+UQ00848,Leggings Pants,Bottoms,Shorts,Women,L,Black,111.09,22.22,9,2025-04-23,"New York, NY",In-Store,Fall,38,No,999.8100000000001,-2357.3298
+UQ00849,HeatTech Scarf,Accessories,Hats,Men,XL,Navy,109.0,32.7,17,2025-05-23,"New York, NY",In-Store,Winter,97,No,1853.0,-3455.3
+UQ00850,HeatTech Scarf,Accessories,Bags,Women,L,Navy,21.34,4.27,6,2025-01-03,"Chicago, IL",Online,Spring,97,No,128.04,-69.78179999999999
+UQ00851,Leggings Pants,Bottoms,Jeans,Unisex,M,Beige,77.76,23.33,5,2024-11-25,"Houston, TX",In-Store,Winter,1,Yes,388.8,-1736.3808
+UQ00852,Ultra Stretch Jeans,Bottoms,Skirts,Unisex,S,Navy,102.89,20.58,2,2025-05-19,"Los Angeles, CA",Online,Spring,73,No,205.78,-2014.5861999999997
+UQ00853,Ultra Light Down Jacket,Outerwear,Coats,Men,XL,Black,74.62,0.0,16,2024-08-05,"Chicago, IL",Online,Spring,50,No,1193.92,74.62
+UQ00854,UV Cut Hat,Accessories,Hats,Unisex,XS,Black,101.04,20.21,12,2025-03-20,"Los Angeles, CA",Online,Winter,87,No,1212.48,-1940.9784000000002
+UQ00855,Chino Shorts,Bottoms,Skirts,Men,XS,Blue,120.08,24.02,6,2025-05-05,"Chicago, IL",In-Store,Winter,59,No,720.48,-2764.2416
+UQ00856,Linen Shirt,Tops,T-Shirts,Women,M,Red,59.74,5.97,3,2024-12-06,"Los Angeles, CA",In-Store,Summer,63,No,179.22,-296.9078
+UQ00857,AIRism T-Shirt,Tops,Shirts,Men,M,Beige,121.06,0.0,17,2024-11-26,"San Francisco, CA",Online,Fall,63,No,2058.02,121.06
+UQ00858,UV Cut Hat,Accessories,Hats,Men,L,Gray,57.47,0.0,20,2024-09-13,"Los Angeles, CA",Online,Fall,25,No,1149.4,57.47
+UQ00859,BlockTech Parka,Outerwear,Coats,Women,XL,Red,56.13,0.0,14,2025-03-23,"New York, NY",Online,Fall,85,No,785.82,56.13
+UQ00860,Mini Shoulder Bag,Accessories,Bags,Men,S,White,12.41,0.0,8,2024-09-09,"San Francisco, CA",Online,Spring,84,No,99.28,12.41
+UQ00861,BlockTech Parka,Outerwear,Jackets,Women,L,Gray,102.25,0.0,20,2025-04-27,"New York, NY",In-Store,Summer,91,No,2045.0,102.25
+UQ00862,Cotton Long Sleeve,Tops,T-Shirts,Men,M,White,45.67,4.57,9,2025-02-07,"Houston, TX",Online,Fall,39,No,411.03000000000003,-163.04190000000003
+UQ00863,HeatTech Scarf,Accessories,Scarves,Women,L,Beige,147.8,14.78,17,2024-09-20,"Los Angeles, CA",In-Store,Fall,62,No,2512.6000000000004,-2036.684
+UQ00864,BlockTech Parka,Outerwear,Coats,Men,L,Navy,87.25,0.0,3,2025-03-29,"San Francisco, CA",Online,Fall,71,No,261.75,87.25
+UQ00865,AIRism T-Shirt,Tops,T-Shirts,Men,XS,Red,49.44,14.83,10,2025-04-03,"Chicago, IL",Online,Winter,98,No,494.4,-683.7552
+UQ00866,Leggings Pants,Bottoms,Skirts,Men,XS,Blue,24.67,0.0,20,2024-12-24,"New York, NY",Online,Summer,22,No,493.40000000000003,24.67
+UQ00867,HeatTech Scarf,Accessories,Hats,Women,S,Black,124.99,37.5,18,2024-12-10,"Los Angeles, CA",In-Store,Fall,42,No,2249.8199999999997,-4562.135
+UQ00868,Cotton Long Sleeve,Tops,Shirts,Unisex,L,Red,118.49,11.85,19,2025-02-03,"Chicago, IL",Online,Summer,10,Yes,2251.31,-1285.6164999999999
+UQ00869,Chino Shorts,Bottoms,Shorts,Women,M,Black,38.43,11.53,10,2024-09-05,"Los Angeles, CA",In-Store,Winter,7,Yes,384.3,-404.6679
+UQ00870,Ultra Light Down Jacket,Outerwear,Jackets,Women,XL,Blue,50.1,15.03,9,2024-09-19,"Houston, TX",Online,Spring,35,No,450.90000000000003,-702.903
+UQ00871,Cotton Long Sleeve,Tops,Shirts,Women,XXL,White,48.6,14.58,8,2024-11-22,"Los Angeles, CA",In-Store,Summer,54,No,388.8,-659.988
+UQ00872,Ultra Light Down Jacket,Outerwear,Coats,Women,L,Black,99.87,9.99,15,2024-07-05,"Chicago, IL",Online,Spring,47,No,1498.0500000000002,-897.8313
+UQ00873,UV Cut Hat,Accessories,Bags,Women,M,Beige,135.47,40.64,18,2025-03-09,"Chicago, IL",In-Store,Spring,41,No,2438.46,-5370.0308
+UQ00874,Mini Shoulder Bag,Accessories,Scarves,Unisex,XS,Black,72.56,0.0,6,2024-09-23,"Houston, TX",In-Store,Summer,11,Yes,435.36,72.56
+UQ00875,Chino Shorts,Bottoms,Shorts,Unisex,XL,Beige,33.14,3.31,16,2024-09-04,"Houston, TX",Online,Spring,2,Yes,530.24,-76.5534
+UQ00876,Chino Shorts,Bottoms,Jeans,Women,M,Black,60.73,0.0,18,2024-09-18,"New York, NY",In-Store,Winter,39,No,1093.1399999999999,60.73
+UQ00877,Chino Shorts,Bottoms,Skirts,Men,M,Beige,80.89,0.0,1,2024-10-13,"Los Angeles, CA",In-Store,Fall,7,Yes,80.89,80.89
+UQ00878,Ultra Stretch Jeans,Bottoms,Skirts,Women,XL,Blue,135.06,0.0,16,2024-10-07,"Houston, TX",Online,Fall,3,Yes,2160.96,135.06
+UQ00879,HeatTech Scarf,Accessories,Scarves,Women,S,Gray,121.7,12.17,14,2025-05-17,"Los Angeles, CA",Online,Winter,18,Yes,1703.8,-1359.3890000000001
+UQ00880,Chino Shorts,Bottoms,Jeans,Men,M,Blue,133.44,26.69,12,2024-12-31,"San Francisco, CA",Online,Fall,10,Yes,1601.28,-3428.0736
+UQ00881,UV Cut Hat,Accessories,Hats,Women,XXL,Red,80.63,16.13,16,2024-07-06,"San Francisco, CA",In-Store,Summer,0,Yes,1290.08,-1219.9318999999998
+UQ00882,Hooded Coat,Outerwear,Jackets,Women,M,Red,68.39,20.52,13,2024-07-28,"Chicago, IL",In-Store,Winter,33,No,889.07,-1334.9728
+UQ00883,Ultra Stretch Jeans,Bottoms,Shorts,Women,S,Beige,33.13,6.63,6,2024-08-02,"Houston, TX",In-Store,Winter,94,No,198.78000000000003,-186.52190000000002
+UQ00884,Leggings Pants,Bottoms,Skirts,Women,S,Beige,101.76,10.18,5,2024-09-02,"Chicago, IL",Online,Winter,24,No,508.8,-934.1568
+UQ00885,Chino Shorts,Bottoms,Skirts,Men,XXL,Navy,22.92,2.29,4,2024-10-31,"Los Angeles, CA",Online,Fall,24,No,91.68,-29.566800000000004
+UQ00886,UV Cut Hat,Accessories,Bags,Women,M,Blue,125.11,0.0,5,2025-03-01,"New York, NY",Online,Spring,98,No,625.55,125.11
+UQ00887,BlockTech Parka,Outerwear,Coats,Men,L,Gray,36.14,0.0,9,2024-08-03,"Los Angeles, CA",In-Store,Spring,49,No,325.26,36.14
+UQ00888,Leggings Pants,Bottoms,Jeans,Women,XXL,Black,25.4,0.0,12,2025-03-06,"San Francisco, CA",In-Store,Spring,10,Yes,304.79999999999995,25.4
+UQ00889,HeatTech Scarf,Accessories,Bags,Women,L,Black,136.08,40.82,12,2024-08-27,"Los Angeles, CA",Online,Spring,72,No,1632.96,-5418.7056
+UQ00890,Ultra Stretch Jeans,Bottoms,Shorts,Men,L,Black,59.99,0.0,2,2024-06-29,"Chicago, IL",In-Store,Summer,85,No,119.98,59.99
+UQ00891,Leggings Pants,Bottoms,Jeans,Unisex,XXL,Beige,125.85,12.59,16,2024-11-13,"Houston, TX",Online,Winter,20,No,2013.6,-1458.6015
+UQ00892,Ultra Stretch Jeans,Bottoms,Shorts,Unisex,S,Beige,25.71,2.57,1,2024-11-10,"Los Angeles, CA",Online,Spring,84,No,25.71,-40.3647
+UQ00893,Ultra Stretch Jeans,Bottoms,Jeans,Men,XS,Navy,68.72,6.87,2,2024-10-11,"New York, NY",Online,Spring,40,No,137.44,-403.3864
+UQ00894,Hooded Coat,Outerwear,Coats,Women,L,Red,113.45,11.35,18,2025-01-01,"Los Angeles, CA",In-Store,Summer,57,No,2042.1000000000001,-1174.2075
+UQ00895,Chino Shorts,Bottoms,Shorts,Men,L,White,95.83,0.0,16,2024-12-02,"Los Angeles, CA",Online,Summer,21,No,1533.28,95.83
+UQ00896,UV Cut Hat,Accessories,Scarves,Unisex,XL,Gray,113.23,33.97,12,2024-11-13,"Los Angeles, CA",In-Store,Fall,10,Yes,1358.76,-3733.1931
+UQ00897,Chino Shorts,Bottoms,Shorts,Unisex,XS,Red,128.02,12.8,3,2024-06-29,"Chicago, IL",In-Store,Winter,32,No,384.06000000000006,-1510.6360000000002
+UQ00898,BlockTech Parka,Outerwear,Coats,Men,XXL,Gray,27.58,2.76,16,2024-08-24,"Houston, TX",Online,Spring,33,No,441.28,-48.54079999999999
+UQ00899,UV Cut Hat,Accessories,Bags,Unisex,XS,Gray,55.41,0.0,8,2025-04-24,"Chicago, IL",Online,Fall,27,No,443.28,55.41
+UQ00900,Ultra Light Down Jacket,Outerwear,Jackets,Women,XXL,White,105.33,21.07,6,2024-11-15,"Houston, TX",In-Store,Spring,72,No,631.98,-2113.9731
+UQ00901,Hooded Coat,Outerwear,Parkas,Women,XXL,Beige,101.64,30.49,1,2024-11-03,"Chicago, IL",In-Store,Summer,71,No,101.64,-2997.3635999999997
+UQ00902,BlockTech Parka,Outerwear,Coats,Men,S,Beige,20.07,0.0,3,2025-05-22,"Houston, TX",In-Store,Winter,3,Yes,60.21,20.07
+UQ00903,AIRism T-Shirt,Tops,Blouses,Unisex,S,Black,131.19,13.12,15,2025-03-30,"Houston, TX",Online,Winter,37,No,1967.85,-1590.0228
+UQ00904,Ultra Light Down Jacket,Outerwear,Jackets,Men,XXL,Gray,60.35,18.11,3,2025-01-17,"New York, NY",In-Store,Summer,56,No,181.05,-1032.5885
+UQ00905,Mini Shoulder Bag,Accessories,Hats,Women,S,Beige,52.45,10.49,14,2025-03-02,"Chicago, IL",Online,Fall,13,Yes,734.3000000000001,-497.75050000000005
+UQ00906,Ultra Stretch Jeans,Bottoms,Shorts,Unisex,XXL,Blue,136.41,40.92,17,2024-06-12,"San Francisco, CA",Online,Winter,38,No,2318.97,-5445.4872000000005
+UQ00907,Leggings Pants,Bottoms,Jeans,Men,L,Blue,122.94,36.88,13,2025-05-03,"Chicago, IL",In-Store,Winter,78,No,1598.22,-4411.0872
+UQ00908,Cotton Long Sleeve,Tops,T-Shirts,Women,XS,Black,46.34,0.0,1,2025-05-13,"Los Angeles, CA",Online,Fall,5,Yes,46.34,46.34
+UQ00909,Ultra Light Down Jacket,Outerwear,Parkas,Unisex,XXL,Navy,103.8,10.38,2,2025-03-29,"New York, NY",In-Store,Summer,45,No,207.6,-973.644
+UQ00910,Mini Shoulder Bag,Accessories,Hats,Women,S,Beige,74.35,14.87,4,2025-01-14,"San Francisco, CA",Online,Winter,71,No,297.4,-1031.2344999999998
+UQ00911,UV Cut Hat,Accessories,Scarves,Women,XS,Red,27.94,8.38,19,2024-10-30,"Los Angeles, CA",In-Store,Fall,29,No,530.86,-206.19720000000004
+UQ00912,Hooded Coat,Outerwear,Jackets,Men,XL,Navy,122.23,12.22,20,2024-12-07,"Houston, TX",In-Store,Summer,24,No,2444.6,-1371.4206000000001
+UQ00913,Hooded Coat,Outerwear,Jackets,Women,XS,Black,68.9,20.67,14,2024-06-07,"Chicago, IL",In-Store,Spring,25,No,964.6000000000001,-1355.2630000000001
+UQ00914,BlockTech Parka,Outerwear,Jackets,Women,XL,Gray,145.17,14.52,16,2024-10-19,"New York, NY",In-Store,Winter,82,No,2322.72,-1962.6983999999998
+UQ00915,BlockTech Parka,Outerwear,Coats,Unisex,M,White,146.09,0.0,3,2024-09-28,"Los Angeles, CA",In-Store,Winter,41,No,438.27,146.09
+UQ00916,Chino Shorts,Bottoms,Shorts,Women,M,Red,107.8,10.78,20,2025-03-24,"Chicago, IL",In-Store,Spring,44,No,2156.0,-1054.2839999999999
+UQ00917,Ultra Light Down Jacket,Outerwear,Coats,Unisex,XL,Red,144.69,14.47,9,2024-11-03,"Los Angeles, CA",Online,Summer,18,Yes,1302.21,-1948.9743
+UQ00918,Leggings Pants,Bottoms,Shorts,Women,M,Navy,132.09,39.63,14,2025-05-02,"San Francisco, CA",In-Store,Winter,37,No,1849.26,-5102.6367
+UQ00919,HeatTech Scarf,Accessories,Hats,Men,L,Blue,26.73,2.67,4,2025-05-17,"Houston, TX",In-Store,Summer,39,No,106.92,-44.6391
+UQ00920,AIRism T-Shirt,Tops,T-Shirts,Unisex,XS,Black,46.76,9.35,9,2025-04-25,"Houston, TX",In-Store,Summer,63,No,420.84,-390.44599999999997
+UQ00921,UV Cut Hat,Accessories,Scarves,Unisex,L,Navy,89.3,26.79,20,2024-11-14,"Chicago, IL",In-Store,Summer,88,No,1786.0,-2303.047
+UQ00922,Chino Shorts,Bottoms,Jeans,Unisex,M,White,125.33,25.07,3,2024-12-31,"Houston, TX",Online,Spring,58,No,375.99,-3016.6931
+UQ00923,Mini Shoulder Bag,Accessories,Scarves,Unisex,XL,Black,112.13,22.43,9,2025-03-22,"Chicago, IL",In-Store,Winter,67,No,1009.17,-2402.9458999999997
+UQ00924,Ultra Light Down Jacket,Outerwear,Parkas,Men,XS,Red,18.93,0.0,8,2025-03-17,"Houston, TX",In-Store,Fall,1,Yes,151.44,18.93
+UQ00925,BlockTech Parka,Outerwear,Jackets,Unisex,XS,Beige,103.39,10.34,14,2025-01-03,"Los Angeles, CA",Online,Spring,85,No,1447.46,-965.6626
+UQ00926,Hooded Coat,Outerwear,Jackets,Unisex,XS,Beige,134.82,40.45,16,2025-04-11,"Los Angeles, CA",In-Store,Spring,92,No,2157.12,-5318.649
+UQ00927,Hooded Coat,Outerwear,Coats,Women,XS,Blue,127.24,25.45,16,2025-01-25,"Chicago, IL",Online,Fall,29,No,2035.84,-3111.0179999999996
+UQ00928,Ultra Stretch Jeans,Bottoms,Jeans,Men,S,Gray,69.99,7.0,11,2025-05-19,"Chicago, IL",Online,Fall,63,No,769.89,-419.93999999999994
+UQ00929,AIRism T-Shirt,Tops,Shirts,Men,S,Navy,120.38,12.04,5,2024-08-29,"New York, NY",Online,Fall,47,No,601.9,-1328.9951999999998
+UQ00930,UV Cut Hat,Accessories,Hats,Unisex,XS,Blue,126.29,0.0,3,2024-12-11,"Houston, TX",Online,Spring,43,No,378.87,126.29
+UQ00931,Ultra Stretch Jeans,Bottoms,Skirts,Unisex,S,Gray,25.99,2.6,9,2024-08-29,"Chicago, IL",Online,Winter,60,No,233.91,-41.584
+UQ00932,HeatTech Scarf,Accessories,Bags,Men,XXL,Red,14.47,4.34,3,2024-09-18,"Los Angeles, CA",In-Store,Summer,80,No,43.410000000000004,-48.3298
+UQ00933,Ultra Stretch Jeans,Bottoms,Jeans,Unisex,S,Navy,18.96,0.0,1,2024-11-21,"Chicago, IL",Online,Summer,7,Yes,18.96,18.96
+UQ00934,Ultra Stretch Jeans,Bottoms,Shorts,Unisex,XS,Blue,82.34,8.23,15,2024-12-10,"San Francisco, CA",Online,Summer,39,No,1235.1000000000001,-595.3182
+UQ00935,UV Cut Hat,Accessories,Scarves,Women,S,Navy,54.27,5.43,12,2024-06-16,"Chicago, IL",In-Store,Spring,45,No,651.24,-240.4161
+UQ00936,Mini Shoulder Bag,Accessories,Bags,Unisex,L,White,118.24,35.47,9,2024-11-03,"New York, NY",In-Store,Fall,18,Yes,1064.1599999999999,-4075.7327999999998
+UQ00937,Mini Shoulder Bag,Accessories,Bags,Men,XXL,White,134.85,26.97,8,2024-10-13,"New York, NY",In-Store,Fall,20,No,1078.8,-3502.0544999999997
+UQ00938,AIRism T-Shirt,Tops,T-Shirts,Men,M,Gray,98.28,29.48,20,2025-02-19,"Chicago, IL",In-Store,Summer,28,No,1965.6,-2799.0144
+UQ00939,HeatTech Scarf,Accessories,Hats,Women,S,Navy,99.44,9.94,7,2025-02-23,"San Francisco, CA",Online,Fall,91,No,696.0799999999999,-888.9935999999999
+UQ00940,Hooded Coat,Outerwear,Jackets,Women,L,White,24.49,4.9,12,2025-04-10,"New York, NY",Online,Fall,44,No,293.88,-95.511
+UQ00941,Leggings Pants,Bottoms,Shorts,Women,S,Blue,145.81,29.16,12,2024-11-09,"Chicago, IL",Online,Spring,65,No,1749.72,-4106.0096
+UQ00942,UV Cut Hat,Accessories,Scarves,Women,L,Blue,47.92,14.38,9,2025-03-13,"Chicago, IL",In-Store,Fall,0,Yes,431.28000000000003,-641.1696000000001
+UQ00943,Leggings Pants,Bottoms,Skirts,Women,XL,Black,47.55,14.26,6,2024-08-08,"Chicago, IL",In-Store,Summer,5,Yes,285.29999999999995,-630.5129999999999
+UQ00944,AIRism T-Shirt,Tops,Blouses,Women,XL,Beige,134.71,0.0,18,2025-04-27,"Chicago, IL",In-Store,Spring,16,Yes,2424.78,134.71
+UQ00945,Mini Shoulder Bag,Accessories,Hats,Unisex,XL,Red,15.47,0.0,6,2024-12-03,"San Francisco, CA",Online,Spring,89,No,92.82000000000001,15.47
+UQ00946,HeatTech Scarf,Accessories,Bags,Men,L,Blue,136.93,0.0,19,2025-05-28,"Chicago, IL",Online,Summer,64,No,2601.67,136.93
+UQ00947,Cotton Long Sleeve,Tops,T-Shirts,Men,XXL,Beige,72.97,7.3,13,2024-07-24,"Houston, TX",In-Store,Spring,98,No,948.61,-459.71099999999996
+UQ00948,BlockTech Parka,Outerwear,Coats,Women,XXL,Navy,37.35,11.21,3,2025-02-01,"Houston, TX",In-Store,Winter,47,No,112.05000000000001,-381.34350000000006
+UQ00949,Mini Shoulder Bag,Accessories,Hats,Women,M,Navy,49.2,9.84,17,2024-12-29,"Houston, TX",In-Store,Fall,12,Yes,836.4000000000001,-434.928
+UQ00950,Chino Shorts,Bottoms,Jeans,Men,S,White,85.08,17.02,17,2024-06-15,"Houston, TX",Online,Winter,45,No,1446.36,-1362.9815999999998
+UQ00951,Mini Shoulder Bag,Accessories,Bags,Unisex,XL,Gray,16.83,1.68,8,2025-05-23,"Houston, TX",Online,Winter,42,No,134.64,-11.444399999999998
+UQ00952,Cotton Long Sleeve,Tops,Shirts,Men,S,Navy,128.05,38.41,1,2024-11-05,"Chicago, IL",Online,Winter,89,No,128.05,-4790.3505
+UQ00953,BlockTech Parka,Outerwear,Jackets,Unisex,M,Blue,74.7,14.94,17,2025-01-20,"Los Angeles, CA",Online,Summer,63,No,1269.9,-1041.318
+UQ00954,Chino Shorts,Bottoms,Shorts,Men,S,Beige,81.67,8.17,11,2025-01-10,"Los Angeles, CA",Online,Summer,53,No,898.37,-585.5739
+UQ00955,BlockTech Parka,Outerwear,Parkas,Women,L,White,140.35,28.07,9,2025-02-17,"Chicago, IL",Online,Winter,87,No,1263.1499999999999,-3799.2745
+UQ00956,Ultra Stretch Jeans,Bottoms,Shorts,Men,L,Navy,22.09,2.21,9,2024-06-15,"Los Angeles, CA",In-Store,Spring,16,Yes,198.81,-26.7289
+UQ00957,HeatTech Scarf,Accessories,Bags,Unisex,XS,Black,25.84,0.0,19,2024-07-07,"Houston, TX",In-Store,Winter,58,No,490.96,25.84
+UQ00958,BlockTech Parka,Outerwear,Parkas,Men,XS,Blue,80.94,24.28,9,2025-02-09,"New York, NY",Online,Spring,38,No,728.46,-1884.2832
+UQ00959,Linen Shirt,Tops,Shirts,Men,XXL,Navy,79.0,7.9,11,2024-11-18,"San Francisco, CA",Online,Spring,18,Yes,869.0,-545.1
+UQ00960,Cotton Long Sleeve,Tops,Shirts,Unisex,XS,Blue,72.98,0.0,14,2024-07-27,"Houston, TX",Online,Spring,44,No,1021.72,72.98
+UQ00961,Ultra Stretch Jeans,Bottoms,Jeans,Men,XS,Blue,65.14,13.03,12,2025-05-07,"New York, NY",In-Store,Winter,18,Yes,781.6800000000001,-783.6342
+UQ00962,HeatTech Scarf,Accessories,Hats,Women,S,Blue,67.44,13.49,8,2024-12-01,"San Francisco, CA",Online,Winter,60,No,539.52,-842.3256
+UQ00963,HeatTech Scarf,Accessories,Bags,Men,M,Beige,109.86,10.99,12,2024-08-14,"Chicago, IL",Online,Winter,60,No,1318.32,-1097.5014
+UQ00964,Hooded Coat,Outerwear,Coats,Men,XS,White,53.21,0.0,13,2024-06-24,"San Francisco, CA",In-Store,Spring,89,No,691.73,53.21
+UQ00965,UV Cut Hat,Accessories,Scarves,Men,S,White,143.61,0.0,5,2024-09-14,"Los Angeles, CA",In-Store,Summer,7,Yes,718.0500000000001,143.61
+UQ00966,HeatTech Scarf,Accessories,Scarves,Men,L,Beige,130.7,39.21,14,2024-10-30,"Los Angeles, CA",Online,Winter,86,No,1829.7999999999997,-4994.047
+UQ00967,Ultra Stretch Jeans,Bottoms,Jeans,Women,XXL,Red,110.36,0.0,15,2024-10-10,"New York, NY",In-Store,Spring,86,No,1655.4,110.36
+UQ00968,Ultra Stretch Jeans,Bottoms,Skirts,Men,M,White,15.58,4.67,20,2024-08-26,"Los Angeles, CA",Online,Summer,81,No,311.6,-57.178599999999996
+UQ00969,Linen Shirt,Tops,Shirts,Men,XXL,Beige,45.84,9.17,4,2024-11-28,"Los Angeles, CA",In-Store,Fall,93,No,183.36,-374.5128
+UQ00970,Hooded Coat,Outerwear,Parkas,Unisex,XXL,Red,121.95,24.39,4,2024-10-09,"San Francisco, CA",In-Store,Summer,81,No,487.8,-2852.4105
+UQ00971,BlockTech Parka,Outerwear,Coats,Women,M,Gray,22.82,6.85,15,2024-10-14,"Chicago, IL",In-Store,Summer,27,No,342.3,-133.49699999999999
+UQ00972,Ultra Light Down Jacket,Outerwear,Coats,Women,M,White,86.84,0.0,17,2025-03-27,"Chicago, IL",In-Store,Spring,96,No,1476.28,86.84
+UQ00973,AIRism T-Shirt,Tops,Shirts,Unisex,M,Beige,66.49,6.65,19,2025-05-12,"Los Angeles, CA",In-Store,Winter,14,Yes,1263.31,-375.6685
+UQ00974,Ultra Stretch Jeans,Bottoms,Shorts,Women,M,Blue,114.88,22.98,2,2024-10-30,"San Francisco, CA",Online,Winter,62,No,229.76,-2525.0624
+UQ00975,Mini Shoulder Bag,Accessories,Scarves,Men,L,Gray,100.35,10.04,10,2024-09-21,"Houston, TX",Online,Fall,65,No,1003.5,-907.1639999999999
+UQ00976,Ultra Stretch Jeans,Bottoms,Shorts,Men,L,Red,134.23,13.42,13,2025-03-24,"Chicago, IL",Online,Spring,9,Yes,1744.9899999999998,-1667.1365999999998
+UQ00977,BlockTech Parka,Outerwear,Coats,Women,M,Navy,80.2,24.06,19,2025-04-24,"New York, NY",Online,Spring,72,No,1523.8,-1849.412
+UQ00978,UV Cut Hat,Accessories,Hats,Women,XS,Navy,95.66,9.57,3,2024-11-15,"San Francisco, CA",Online,Summer,83,No,286.98,-819.8062
+UQ00979,Mini Shoulder Bag,Accessories,Scarves,Women,S,White,99.2,0.0,2,2024-09-10,"New York, NY",Online,Winter,92,No,198.4,99.2
+UQ00980,Mini Shoulder Bag,Accessories,Scarves,Unisex,S,Gray,19.2,5.76,16,2025-04-25,"Houston, TX",In-Store,Spring,93,No,307.2,-91.392
+UQ00981,Cotton Long Sleeve,Tops,Blouses,Women,XXL,Navy,29.8,0.0,17,2024-07-06,"Los Angeles, CA",In-Store,Spring,40,No,506.6,29.8
+UQ00982,Mini Shoulder Bag,Accessories,Bags,Women,S,Navy,68.98,0.0,3,2024-12-04,"Chicago, IL",Online,Winter,64,No,206.94,68.98
+UQ00983,Mini Shoulder Bag,Accessories,Scarves,Women,XS,Black,21.71,2.17,15,2024-06-12,"New York, NY",Online,Winter,89,No,325.65000000000003,-25.4007
+UQ00984,Linen Shirt,Tops,T-Shirts,Unisex,XXL,Beige,137.32,0.0,17,2025-03-22,"Houston, TX",In-Store,Fall,94,No,2334.44,137.32
+UQ00985,Hooded Coat,Outerwear,Jackets,Unisex,S,Blue,75.23,22.57,6,2024-12-31,"Chicago, IL",Online,Fall,27,No,451.38,-1622.7111000000002
+UQ00986,BlockTech Parka,Outerwear,Jackets,Men,S,White,64.13,19.24,11,2024-06-25,"Houston, TX",Online,Winter,17,Yes,705.43,-1169.7311999999997
+UQ00987,Mini Shoulder Bag,Accessories,Bags,Men,XXL,Gray,66.45,19.93,13,2024-10-18,"Chicago, IL",In-Store,Summer,72,No,863.85,-1257.8985
+UQ00988,HeatTech Scarf,Accessories,Hats,Women,M,White,52.78,15.83,12,2024-08-31,"San Francisco, CA",In-Store,Fall,97,No,633.36,-782.7274
+UQ00989,Chino Shorts,Bottoms,Skirts,Unisex,XXL,Red,63.69,0.0,3,2025-02-12,"San Francisco, CA",In-Store,Spring,27,No,191.07,63.69
+UQ00990,Ultra Stretch Jeans,Bottoms,Skirts,Men,M,Gray,91.0,9.1,9,2024-07-01,"Houston, TX",Online,Fall,62,No,819.0,-737.1
+UQ00991,BlockTech Parka,Outerwear,Coats,Men,M,Black,23.74,0.0,11,2025-04-04,"Los Angeles, CA",In-Store,Winter,47,No,261.14,23.74
+UQ00992,UV Cut Hat,Accessories,Hats,Men,L,Red,11.62,0.0,4,2025-02-13,"Los Angeles, CA",In-Store,Spring,32,No,46.48,11.62
+UQ00993,Linen Shirt,Tops,Blouses,Unisex,M,Navy,83.51,25.05,2,2024-06-20,"San Francisco, CA",In-Store,Winter,55,No,167.02,-2008.4155000000003
+UQ00994,Leggings Pants,Bottoms,Shorts,Unisex,XL,Blue,33.09,6.62,7,2025-03-24,"San Francisco, CA",In-Store,Winter,67,No,231.63000000000002,-185.96580000000003
+UQ00995,Cotton Long Sleeve,Tops,T-Shirts,Men,XS,Red,16.17,4.85,1,2024-06-17,"San Francisco, CA",Online,Spring,64,No,16.17,-62.2545
+UQ00996,Leggings Pants,Bottoms,Jeans,Women,S,Beige,142.43,28.49,19,2024-09-09,"San Francisco, CA",In-Store,Winter,28,No,2706.17,-3915.4007
+UQ00997,Leggings Pants,Bottoms,Jeans,Unisex,M,Black,82.31,24.69,18,2024-08-21,"San Francisco, CA",Online,Summer,91,No,1481.58,-1949.9239000000002
+UQ00998,Linen Shirt,Tops,Shirts,Unisex,XXL,White,10.84,3.25,15,2025-04-26,"Chicago, IL",In-Store,Winter,94,No,162.6,-24.39
+UQ00999,Ultra Stretch Jeans,Bottoms,Skirts,Unisex,XL,Red,120.74,36.22,11,2024-06-12,"Chicago, IL",Online,Fall,48,No,1328.1399999999999,-4252.462799999999
+UQ01000,Linen Shirt,Tops,Blouses,Unisex,L,Red,24.08,4.82,5,2025-02-01,"Houston, TX",In-Store,Winter,7,Yes,120.39999999999999,-91.9856
