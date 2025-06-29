@@ -33,7 +33,19 @@ This project analyzes synthetic sales data from a fictional UNIQLO retail enviro
 > View all KPIs and visual trends in an interactive dashboard.
 
 🧾 File: `dashboards/uniqlo_dashboard.twbx`  
-📍 Tool: Tableau Desktop or Tableau Public
+📍 Tool: Tableau Public
+
+![Dashboard Preview](dashboards/dashboard_screenshot.png)
+
+---
+
+## ✨ Features
+
+- Cleaned and transformed raw sales data for analysis
+- Created a relational database using SQLite
+- Generated SQL queries to extract business KPIs
+- Exported query results for dashboarding
+- Built a fully interactive Tableau dashboard
 
 ---
 
@@ -49,7 +61,7 @@ This project analyzes synthetic sales data from a fictional UNIQLO retail enviro
     ```bash
     python3 -m venv venv
     source venv/bin/activate
-    pip install pandas sqlite3
+    pip install pandas
     ```
 
 3. **Run data pipeline**:
