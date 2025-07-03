@@ -103,5 +103,3 @@ This project demonstrates the ability to:
 - Build an end-to-end data pipeline (ETL + SQL + visualization)
 - Translate data into actionable business decisions
 - Support product management and inventory strategy with measurable insights
-
---> MORE TO BE ADDED
